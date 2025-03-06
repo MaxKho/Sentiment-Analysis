@@ -1,0 +1,767 @@
+False negatives: 
+
+Original text: @Jacknonce Sorry, the blacks I know are actually great, successful people.They aren't taken in by Dems BS. They are very smart, educated!
+Feature dictionary: {'@jacknonce': 1, 'sorry': 1, ',': 3, 'the': 1, 'blacks': 1, 'i': 1, 'know': 1, 'are': 2, 'actually': 1, 'great': 1, 'successful': 1, 'people': 1, '.': 2, 'they': 2, 'aren': 1, "'": 1, 't': 1, 'taken': 1, 'in': 1, 'by': 1, 'dems': 1, 'bs': 1, 'very': 1, 'smart': 1, 'educated': 1, '!': 1}
+Original text: I have heard it said that the 2nd G in Snoop Dogg represents extra gangsterishness, for how else do you explain this particular redundancy?
+Feature dictionary: {'i': 1, 'have': 1, 'heard': 1, 'it': 1, 'said': 1, 'that': 1, 'the': 1, '2nd': 1, 'g': 1, 'in': 1, 'snoop': 1, 'dogg': 1, 'represents': 1, 'extra': 1, 'gangsterishness': 1, ',': 1, 'for': 1, 'how': 1, 'else': 1, 'do': 1, 'you': 1, 'explain': 1, 'this': 1, 'particular': 1, 'redundancy': 1, '?': 1}
+Original text: What I love most about this is that every hag will be on DCUM tomorrow talking a t how trashy Nicki or Bey is. When clearly...#VMAs
+Feature dictionary: {'what': 1, 'i': 1, 'love': 1, 'most': 1, 'about': 1, 'this': 1, 'is': 2, 'that': 1, 'every': 1, 'hag': 1, 'will': 1, 'be': 1, 'on': 1, 'dcum': 1, 'tomorrow': 1, 'talking': 1, 'a': 1, 't': 1, 'how': 1, 'trashy': 1, 'nicki': 1, 'or': 1, 'bey': 1, '.': 1, 'when': 1, 'clearly': 1, '...#vmas': 1}
+Original text: @CassieLeuffen Chuck Norris and 10,000 people march through downtown Birmingham Saturday and @OANN doesn't cover it? Who dropped the ball?
+Feature dictionary: {'@cassieleuffen': 1, 'chuck': 1, 'norris': 1, 'and': 2, '10': 1, ',': 1, '000': 1, 'people': 1, 'march': 1, 'through': 1, 'downtown': 1, 'birmingham': 1, 'saturday': 1, '@oann': 1, 'doesn': 1, "'": 1, 't': 1, 'cover': 1, 'it': 1, '?': 2, 'who': 1, 'dropped': 1, 'the': 1, 'ball': 1}
+Original text: Any evil twins you may have won't be able to break Windows 10's facial recognition security. So that's reassuring. http://t.co/6bUshfnfen
+Feature dictionary: {'any': 1, 'evil': 1, 'twins': 1, 'you': 1, 'may': 1, 'have': 1, 'won': 1, "'": 3, 't': 1, 'be': 1, 'able': 1, 'to': 1, 'break': 1, 'windows': 1, '10': 1, 's': 2, 'facial': 1, 'recognition': 1, 'security': 1, '.': 3, 'so': 1, 'that': 1, 'reassuring': 1, 'http': 1, '://t': 1, 'co/6bushfnfen': 1}
+Original text: I will end the embargo against Cuba.
+Feature dictionary: {'i': 1, 'will': 1, 'end': 1, 'the': 1, 'embargo': 1, 'against': 1, 'cuba': 1, '.': 1}
+Original text: If you are one of the many shoppers out there wanting to take advantage of Amazon Prime Day today July 15 -... http://t.co/hbQaLKwDzV
+Feature dictionary: {'if': 1, 'you': 1, 'are': 1, 'one': 1, 'of': 2, 'the': 1, 'many': 1, 'shoppers': 1, 'out': 1, 'there': 1, 'wanting': 1, 'to': 1, 'take': 1, 'advantage': 1, 'amazon': 1, 'prime': 1, 'day': 1, 'today': 1, 'july': 1, '15': 1, '-...': 1, 'http': 1, '://t': 1, '.': 1, 'co/hbqalkwdzv': 1}
+Original text: @Ramzwi @LeutrimRexhaj If you're struggling come January and Benzema don't happen, I'd go for him, he'll give 110% for Arsenal, and score!
+Feature dictionary: {'@ramzwi': 1, '@leutrimrexhaj': 1, 'if': 1, 'you': 1, "'": 4, 're': 1, 'struggling': 1, 'come': 1, 'january': 1, 'and': 2, 'benzema': 1, 'don': 1, 't': 1, 'happen': 1, ',': 3, 'i': 1, 'd': 1, 'go': 1, 'for': 2, 'him': 1, 'he': 1, 'll': 1, 'give': 1, '110%': 1, 'arsenal': 1, 'score': 1, '!': 1}
+Original text: @storm_girl83 Gary Ablett polled 2nd or 3rd & his team finished last. Not all about the team. Jobe has improved & grown so much over the yrs
+Feature dictionary: {'@storm_girl83': 1, 'gary': 1, 'ablett': 1, 'polled': 1, '2nd': 1, 'or': 1, '3rd': 1, '&': 2, 'his': 1, 'team': 2, 'finished': 1, 'last': 1, '.': 2, 'not': 1, 'all': 1, 'about': 1, 'the': 2, 'jobe': 1, 'has': 1, 'improved': 1, 'grown': 1, 'so': 1, 'much': 1, 'over': 1, 'yrs': 1}
+Original text: A Monday without teen wolf is a Monday with less stress and anxiety
+Feature dictionary: {'a': 2, 'monday': 2, 'without': 1, 'teen': 1, 'wolf': 1, 'is': 1, 'with': 1, 'less': 1, 'stress': 1, 'and': 1, 'anxiety': 1}
+Original text: Monster jam tonight and Celtics home opener tomorrow...loveeee living walking distance from the gahhhhden #bostongirl #citychick
+Feature dictionary: {'monster': 1, 'jam': 1, 'tonight': 1, 'and': 1, 'celtics': 1, 'home': 1, 'opener': 1, 'tomorrow': 1, '...': 1, 'loveeee': 1, 'living': 1, 'walking': 1, 'distance': 1, 'from': 1, 'the': 1, 'gahhhhden': 1, '#bostongirl': 1, '#citychick': 1}
+Original text: So Adrian nearly has as many fantasy points for my team as David Price does. 35 for Adrian, 42.5 for Price.   Still only the 7th. #Rangers
+Feature dictionary: {'so': 1, 'adrian': 2, 'nearly': 1, 'has': 1, 'as': 2, 'many': 1, 'fantasy': 1, 'points': 1, 'for': 3, 'my': 1, 'team': 1, 'david': 1, 'price': 2, 'does': 1, '.': 4, '35': 1, ',': 1, '42': 1, '5': 1, 'still': 1, 'only': 1, 'the': 1, '7th': 1, '#rangers': 1}
+Original text: @EleanorJCalder Hello, Eleanor. Will you please follow my account @beacaresosa for my birthday on the 14th? please, you won't regret it.
+Feature dictionary: {'@eleanorjcalder': 1, 'hello': 1, ',': 2, 'eleanor': 1, '.': 2, 'will': 1, 'you': 2, 'please': 2, 'follow': 1, 'my': 2, 'account': 1, '@beacaresosa': 1, 'for': 1, 'birthday': 1, 'on': 1, 'the': 1, '14th': 1, '?': 1, 'won': 1, "'": 1, 't': 1, 'regret': 1, 'it': 1}
+Original text: @klgandhoda Prayers for all of you today. May God carry each one of you during this sad time "Footprints in the Sand",  RIP Frank Gifford
+Feature dictionary: {'@klgandhoda': 1, 'prayers': 1, 'for': 1, 'all': 1, 'of': 2, 'you': 2, 'today': 1, '.': 1, 'may': 1, 'god': 1, 'carry': 1, 'each': 1, 'one': 1, 'during': 1, 'this': 1, 'sad': 1, 'time': 1, '"': 1, 'footprints': 1, 'in': 1, 'the': 1, 'sand': 1, '",': 1, 'rip': 1, 'frank': 1, 'gifford': 1}
+Original text: I can and will fight for #BlackLivesMatter . However, I am white. I never will be turned down for a job because of my skin tone.4/?
+Feature dictionary: {'i': 3, 'can': 1, 'and': 1, 'will': 2, 'fight': 1, 'for': 2, '#blacklivesmatter': 1, '.': 3, 'however': 1, ',': 1, 'am': 1, 'white': 1, 'never': 1, 'be': 1, 'turned': 1, 'down': 1, 'a': 1, 'job': 1, 'because': 1, 'of': 1, 'my': 1, 'skin': 1, 'tone': 1, '4/?': 1}
+Original text: Why do people make such a big deal out of being alone on Valentine's day? Look, you may not have a lover but theres chocolate
+Feature dictionary: {'why': 1, 'do': 1, 'people': 1, 'make': 1, 'such': 1, 'a': 2, 'big': 1, 'deal': 1, 'out': 1, 'of': 1, 'being': 1, 'alone': 1, 'on': 1, 'valentine': 1, "'": 1, 's': 1, 'day': 1, '?': 1, 'look': 1, ',': 1, 'you': 1, 'may': 1, 'not': 1, 'have': 1, 'lover': 1, 'but': 1, 'theres': 1, 'chocolate': 1}
+Original text: Amazon may be cooking up a $50 tablet The Internet giant is reportedly working on new Fire tablets for the... http://t.co/yRmqFq3PxN
+Feature dictionary: {'amazon': 1, 'may': 1, 'be': 1, 'cooking': 1, 'up': 1, 'a': 1, '$50': 1, 'tablet': 1, 'the': 2, 'internet': 1, 'giant': 1, 'is': 1, 'reportedly': 1, 'working': 1, 'on': 1, 'new': 1, 'fire': 1, 'tablets': 1, 'for': 1, '...': 1, 'http': 1, '://t': 1, '.': 1, 'co/yrmqfq3pxn': 1}
+Original text: @Safeeyar yap. That's why i dont understand why they're making fun with messi's height. Do they expecting him to be a Jan Koller? Lol
+Feature dictionary: {'@safeeyar': 1, 'yap': 1, '.': 2, 'that': 1, "'": 3, 's': 2, 'why': 2, 'i': 1, 'dont': 1, 'understand': 1, 'they': 2, 're': 1, 'making': 1, 'fun': 1, 'with': 1, 'messi': 1, 'height': 1, 'do': 1, 'expecting': 1, 'him': 1, 'to': 1, 'be': 1, 'a': 1, 'jan': 1, 'koller': 1, '?': 1, 'lol': 1}
+Original text: Holla to all my bad hombres who decided to work today and get that money $$$ #blackgrinday
+Feature dictionary: {'holla': 1, 'to': 2, 'all': 1, 'my': 1, 'bad': 1, 'hombres': 1, 'who': 1, 'decided': 1, 'work': 1, 'today': 1, 'and': 1, 'get': 1, 'that': 1, 'money': 1, '$$$': 1, '#blackgrinday': 1}
+Original text: When you're about to not go to school to go see Justin.  https://t.co/yv1iJ293Ay
+Feature dictionary: {'when': 1, 'you': 1, "'": 1, 're': 1, 'about': 1, 'to': 3, 'not': 1, 'go': 2, 'school': 1, 'see': 1, 'justin': 1, '.': 2, 'https': 1, '://t': 1, 'co/yv1ij293ay': 1}
+Original text: Driving west towards Banff as the sun sets on the mountains. It's comforting to see those hills again. Home http://t.co/T0z2RX1U
+Feature dictionary: {'driving': 1, 'west': 1, 'towards': 1, 'banff': 1, 'as': 1, 'the': 2, 'sun': 1, 'sets': 1, 'on': 1, 'mountains': 1, '.': 3, 'it': 1, "'": 1, 's': 1, 'comforting': 1, 'to': 1, 'see': 1, 'those': 1, 'hills': 1, 'again': 1, 'home': 1, 'http': 1, '://t': 1, 'co/t0z2rx1u': 1}
+Original text: I'm trying to decide what I want my son to be 4 Halloween 1.Donald Trump  2.Barack Obama or 3rd Michael Jackson he could pull off all three
+Feature dictionary: {'i': 2, "'": 1, 'm': 1, 'trying': 1, 'to': 2, 'decide': 1, 'what': 1, 'want': 1, 'my': 1, 'son': 1, 'be': 1, '4': 1, 'halloween': 1, '1': 1, '.': 2, 'donald': 1, 'trump': 1, '2': 1, 'barack': 1, 'obama': 1, 'or': 1, '3rd': 1, 'michael': 1, 'jackson': 1, 'he': 1, 'could': 1, 'pull': 1, 'off': 1, 'all': 1, 'three': 1}
+Original text: Obama is good for Israel: Tens of millions of Americans will go to the polls on Tuesday to vote for a president ... http://t.co/LZZl0YhG
+Feature dictionary: {'obama': 1, 'is': 1, 'good': 1, 'for': 2, 'israel': 1, ':': 1, 'tens': 1, 'of': 2, 'millions': 1, 'americans': 1, 'will': 1, 'go': 1, 'to': 2, 'the': 1, 'polls': 1, 'on': 1, 'tuesday': 1, 'vote': 1, 'a': 1, 'president': 1, '...': 1, 'http': 1, '://t': 1, '.': 1, 'co/lzzl0yhg': 1}
+Original text: Messi was a leader yesterday when he had told Suarez & Neymar to calm down after stuff got heated. #fcblive https://t.co/KXpWb9hV1i
+Feature dictionary: {'messi': 1, 'was': 1, 'a': 1, 'leader': 1, 'yesterday': 1, 'when': 1, 'he': 1, 'had': 1, 'told': 1, 'suarez': 1, '&': 1, 'neymar': 1, 'to': 1, 'calm': 1, 'down': 1, 'after': 1, 'stuff': 1, 'got': 1, 'heated': 1, '.': 2, '#fcblive': 1, 'https': 1, '://t': 1, 'co/kxpwb9hv1i': 1}
+Original text: Teen wolf was the only thing that made my Monday's greattt  ... What do I do now
+Feature dictionary: {'teen': 1, 'wolf': 1, 'was': 1, 'the': 1, 'only': 1, 'thing': 1, 'that': 1, 'made': 1, 'my': 1, 'monday': 1, "'": 1, 's': 1, 'greattt': 1, '...': 1, 'what': 1, 'do': 2, 'i': 1, 'now': 1}
+Original text: Wow!What an eye opening piece written by Niraj Srivastava.Tony Blair for #Iraq & David Cameron for #Libya 🇱🇾 have l… https://t.co/UfGFdELKrM
+Feature dictionary: {'wow': 1, '!': 1, 'what': 1, 'an': 1, 'eye': 1, 'opening': 1, 'piece': 1, 'written': 1, 'by': 1, 'niraj': 1, 'srivastava': 1, '.': 2, 'tony': 1, 'blair': 1, 'for': 2, '#iraq': 1, '&': 1, 'david': 1, 'cameron': 1, '#libya': 1, '🇱🇾': 1, 'have': 1, 'l…': 1, 'https': 1, '://t': 1, 'co/ufgfdelkrm': 1}
+Original text: I'm going to Target today solely to look at Star Wars toys. I missed Force Friday due to filming.
+Feature dictionary: {'i': 2, "'": 1, 'm': 1, 'going': 1, 'to': 3, 'target': 1, 'today': 1, 'solely': 1, 'look': 1, 'at': 1, 'star': 1, 'wars': 1, 'toys': 1, '.': 2, 'missed': 1, 'force': 1, 'friday': 1, 'due': 1, 'filming': 1}
+Original text: Bernie Sanders may be extreme, but he honestly seems to despise poverty, racism, discrimination, war, income inequality, &amp; corrupt politics.
+Feature dictionary: {'bernie': 1, 'sanders': 1, 'may': 1, 'be': 1, 'extreme': 1, ',': 6, 'but': 1, 'he': 1, 'honestly': 1, 'seems': 1, 'to': 1, 'despise': 1, 'poverty': 1, 'racism': 1, 'discrimination': 1, 'war': 1, 'income': 1, 'inequality': 1, '&amp': 1, ';': 1, 'corrupt': 1, 'politics': 1, '.': 1}
+Original text: David Price is lucky so far...nowhere near the same guy as last Saturday
+Feature dictionary: {'david': 1, 'price': 1, 'is': 1, 'lucky': 1, 'so': 1, 'far': 1, '...': 1, 'nowhere': 1, 'near': 1, 'the': 1, 'same': 1, 'guy': 1, 'as': 1, 'last': 1, 'saturday': 1}
+Original text: i dont know if this match is live btwn Anderson&amp;Murray, but Murray take the 3rd set...he's kinda frustrated but still...Go Andy!!! #USOpen
+Feature dictionary: {'i': 1, 'dont': 1, 'know': 1, 'if': 1, 'this': 1, 'match': 1, 'is': 1, 'live': 1, 'btwn': 1, 'anderson&amp': 1, ';': 1, 'murray': 2, ',': 1, 'but': 2, 'take': 1, 'the': 1, '3rd': 1, 'set': 1, '...': 2, 'he': 1, "'": 1, 's': 1, 'kinda': 1, 'frustrated': 1, 'still': 1, 'go': 1, 'andy': 1, '!!!': 1, '#usopen': 1}
+Original text: I may not agree with her stance on Greek Debt Crisis but Angela Merkel's stand &amp; leadership against xenophobia is admirable!
+Feature dictionary: {'i': 1, 'may': 1, 'not': 1, 'agree': 1, 'with': 1, 'her': 1, 'stance': 1, 'on': 1, 'greek': 1, 'debt': 1, 'crisis': 1, 'but': 1, 'angela': 1, 'merkel': 1, "'": 1, 's': 1, 'stand': 1, '&amp': 1, ';': 1, 'leadership': 1, 'against': 1, 'xenophobia': 1, 'is': 1, 'admirable': 1, '!': 1}
+Original text: I played rugby yesterday may have broken my finger but it was definitely worth the pain the game is more fun than I remember
+Feature dictionary: {'i': 2, 'played': 1, 'rugby': 1, 'yesterday': 1, 'may': 1, 'have': 1, 'broken': 1, 'my': 1, 'finger': 1, 'but': 1, 'it': 1, 'was': 1, 'definitely': 1, 'worth': 1, 'the': 2, 'pain': 1, 'game': 1, 'is': 1, 'more': 1, 'fun': 1, 'than': 1, 'remember': 1}
+Original text: Water Pipe? stop Geo engineering =#chemtrail Fracking #Fracking would be a great start. https://t.co/17tW4kWPWW
+Feature dictionary: {'water': 1, 'pipe': 1, '?': 1, 'stop': 1, 'geo': 1, 'engineering': 1, '=#chemtrail': 1, 'fracking': 1, '#fracking': 1, 'would': 1, 'be': 1, 'a': 1, 'great': 1, 'start': 1, '.': 2, 'https': 1, '://t': 1, 'co/17tw4kwpww': 1}
+Original text: @AJWard1993 if anything it'll make it bigger. The IRA said Bloody Sunday was the best recruitment campaign they could hope for.
+Feature dictionary: {'@ajward1993': 1, 'if': 1, 'anything': 1, 'it': 2, "'": 1, 'll': 1, 'make': 1, 'bigger': 1, '.': 2, 'the': 2, 'ira': 1, 'said': 1, 'bloody': 1, 'sunday': 1, 'was': 1, 'best': 1, 'recruitment': 1, 'campaign': 1, 'they': 1, 'could': 1, 'hope': 1, 'for': 1}
+Original text: @Mark_Sanchez Here's a pic of my son before we took him to see you at Training Camp today! He's really a Sanchez too! http://t.co/MGcB7rH
+Feature dictionary: {'@mark_sanchez': 1, 'here': 1, "'": 2, 's': 2, 'a': 2, 'pic': 1, 'of': 1, 'my': 1, 'son': 1, 'before': 1, 'we': 1, 'took': 1, 'him': 1, 'to': 1, 'see': 1, 'you': 1, 'at': 1, 'training': 1, 'camp': 1, 'today': 1, '!': 2, 'he': 1, 'really': 1, 'sanchez': 1, 'too': 1, 'http': 1, '://t': 1, '.': 1, 'co/mgcb7rh': 1}
+Original text: Early upload of Minecraft, this week, since I'm going to be away from the computer essentially all day tomorrow!
+Feature dictionary: {'early': 1, 'upload': 1, 'of': 1, 'minecraft': 1, ',': 2, 'this': 1, 'week': 1, 'since': 1, 'i': 1, "'": 1, 'm': 1, 'going': 1, 'to': 1, 'be': 1, 'away': 1, 'from': 1, 'the': 1, 'computer': 1, 'essentially': 1, 'all': 1, 'day': 1, 'tomorrow': 1, '!': 1}
+Original text: Occupy Unmasked with Andrew Breitbart - Citizens United Productions http://t.co/ppVuF9K4 via @sharethis*hAPPY & CHEERY MONDAY!* LOL or NO???
+Feature dictionary: {'occupy': 1, 'unmasked': 1, 'with': 1, 'andrew': 1, 'breitbart': 1, '-': 1, 'citizens': 1, 'united': 1, 'productions': 1, 'http': 1, '://t': 1, '.': 1, 'co/ppvuf9k4': 1, 'via': 1, '@sharethis*happy': 1, '&': 1, 'cheery': 1, 'monday': 1, '!*': 1, 'lol': 1, 'or': 1, 'no': 1, '???': 1}
+Original text: Nikki Haley’s family In India Cheer Her Appointment As UN Envoy #nikkkihaley #unenvoy #unitednations #donaldtrump https://t.co/8R0ZGcfI2C
+Feature dictionary: {'nikki': 1, 'haley’s': 1, 'family': 1, 'in': 1, 'india': 1, 'cheer': 1, 'her': 1, 'appointment': 1, 'as': 1, 'un': 1, 'envoy': 1, '#nikkkihaley': 1, '#unenvoy': 1, '#unitednations': 1, '#donaldtrump': 1, 'https': 1, '://t': 1, '.': 1, 'co/8r0zgcfi2c': 1}
+Original text: @Wildraar @iankatz1000 of course it is but what's changed since May 7th? Lab need votes from Ukip and Tories to win GE. JC won't get those.
+Feature dictionary: {'@wildraar': 1, '@iankatz1000': 1, 'of': 1, 'course': 1, 'it': 1, 'is': 1, 'but': 1, 'what': 1, "'": 2, 's': 1, 'changed': 1, 'since': 1, 'may': 1, '7th': 1, '?': 1, 'lab': 1, 'need': 1, 'votes': 1, 'from': 1, 'ukip': 1, 'and': 1, 'tories': 1, 'to': 1, 'win': 1, 'ge': 1, '.': 2, 'jc': 1, 'won': 1, 't': 1, 'get': 1, 'those': 1}
+Original text: @onekybabydoll: Wisconsin don't forget to VOTE TODAY!! VOTE DEMOCRAT!! Go Wisconsin.#WIunion. Its critical to vote. GOP thinks you wont
+Feature dictionary: {'@onekybabydoll': 1, ':': 1, 'wisconsin': 2, 'don': 1, "'": 1, 't': 1, 'forget': 1, 'to': 2, 'vote': 3, 'today': 1, '!!': 2, 'democrat': 1, 'go': 1, '.#wiunion': 1, '.': 2, 'its': 1, 'critical': 1, 'gop': 1, 'thinks': 1, 'you': 1, 'wont': 1}
+Original text: @vonny_bravo yes, but wouldn't  gun control work better?
+Feature dictionary: {'@vonny_bravo': 1, 'yes': 1, ',': 1, 'but': 1, 'wouldn': 1, "'": 1, 't': 1, 'gun': 1, 'control': 1, 'work': 1, 'better': 1, '?': 1}
+Original text: Paul says even though they may not have votes to defund Planned Parenthood, 'I'm going to make them vote.'
+Feature dictionary: {'paul': 1, 'says': 1, 'even': 1, 'though': 1, 'they': 1, 'may': 1, 'not': 1, 'have': 1, 'votes': 1, 'to': 2, 'defund': 1, 'planned': 1, 'parenthood': 1, ',': 1, "'": 2, 'i': 1, 'm': 1, 'going': 1, 'make': 1, 'them': 1, 'vote': 1, ".'": 1}
+Original text: George Osborne sat giggling, sums the Torirs up, it's all a game to them #SyrianRefugees
+Feature dictionary: {'george': 1, 'osborne': 1, 'sat': 1, 'giggling': 1, ',': 2, 'sums': 1, 'the': 1, 'torirs': 1, 'up': 1, 'it': 1, "'": 1, 's': 1, 'all': 1, 'a': 1, 'game': 1, 'to': 1, 'them': 1, '#syrianrefugees': 1}
+Original text: This is all time greatest and why we all luv and hate Kanye west but he is a human that keeps the world alive #YE  https://t.co/BHoWFpGTjs
+Feature dictionary: {'this': 1, 'is': 2, 'all': 2, 'time': 1, 'greatest': 1, 'and': 2, 'why': 1, 'we': 1, 'luv': 1, 'hate': 1, 'kanye': 1, 'west': 1, 'but': 1, 'he': 1, 'a': 1, 'human': 1, 'that': 1, 'keeps': 1, 'the': 1, 'world': 1, 'alive': 1, '#ye': 1, 'https': 1, '://t': 1, '.': 1, 'co/bhowfpgtjs': 1}
+Original text: Why would you still wear shorts when it's this cold?!  I love how Britain see's a bit of sun and they're like 'OOOH LET'S STRIP!'
+Feature dictionary: {'why': 1, 'would': 1, 'you': 1, 'still': 1, 'wear': 1, 'shorts': 1, 'when': 1, 'it': 1, "'": 5, 's': 3, 'this': 1, 'cold': 1, '?!': 1, 'i': 1, 'love': 1, 'how': 1, 'britain': 1, 'see': 1, 'a': 1, 'bit': 1, 'of': 1, 'sun': 1, 'and': 1, 'they': 1, 're': 1, 'like': 1, 'oooh': 1, 'let': 1, 'strip': 1, "!'": 1}
+Original text: \"" Guys who have crushes, have little a little penis! \"" Lmfao the random shit Ambrose says in 6th prd !
+Feature dictionary: {'\\""': 2, 'guys': 1, 'who': 1, 'have': 2, 'crushes': 1, ',': 1, 'little': 2, 'a': 1, 'penis': 1, '!': 2, 'lmfao': 1, 'the': 1, 'random': 1, 'shit': 1, 'ambrose': 1, 'says': 1, 'in': 1, '6th': 1, 'prd': 1}
+Original text: \"Why America May Go To Hell\"- wish it wouldve been completed and i wish i could read the contents of it...  by MLK
+Feature dictionary: {'\\"': 1, 'why': 1, 'america': 1, 'may': 1, 'go': 1, 'to': 1, 'hell\\"-': 1, 'wish': 2, 'it': 2, 'wouldve': 1, 'been': 1, 'completed': 1, 'and': 1, 'i': 2, 'could': 1, 'read': 1, 'the': 1, 'contents': 1, 'of': 1, '...': 1, 'by': 1, 'mlk': 1}
+Original text: Was searching for Cyberpunk style movies I may not have seen and found one called NIRVANA w/Christopher Lambert. It's weird, I like it.
+Feature dictionary: {'was': 1, 'searching': 1, 'for': 1, 'cyberpunk': 1, 'style': 1, 'movies': 1, 'i': 2, 'may': 1, 'not': 1, 'have': 1, 'seen': 1, 'and': 1, 'found': 1, 'one': 1, 'called': 1, 'nirvana': 1, 'w/christopher': 1, 'lambert': 1, '.': 2, 'it': 2, "'": 1, 's': 1, 'weird': 1, ',': 1, 'like': 1}
+Original text: Zayn and Justin are both working in the studio. What if they're planning a secret collab? The world may never know! Stay tuned . . .
+Feature dictionary: {'zayn': 1, 'and': 1, 'justin': 1, 'are': 1, 'both': 1, 'working': 1, 'in': 1, 'the': 2, 'studio': 1, '.': 4, 'what': 1, 'if': 1, 'they': 1, "'": 1, 're': 1, 'planning': 1, 'a': 1, 'secret': 1, 'collab': 1, '?': 1, 'world': 1, 'may': 1, 'never': 1, 'know': 1, '!': 1, 'stay': 1, 'tuned': 1}
+Original text: I'm thankful for all of the nasty women, bad hombres and various other sub groups fighting for my rights and the... https://t.co/tH5ULIK2ft
+Feature dictionary: {'i': 1, "'": 1, 'm': 1, 'thankful': 1, 'for': 2, 'all': 1, 'of': 1, 'the': 2, 'nasty': 1, 'women': 1, ',': 1, 'bad': 1, 'hombres': 1, 'and': 2, 'various': 1, 'other': 1, 'sub': 1, 'groups': 1, 'fighting': 1, 'my': 1, 'rights': 1, '...': 1, 'https': 1, '://t': 1, '.': 1, 'co/th5ulik2ft': 1}
+Original text: @TALENTEDBLONDE @joebrusuelas Listen here hot stuff, the only thing to look forward to in January is the Ravens run to the Superbowl.
+Feature dictionary: {'@talentedblonde': 1, '@joebrusuelas': 1, 'listen': 1, 'here': 1, 'hot': 1, 'stuff': 1, ',': 1, 'the': 3, 'only': 1, 'thing': 1, 'to': 3, 'look': 1, 'forward': 1, 'in': 1, 'january': 1, 'is': 1, 'ravens': 1, 'run': 1, 'superbowl': 1, '.': 1}
+Original text: I wanna see some memes with Donald Trump and Mike Pence.Donald: youre doin such a BRILLIANT job cmon lemme give ya a kissMike: haha no...
+Feature dictionary: {'i': 1, 'wanna': 1, 'see': 1, 'some': 1, 'memes': 1, 'with': 1, 'donald': 2, 'trump': 1, 'and': 1, 'mike': 1, 'pence': 1, '.': 1, ':': 2, 'youre': 1, 'doin': 1, 'such': 1, 'a': 2, 'brilliant': 1, 'job': 1, 'cmon': 1, 'lemme': 1, 'give': 1, 'ya': 1, 'kissmike': 1, 'haha': 1, 'no': 1, '...': 1}
+Original text: Lexus may not know anything about skateboarding but science does all the talking. Back to the future was no joke!
+Feature dictionary: {'lexus': 1, 'may': 1, 'not': 1, 'know': 1, 'anything': 1, 'about': 1, 'skateboarding': 1, 'but': 1, 'science': 1, 'does': 1, 'all': 1, 'the': 2, 'talking': 1, '.': 1, 'back': 1, 'to': 1, 'future': 1, 'was': 1, 'no': 1, 'joke': 1, '!': 1}
+Original text: Tell it, Sistah! #ElizabethWarren #TrumpTransitionTeam #DrainTheSwamp https://t.co/NxPafi66iW
+Feature dictionary: {'tell': 1, 'it': 1, ',': 1, 'sistah': 1, '!': 1, '#elizabethwarren': 1, '#trumptransitionteam': 1, '#draintheswamp': 1, 'https': 1, '://t': 1, '.': 1, 'co/nxpafi66iw': 1}
+Original text: @BrothaNoompsey booo. You going to any games this weekend? David price on Saturday in the BX
+Feature dictionary: {'@brothanoompsey': 1, 'booo': 1, '.': 1, 'you': 1, 'going': 1, 'to': 1, 'any': 1, 'games': 1, 'this': 1, 'weekend': 1, '?': 1, 'david': 1, 'price': 1, 'on': 1, 'saturday': 1, 'in': 1, 'the': 1, 'bx': 1}
+Original text: we need a  Fidel Castro in Kenya  to gear up a revolution against a corrupt regime and have better health reforms #DoctorsStrike .
+Feature dictionary: {'we': 1, 'need': 1, 'a': 3, 'fidel': 1, 'castro': 1, 'in': 1, 'kenya': 1, 'to': 1, 'gear': 1, 'up': 1, 'revolution': 1, 'against': 1, 'corrupt': 1, 'regime': 1, 'and': 1, 'have': 1, 'better': 1, 'health': 1, 'reforms': 1, '#doctorsstrike': 1, '.': 1}
+Original text: Took the day off work and treated babe to some Big Biscuit and saw Ant-Man. Some Monday's aren't too bad.
+Feature dictionary: {'took': 1, 'the': 1, 'day': 1, 'off': 1, 'work': 1, 'and': 2, 'treated': 1, 'babe': 1, 'to': 1, 'some': 2, 'big': 1, 'biscuit': 1, 'saw': 1, 'ant-man': 1, '.': 2, 'monday': 1, "'": 2, 's': 1, 'aren': 1, 't': 1, 'too': 1, 'bad': 1}
+Original text: @Serious_Sound yeah that's wha I'm doing tomorrow. Your topic seems interesting as fuck. Lol my shit is on Malcolm X. But ima just
+Feature dictionary: {'@serious_sound': 1, 'yeah': 1, 'that': 1, "'": 2, 's': 1, 'wha': 1, 'i': 1, 'm': 1, 'doing': 1, 'tomorrow': 1, '.': 3, 'your': 1, 'topic': 1, 'seems': 1, 'interesting': 1, 'as': 1, 'fuck': 1, 'lol': 1, 'my': 1, 'shit': 1, 'is': 1, 'on': 1, 'malcolm': 1, 'x': 1, 'but': 1, 'ima': 1, 'just': 1}
+Original text: Some good stuff going down in Gregory Gym. 2nd place tasted terrible, ready to have that GOLD around my neck! #goforgold
+Feature dictionary: {'some': 1, 'good': 1, 'stuff': 1, 'going': 1, 'down': 1, 'in': 1, 'gregory': 1, 'gym': 1, '.': 1, '2nd': 1, 'place': 1, 'tasted': 1, 'terrible': 1, ',': 1, 'ready': 1, 'to': 1, 'have': 1, 'that': 1, 'gold': 1, 'around': 1, 'my': 1, 'neck': 1, '!': 1, '#goforgold': 1}
+Original text: @KatVonTease420  Hmm I usually don't watch B/G shows but I may have to make an exception for something like that ;)
+Feature dictionary: {'@katvontease420': 1, 'hmm': 1, 'i': 2, 'usually': 1, 'don': 1, "'": 1, 't': 1, 'watch': 1, 'b/g': 1, 'shows': 1, 'but': 1, 'may': 1, 'have': 1, 'to': 1, 'make': 1, 'an': 1, 'exception': 1, 'for': 1, 'something': 1, 'like': 1, 'that': 1, ';)': 1}
+Original text: Doing the stairs to the 4th floor of the Paley library will keep you in shape. #steep
+Feature dictionary: {'doing': 1, 'the': 3, 'stairs': 1, 'to': 1, '4th': 1, 'floor': 1, 'of': 1, 'paley': 1, 'library': 1, 'will': 1, 'keep': 1, 'you': 1, 'in': 1, 'shape': 1, '.': 1, '#steep': 1}
+Original text: @TomFoolery52 yes. I am the Remus Lupin of werebears. Just watch out at the next full moon. I may once again attempt to steal your honey...
+Feature dictionary: {'@tomfoolery52': 1, 'yes': 1, '.': 3, 'i': 2, 'am': 1, 'the': 2, 'remus': 1, 'lupin': 1, 'of': 1, 'werebears': 1, 'just': 1, 'watch': 1, 'out': 1, 'at': 1, 'next': 1, 'full': 1, 'moon': 1, 'may': 1, 'once': 1, 'again': 1, 'attempt': 1, 'to': 1, 'steal': 1, 'your': 1, 'honey': 1, '...': 1}
+Original text: This Sunday is Daylight Savings Time so you better not miss school the next day for missing the time setting party
+Feature dictionary: {'this': 1, 'sunday': 1, 'is': 1, 'daylight': 1, 'savings': 1, 'time': 2, 'so': 1, 'you': 1, 'better': 1, 'not': 1, 'miss': 1, 'school': 1, 'the': 2, 'next': 1, 'day': 1, 'for': 1, 'missing': 1, 'setting': 1, 'party': 1}
+Original text: Shaker is going to have school tomorrow. There's no doubt about that... The really question is, am I gonna go??
+Feature dictionary: {'shaker': 1, 'is': 2, 'going': 1, 'to': 1, 'have': 1, 'school': 1, 'tomorrow': 1, '.': 1, 'there': 1, "'": 1, 's': 1, 'no': 1, 'doubt': 1, 'about': 1, 'that': 1, '...': 1, 'the': 1, 'really': 1, 'question': 1, ',': 1, 'am': 1, 'i': 1, 'gonna': 1, 'go': 1, '??': 1}
+Original text: @WeAreFarmers Saw the @KaseyKahne #Firesuit commercial during the break, couldn't stop laughing. Saw it 1st at the Farmers display at LVMS.
+Feature dictionary: {'@wearefarmers': 1, 'saw': 2, 'the': 3, '@kaseykahne': 1, '#firesuit': 1, 'commercial': 1, 'during': 1, 'break': 1, ',': 1, 'couldn': 1, "'": 1, 't': 1, 'stop': 1, 'laughing': 1, '.': 2, 'it': 1, '1st': 1, 'at': 2, 'farmers': 1, 'display': 1, 'lvms': 1}
+Original text: Down to 2 at the final table. Merson and Sylvia. No shame for the kid Balsiger. 3rd place and $3.8 million is great for the 21 yr old.
+Feature dictionary: {'down': 1, 'to': 1, '2': 1, 'at': 1, 'the': 3, 'final': 1, 'table': 1, '.': 5, 'merson': 1, 'and': 2, 'sylvia': 1, 'no': 1, 'shame': 1, 'for': 2, 'kid': 1, 'balsiger': 1, '3rd': 1, 'place': 1, '$3': 1, '8': 1, 'million': 1, 'is': 1, 'great': 1, '21': 1, 'yr': 1, 'old': 1}
+Original text: Don't hide under your desk! It's just a salsa bomb that we'll be dropping on the Metroplex tomorrow. Fresh salsa delivery imminent! #yum
+Feature dictionary: {'don': 1, "'": 3, 't': 1, 'hide': 1, 'under': 1, 'your': 1, 'desk': 1, '!': 2, 'it': 1, 's': 1, 'just': 1, 'a': 1, 'salsa': 2, 'bomb': 1, 'that': 1, 'we': 1, 'll': 1, 'be': 1, 'dropping': 1, 'on': 1, 'the': 1, 'metroplex': 1, 'tomorrow': 1, '.': 1, 'fresh': 1, 'delivery': 1, 'imminent': 1, '#yum': 1}
+Original text: @Mapher1 Internet came back Tuesday night. Still some Power out in the area but schools are back up and running
+Feature dictionary: {'@mapher1': 1, 'internet': 1, 'came': 1, 'back': 2, 'tuesday': 1, 'night': 1, '.': 1, 'still': 1, 'some': 1, 'power': 1, 'out': 1, 'in': 1, 'the': 1, 'area': 1, 'but': 1, 'schools': 1, 'are': 1, 'up': 1, 'and': 1, 'running': 1}
+Original text: @eldermars Easy to have a couple extra wins when BYU has played the 31st ranked schedule compared to Utah, who's played the 3rd. #Sagarin
+Feature dictionary: {'@eldermars': 1, 'easy': 1, 'to': 2, 'have': 1, 'a': 1, 'couple': 1, 'extra': 1, 'wins': 1, 'when': 1, 'byu': 1, 'has': 1, 'played': 2, 'the': 2, '31st': 1, 'ranked': 1, 'schedule': 1, 'compared': 1, 'utah': 1, ',': 1, 'who': 1, "'": 1, 's': 1, '3rd': 1, '.': 1, '#sagarin': 1}
+Original text: I wonder what alli Simpson would look like without all that make up on. C'mon she's 14 and wears all that make up. I mean it looks good..
+Feature dictionary: {'i': 2, 'wonder': 1, 'what': 1, 'alli': 1, 'simpson': 1, 'would': 1, 'look': 1, 'like': 1, 'without': 1, 'all': 2, 'that': 2, 'make': 2, 'up': 2, 'on': 1, '.': 2, 'c': 1, "'": 2, 'mon': 1, 'she': 1, 's': 1, '14': 1, 'and': 1, 'wears': 1, 'mean': 1, 'it': 1, 'looks': 1, 'good': 1, '..': 1}
+Original text: Don't miss this opportunity to participate in the next round of Center Stage tours. Nominations due November 15.... http://t.co/2YjzIhTE
+Feature dictionary: {'don': 1, "'": 1, 't': 1, 'miss': 1, 'this': 1, 'opportunity': 1, 'to': 1, 'participate': 1, 'in': 1, 'the': 1, 'next': 1, 'round': 1, 'of': 1, 'center': 1, 'stage': 1, 'tours': 1, '.': 2, 'nominations': 1, 'due': 1, 'november': 1, '15': 1, '....': 1, 'http': 1, '://t': 1, 'co/2yjzihte': 1}
+Original text: @byrnekatelyn hahah, ugh.. you win this time, #igiveuppp what happens in iona, stays in ionaa! sooooo see yas saturday hahah?
+Feature dictionary: {'@byrnekatelyn': 1, 'hahah': 2, ',': 3, 'ugh': 1, '..': 1, 'you': 1, 'win': 1, 'this': 1, 'time': 1, '#igiveuppp': 1, 'what': 1, 'happens': 1, 'in': 2, 'iona': 1, 'stays': 1, 'ionaa': 1, '!': 1, 'sooooo': 1, 'see': 1, 'yas': 1, 'saturday': 1, '?': 1}
+Original text: @SSalo316 as in Colton? Lol but okayyy (: lemme know. I may be living in the library tonight studying for this exam :/
+Feature dictionary: {'@ssalo316': 1, 'as': 1, 'in': 2, 'colton': 1, '?': 1, 'lol': 1, 'but': 1, 'okayyy': 1, '(:': 1, 'lemme': 1, 'know': 1, '.': 1, 'i': 1, 'may': 1, 'be': 1, 'living': 1, 'the': 1, 'library': 1, 'tonight': 1, 'studying': 1, 'for': 1, 'this': 1, 'exam': 1, ':/': 1}
+Original text: Tomorrow, Sylvia and Damien have my full attention. #StoryTime with @Rouge_Mort
+Feature dictionary: {'tomorrow': 1, ',': 1, 'sylvia': 1, 'and': 1, 'damien': 1, 'have': 1, 'my': 1, 'full': 1, 'attention': 1, '.': 1, '#storytime': 1, 'with': 1, '@rouge_mort': 1}
+Original text: I really want to hang out with oomf tomorrow
+Feature dictionary: {'i': 1, 'really': 1, 'want': 1, 'to': 1, 'hang': 1, 'out': 1, 'with': 1, 'oomf': 1, 'tomorrow': 1}
+Original text: @charlieismemate Sweden eh? How'd that come about? Not yet, SXSW will b n March. When is ur behind coming 2 the U.S.? ;) How's the little 1?
+Feature dictionary: {'@charlieismemate': 1, 'sweden': 1, 'eh': 1, '?': 3, 'how': 2, "'": 2, 'd': 1, 'that': 1, 'come': 1, 'about': 1, 'not': 1, 'yet': 1, ',': 1, 'sxsw': 1, 'will': 1, 'b': 1, 'n': 1, 'march': 1, '.': 2, 'when': 1, 'is': 1, 'ur': 1, 'behind': 1, 'coming': 1, '2': 1, 'the': 2, 'u': 1, 's': 2, '.?': 1, ';)': 1, 'little': 1, '1': 1}
+Original text: @IBGDRGN @Realtaeyang 1st time GD oppa praised VIPs in public,1st time other countries VIP jealous with M'sia VIP..and many many more...
+Feature dictionary: {'@ibgdrgn': 1, '@realtaeyang': 1, '1st': 2, 'time': 2, 'gd': 1, 'oppa': 1, 'praised': 1, 'vips': 1, 'in': 1, 'public': 1, ',': 1, 'other': 1, 'countries': 1, 'vip': 2, 'jealous': 1, 'with': 1, 'm': 1, "'": 1, 'sia': 1, '..': 1, 'and': 1, 'many': 2, 'more': 1, '...': 1}
+Original text: Story: The Houstons premieres tonight. Bobbi Kristina, who may or may NOT have gotten engaged to her brother. <- Cats outta the bag #Engaged
+Feature dictionary: {'story': 1, ':': 1, 'the': 2, 'houstons': 1, 'premieres': 1, 'tonight': 1, '.': 2, 'bobbi': 1, 'kristina': 1, ',': 1, 'who': 1, 'may': 2, 'or': 1, 'not': 1, 'have': 1, 'gotten': 1, 'engaged': 1, 'to': 1, 'her': 1, 'brother': 1, '<-': 1, 'cats': 1, 'outta': 1, 'bag': 1, '#engaged': 1}
+Original text: I think I may try the Sydney Dalton diet..wish me luck
+Feature dictionary: {'i': 2, 'think': 1, 'may': 1, 'try': 1, 'the': 1, 'sydney': 1, 'dalton': 1, 'diet': 1, '..': 1, 'wish': 1, 'me': 1, 'luck': 1}
+Original text: I may or may not have gone all the way to Hot Springs just for this.. #noshamenogame #ilovefood http://t.co/eYtWMExJ
+Feature dictionary: {'i': 1, 'may': 2, 'or': 1, 'not': 1, 'have': 1, 'gone': 1, 'all': 1, 'the': 1, 'way': 1, 'to': 1, 'hot': 1, 'springs': 1, 'just': 1, 'for': 1, 'this': 1, '..': 1, '#noshamenogame': 1, '#ilovefood': 1, 'http': 1, '://t': 1, '.': 1, 'co/eytwmexj': 1}
+Original text: Best shit i heard all day ESPN SC NFL - Locked-out officials may return to field soon after positive negotiations, Chris Mortensen
+Feature dictionary: {'best': 1, 'shit': 1, 'i': 1, 'heard': 1, 'all': 1, 'day': 1, 'espn': 1, 'sc': 1, 'nfl': 1, '-': 1, 'locked-out': 1, 'officials': 1, 'may': 1, 'return': 1, 'to': 1, 'field': 1, 'soon': 1, 'after': 1, 'positive': 1, 'negotiations': 1, ',': 1, 'chris': 1, 'mortensen': 1}
+Original text: @seekmagicblog no drink the world - not even tea - can beat the taste and feeling of a first few gulps of a 1st beer when you really want it
+Feature dictionary: {'@seekmagicblog': 1, 'no': 1, 'drink': 1, 'the': 2, 'world': 1, '-': 2, 'not': 1, 'even': 1, 'tea': 1, 'can': 1, 'beat': 1, 'taste': 1, 'and': 1, 'feeling': 1, 'of': 2, 'a': 2, 'first': 1, 'few': 1, 'gulps': 1, '1st': 1, 'beer': 1, 'when': 1, 'you': 1, 'really': 1, 'want': 1, 'it': 1}
+Original text: @firecore Can you tell me when an update for the Apple TV 3rd gen becomes available? The missing update holds me back from buying #appletv3
+Feature dictionary: {'@firecore': 1, 'can': 1, 'you': 1, 'tell': 1, 'me': 2, 'when': 1, 'an': 1, 'update': 2, 'for': 1, 'the': 2, 'apple': 1, 'tv': 1, '3rd': 1, 'gen': 1, 'becomes': 1, 'available': 1, '?': 1, 'missing': 1, 'holds': 1, 'back': 1, 'from': 1, 'buying': 1, '#appletv3': 1}
+Original text: I may be considering wearing my polka dot #48 shorts with the Knaus tee shirt in an attempt to stay cool today. #Lowes48
+Feature dictionary: {'i': 1, 'may': 1, 'be': 1, 'considering': 1, 'wearing': 1, 'my': 1, 'polka': 1, 'dot': 1, '#48': 1, 'shorts': 1, 'with': 1, 'the': 1, 'knaus': 1, 'tee': 1, 'shirt': 1, 'in': 1, 'an': 1, 'attempt': 1, 'to': 1, 'stay': 1, 'cool': 1, 'today': 1, '.': 1, '#lowes48': 1}
+Original text: @ElementaryForce @LadyUpminster true re family backgrounds, which brings us to the lessons of Tia Sharp & Social Services etc. April's dad?
+Feature dictionary: {'@elementaryforce': 1, '@ladyupminster': 1, 'true': 1, 're': 1, 'family': 1, 'backgrounds': 1, ',': 1, 'which': 1, 'brings': 1, 'us': 1, 'to': 1, 'the': 1, 'lessons': 1, 'of': 1, 'tia': 1, 'sharp': 1, '&': 1, 'social': 1, 'services': 1, 'etc': 1, '.': 1, 'april': 1, "'": 1, 's': 1, 'dad': 1, '?': 1}
+Original text: UK vs SC game Sat at 7pm. Only on CBS College Sports. Channel 256 in the Preferred tier in Bremen&Brooks. Call 855-55-CABLE & upgrade! #fb
+Feature dictionary: {'uk': 1, 'vs': 1, 'sc': 1, 'game': 1, 'sat': 1, 'at': 1, '7pm': 1, '.': 3, 'only': 1, 'on': 1, 'cbs': 1, 'college': 1, 'sports': 1, 'channel': 1, '256': 1, 'in': 2, 'the': 1, 'preferred': 1, 'tier': 1, 'bremen&brooks': 1, 'call': 1, '855-55-cable': 1, '&': 1, 'upgrade': 1, '!': 1, '#fb': 1}
+Original text: Come and join us @'Free to Be' Women's Day @HTBChurch with @mercyministries on Nov 3rd - Dealing with anxieties, addictions, abuse, hurts...
+Feature dictionary: {'come': 1, 'and': 1, 'join': 1, 'us': 1, "@'": 1, 'free': 1, 'to': 1, 'be': 1, "'": 2, 'women': 1, 's': 1, 'day': 1, '@htbchurch': 1, 'with': 2, '@mercyministries': 1, 'on': 1, 'nov': 1, '3rd': 1, '-': 1, 'dealing': 1, 'anxieties': 1, ',': 3, 'addictions': 1, 'abuse': 1, 'hurts': 1, '...': 1}
+Original text: Forget league's Super Saturday, @cnn has Super Storm Sandy. Name aside the coverage has been first class
+Feature dictionary: {'forget': 1, 'league': 1, "'": 1, 's': 1, 'super': 2, 'saturday': 1, ',': 1, '@cnn': 1, 'has': 2, 'storm': 1, 'sandy': 1, '.': 1, 'name': 1, 'aside': 1, 'the': 1, 'coverage': 1, 'been': 1, 'first': 1, 'class': 1}
+Original text: As if @richardm56 is at centre point, may have to nip round the corner and stalk his fine ass #guiltypleasure
+Feature dictionary: {'as': 1, 'if': 1, '@richardm56': 1, 'is': 1, 'at': 1, 'centre': 1, 'point': 1, ',': 1, 'may': 1, 'have': 1, 'to': 1, 'nip': 1, 'round': 1, 'the': 1, 'corner': 1, 'and': 1, 'stalk': 1, 'his': 1, 'fine': 1, 'ass': 1, '#guiltypleasure': 1}
+Original text: Just back from pre-season. Legs are knackered. Now going to watch the  2nd leg of the Europa League Liverpool v FC Gomel.........!!!x
+Feature dictionary: {'just': 1, 'back': 1, 'from': 1, 'pre-season': 1, '.': 2, 'legs': 1, 'are': 1, 'knackered': 1, 'now': 1, 'going': 1, 'to': 1, 'watch': 1, 'the': 2, '2nd': 1, 'leg': 1, 'of': 1, 'europa': 1, 'league': 1, 'liverpool': 1, 'v': 1, 'fc': 1, 'gomel': 1, '.........!!!': 1, 'x': 1}
+Original text: ...woah, Deezer. Babel only came out on Monday, can you leave it up for longer than a day to give slow people like me a chance?
+Feature dictionary: {'...': 1, 'woah': 1, ',': 2, 'deezer': 1, '.': 1, 'babel': 1, 'only': 1, 'came': 1, 'out': 1, 'on': 1, 'monday': 1, 'can': 1, 'you': 1, 'leave': 1, 'it': 1, 'up': 1, 'for': 1, 'longer': 1, 'than': 1, 'a': 2, 'day': 1, 'to': 1, 'give': 1, 'slow': 1, 'people': 1, 'like': 1, 'me': 1, 'chance': 1, '?': 1}
+Original text: @tara_smiles Not bad. I think Cena will wear the green merch for 2 weeks after tomorrow. We will get new swag at Survivor Series.
+Feature dictionary: {'@tara_smiles': 1, 'not': 1, 'bad': 1, '.': 3, 'i': 1, 'think': 1, 'cena': 1, 'will': 2, 'wear': 1, 'the': 1, 'green': 1, 'merch': 1, 'for': 1, '2': 1, 'weeks': 1, 'after': 1, 'tomorrow': 1, 'we': 1, 'get': 1, 'new': 1, 'swag': 1, 'at': 1, 'survivor': 1, 'series': 1}
+Original text: Day 3 of PSSAs (state tests for 11th grade). Test questions and sci scenarios vary greatly; shouldn't they be taking the same exam? #pssa
+Feature dictionary: {'day': 1, '3': 1, 'of': 1, 'pssas': 1, '(': 1, 'state': 1, 'tests': 1, 'for': 1, '11th': 1, 'grade': 1, ').': 1, 'test': 1, 'questions': 1, 'and': 1, 'sci': 1, 'scenarios': 1, 'vary': 1, 'greatly': 1, ';': 1, 'shouldn': 1, "'": 1, 't': 1, 'they': 1, 'be': 1, 'taking': 1, 'the': 1, 'same': 1, 'exam': 1, '?': 1, '#pssa': 1}
+Original text: Interactive TV may be the next big thing, but what are your real life thoughts on Apple TV? #iwishitwerebetter...shhh http://t.co/rXIvyAwC
+Feature dictionary: {'interactive': 1, 'tv': 2, 'may': 1, 'be': 1, 'the': 1, 'next': 1, 'big': 1, 'thing': 1, ',': 1, 'but': 1, 'what': 1, 'are': 1, 'your': 1, 'real': 1, 'life': 1, 'thoughts': 1, 'on': 1, 'apple': 1, '?': 1, '#iwishitwerebetter': 1, '...': 1, 'shhh': 1, 'http': 1, '://t': 1, '.': 1, 'co/rxivyawc': 1}
+Original text: @GotMalkin tickets are cheap at least. And c'mon, you don't get that many chances to see and possibly meet Mario Lemieux
+Feature dictionary: {'@gotmalkin': 1, 'tickets': 1, 'are': 1, 'cheap': 1, 'at': 1, 'least': 1, '.': 1, 'and': 2, 'c': 1, "'": 2, 'mon': 1, ',': 1, 'you': 1, 'don': 1, 't': 1, 'get': 1, 'that': 1, 'many': 1, 'chances': 1, 'to': 1, 'see': 1, 'possibly': 1, 'meet': 1, 'mario': 1, 'lemieux': 1}
+Original text: It's lookin up for the NFL! According to ESPN's Chris Mortensen, locked out officials may soon be back on the field.
+Feature dictionary: {'it': 1, "'": 2, 's': 2, 'lookin': 1, 'up': 1, 'for': 1, 'the': 2, 'nfl': 1, '!': 1, 'according': 1, 'to': 1, 'espn': 1, 'chris': 1, 'mortensen': 1, ',': 1, 'locked': 1, 'out': 1, 'officials': 1, 'may': 1, 'soon': 1, 'be': 1, 'back': 1, 'on': 1, 'field': 1, '.': 1}
+Original text: @mg_indy Reggie Wayne got rocked at the goalline Sunday & the other team tried to help him up & he wouldn't let them. Thats what I wanna see
+Feature dictionary: {'@mg_indy': 1, 'reggie': 1, 'wayne': 1, 'got': 1, 'rocked': 1, 'at': 1, 'the': 2, 'goalline': 1, 'sunday': 1, '&': 2, 'other': 1, 'team': 1, 'tried': 1, 'to': 1, 'help': 1, 'him': 1, 'up': 1, 'he': 1, 'wouldn': 1, "'": 1, 't': 1, 'let': 1, 'them': 1, '.': 1, 'thats': 1, 'what': 1, 'i': 1, 'wanna': 1, 'see': 1}
+Original text: Alli Simpson. They may just be two normal words to you. But they mean the world to me. @AlliSimpson
+Feature dictionary: {'alli': 1, 'simpson': 1, '.': 3, 'they': 2, 'may': 1, 'just': 1, 'be': 1, 'two': 1, 'normal': 1, 'words': 1, 'to': 2, 'you': 1, 'but': 1, 'mean': 1, 'the': 1, 'world': 1, 'me': 1, '@allisimpson': 1}
+Original text: Miles just hit a 3, matched by Gerald Green...Indy is a deep team...good test for Cavs tonight...down 3 half way thru 2nd..Waiters returning
+Feature dictionary: {'miles': 1, 'just': 1, 'hit': 1, 'a': 2, '3': 2, ',': 1, 'matched': 1, 'by': 1, 'gerald': 1, 'green': 1, '...': 3, 'indy': 1, 'is': 1, 'deep': 1, 'team': 1, 'good': 1, 'test': 1, 'for': 1, 'cavs': 1, 'tonight': 1, 'down': 1, 'half': 1, 'way': 1, 'thru': 1, '2nd': 1, '..': 1, 'waiters': 1, 'returning': 1}
+Original text: I was just informed that DST is on Sunday? Spring ahead, FALL BACK! *hops on organ*
+Feature dictionary: {'i': 1, 'was': 1, 'just': 1, 'informed': 1, 'that': 1, 'dst': 1, 'is': 1, 'on': 2, 'sunday': 1, '?': 1, 'spring': 1, 'ahead': 1, ',': 1, 'fall': 1, 'back': 1, '!': 1, '*hops': 1, 'organ*': 1}
+Original text: Why Mulayam Singh Yadav's Samajwadi Party may not dump the Congress after all
+Feature dictionary: {'why': 1, 'mulayam': 1, 'singh': 1, 'yadav': 1, "'": 1, 's': 1, 'samajwadi': 1, 'party': 1, 'may': 1, 'not': 1, 'dump': 1, 'the': 1, 'congress': 1, 'after': 1, 'all': 1}
+Original text: Ya i was wondering wha that was lolRT @DavidWildWest: So I may have just seen a UFO. anyone else in Mboro see those crazy lights in the sky?
+Feature dictionary: {'ya': 1, 'i': 2, 'was': 2, 'wondering': 1, 'wha': 1, 'that': 1, 'lolrt': 1, '@davidwildwest': 1, ':': 1, 'so': 1, 'may': 1, 'have': 1, 'just': 1, 'seen': 1, 'a': 1, 'ufo': 1, '.': 1, 'anyone': 1, 'else': 1, 'in': 2, 'mboro': 1, 'see': 1, 'those': 1, 'crazy': 1, 'lights': 1, 'the': 1, 'sky': 1, '?': 1}
+Original text: I'm just waiting until Thursday. I won't be at school. I'll be at the Smith Center the entire day. FUCK YEAHHHH
+Feature dictionary: {'i': 3, "'": 3, 'm': 1, 'just': 1, 'waiting': 1, 'until': 1, 'thursday': 1, '.': 3, 'won': 1, 't': 1, 'be': 2, 'at': 2, 'school': 1, 'll': 1, 'the': 2, 'smith': 1, 'center': 1, 'entire': 1, 'day': 1, 'fuck': 1, 'yeahhhh': 1}
+Original text: Biggie Smalls sounds SO good 1st thing in the morn. Still tired but in a much better mood. *throw hands in the air, like I'm a true playa*
+Feature dictionary: {'biggie': 1, 'smalls': 1, 'sounds': 1, 'so': 1, 'good': 1, '1st': 1, 'thing': 1, 'in': 3, 'the': 2, 'morn': 1, '.': 2, 'still': 1, 'tired': 1, 'but': 1, 'a': 2, 'much': 1, 'better': 1, 'mood': 1, '*throw': 1, 'hands': 1, 'air': 1, ',': 1, 'like': 1, 'i': 1, "'": 1, 'm': 1, 'true': 1, 'playa*': 1}
+Original text: The spurs may have won the battle, but not the war!
+Feature dictionary: {'the': 3, 'spurs': 1, 'may': 1, 'have': 1, 'won': 1, 'battle': 1, ',': 1, 'but': 1, 'not': 1, 'war': 1, '!': 1}
+Original text: Idk bout your Saturday but damn mine was the shit...and I didn't even got to Jouvert
+Feature dictionary: {'idk': 1, 'bout': 1, 'your': 1, 'saturday': 1, 'but': 1, 'damn': 1, 'mine': 1, 'was': 1, 'the': 1, 'shit': 1, '...': 1, 'and': 1, 'i': 1, 'didn': 1, "'": 1, 't': 1, 'even': 1, 'got': 1, 'to': 1, 'jouvert': 1}
+Original text: Now here is where conservative Arabs and conservative Jews may come to terms.  Abortion.  The Gaza strip may solve it all by itself.
+Feature dictionary: {'now': 1, 'here': 1, 'is': 1, 'where': 1, 'conservative': 2, 'arabs': 1, 'and': 1, 'jews': 1, 'may': 2, 'come': 1, 'to': 1, 'terms': 1, '.': 3, 'abortion': 1, 'the': 1, 'gaza': 1, 'strip': 1, 'solve': 1, 'it': 1, 'all': 1, 'by': 1, 'itself': 1}
+Original text: Fly Madness: William Hill now 5/4 (real price is 4/6) about Hurricane Fly wins Champion Hurdle next Tuesday.
+Feature dictionary: {'fly': 2, 'madness': 1, ':': 1, 'william': 1, 'hill': 1, 'now': 1, '5/4': 1, '(': 1, 'real': 1, 'price': 1, 'is': 1, '4/6': 1, ')': 1, 'about': 1, 'hurricane': 1, 'wins': 1, 'champion': 1, 'hurdle': 1, 'next': 1, 'tuesday': 1, '.': 1}
+Original text: @kellymonaco1 why are you and Michael Easton so perfect? i mean what's that about?
+Feature dictionary: {'@kellymonaco1': 1, 'why': 1, 'are': 1, 'you': 1, 'and': 1, 'michael': 1, 'easton': 1, 'so': 1, 'perfect': 1, '?': 2, 'i': 1, 'mean': 1, 'what': 1, "'": 1, 's': 1, 'that': 1, 'about': 1}
+Original text: Her is a Chevy Spark in Dons favorite color.  I may joke, but this color sells out as soon as the dealer gets... http://t.co/kLn7KSdr
+Feature dictionary: {'her': 1, 'is': 1, 'a': 1, 'chevy': 1, 'spark': 1, 'in': 1, 'dons': 1, 'favorite': 1, 'color': 2, '.': 2, 'i': 1, 'may': 1, 'joke': 1, ',': 1, 'but': 1, 'this': 1, 'sells': 1, 'out': 1, 'as': 2, 'soon': 1, 'the': 1, 'dealer': 1, 'gets': 1, '...': 1, 'http': 1, '://t': 1, 'co/kln7ksdr': 1}
+Original text: IRG may be laughing all the way to the bank but USAID has done next to zilch for Pakistani power consumers. http://t.co/jKZ4XbeA
+Feature dictionary: {'irg': 1, 'may': 1, 'be': 1, 'laughing': 1, 'all': 1, 'the': 2, 'way': 1, 'to': 2, 'bank': 1, 'but': 1, 'usaid': 1, 'has': 1, 'done': 1, 'next': 1, 'zilch': 1, 'for': 1, 'pakistani': 1, 'power': 1, 'consumers': 1, '.': 2, 'http': 1, '://t': 1, 'co/jkz4xbea': 1}
+Original text: Just because the sun isn't out doesn't mean you can't get your tan on ! Come by Hollywood Tans and check out the specials !!!!
+Feature dictionary: {'just': 1, 'because': 1, 'the': 2, 'sun': 1, 'isn': 1, "'": 3, 't': 3, 'out': 2, 'doesn': 1, 'mean': 1, 'you': 1, 'can': 1, 'get': 1, 'your': 1, 'tan': 1, 'on': 1, '!': 1, 'come': 1, 'by': 1, 'hollywood': 1, 'tans': 1, 'and': 1, 'check': 1, 'specials': 1, '!!!!': 1}
+Original text: @MezaJudy thats it, I'm calling you out. we're gonna fight. be at calle 116 at 9:55 pm on friday, if you don't show then i win by default.
+Feature dictionary: {'@mezajudy': 1, 'thats': 1, 'it': 1, ',': 2, 'i': 2, "'": 3, 'm': 1, 'calling': 1, 'you': 2, 'out': 1, '.': 3, 'we': 1, 're': 1, 'gonna': 1, 'fight': 1, 'be': 1, 'at': 2, 'calle': 1, '116': 1, '9': 1, ':': 1, '55': 1, 'pm': 1, 'on': 1, 'friday': 1, 'if': 1, 'don': 1, 't': 1, 'show': 1, 'then': 1, 'win': 1, 'by': 1, 'default': 1}
+Original text: James Meredith on this 30 for 30... The 1st black student at Ole Miss... Well... Thats the definition of a real nigga w/ balls.
+Feature dictionary: {'james': 1, 'meredith': 1, 'on': 1, 'this': 1, '30': 2, 'for': 1, '...': 3, 'the': 2, '1st': 1, 'black': 1, 'student': 1, 'at': 1, 'ole': 1, 'miss': 1, 'well': 1, 'thats': 1, 'definition': 1, 'of': 1, 'a': 1, 'real': 1, 'nigga': 1, 'w/': 1, 'balls': 1, '.': 1}
+Original text: Return of Chicago's beloved son, Derrick Rose, will be February 28 at home v 76ers. Same team same floor. 1 day before 10 months #justaguess
+Feature dictionary: {'return': 1, 'of': 1, 'chicago': 1, "'": 1, 's': 1, 'beloved': 1, 'son': 1, ',': 2, 'derrick': 1, 'rose': 1, 'will': 1, 'be': 1, 'february': 1, '28': 1, 'at': 1, 'home': 1, 'v': 1, '76ers': 1, '.': 2, 'same': 2, 'team': 1, 'floor': 1, '1': 1, 'day': 1, 'before': 1, '10': 1, 'months': 1, '#justaguess': 1}
+Original text: Ok, can anyone answer if when 1D will come to the Philippines? Cause my cousin told me this dec. 21 and shes not sure. Please answer me..
+Feature dictionary: {'ok': 1, ',': 1, 'can': 1, 'anyone': 1, 'answer': 2, 'if': 1, 'when': 1, '1d': 1, 'will': 1, 'come': 1, 'to': 1, 'the': 1, 'philippines': 1, '?': 1, 'cause': 1, 'my': 1, 'cousin': 1, 'told': 1, 'me': 2, 'this': 1, 'dec': 1, '.': 2, '21': 1, 'and': 1, 'shes': 1, 'not': 1, 'sure': 1, 'please': 1, '..': 1}
+Original text: See ya in Victory Lane Jan 1..no more twitter vx your one of the best things in my life ...try not to be mean GBU
+Feature dictionary: {'see': 1, 'ya': 1, 'in': 2, 'victory': 1, 'lane': 1, 'jan': 1, '1': 1, '..': 1, 'no': 1, 'more': 1, 'twitter': 1, 'vx': 1, 'your': 1, 'one': 1, 'of': 1, 'the': 1, 'best': 1, 'things': 1, 'my': 1, 'life': 1, '...': 1, 'try': 1, 'not': 1, 'to': 1, 'be': 1, 'mean': 1, 'gbu': 1}
+Original text: St. Patrick's gaa are doing a fundraising clothes collection day on Nov 13th if you want to get rid of any old clothes give me a call.
+Feature dictionary: {'st': 1, '.': 2, 'patrick': 1, "'": 1, 's': 1, 'gaa': 1, 'are': 1, 'doing': 1, 'a': 2, 'fundraising': 1, 'clothes': 2, 'collection': 1, 'day': 1, 'on': 1, 'nov': 1, '13th': 1, 'if': 1, 'you': 1, 'want': 1, 'to': 1, 'get': 1, 'rid': 1, 'of': 1, 'any': 1, 'old': 1, 'give': 1, 'me': 1, 'call': 1}
+Original text: Just thought about the fact that I'm now a Junior. PSAT, PSSA, SAT's, Benchmarks, Benchmarks, Homework and, Prom. Wow. #Classof2014
+Feature dictionary: {'just': 1, 'thought': 1, 'about': 1, 'the': 1, 'fact': 1, 'that': 1, 'i': 1, "'": 2, 'm': 1, 'now': 1, 'a': 1, 'junior': 1, '.': 3, 'psat': 1, ',': 6, 'pssa': 1, 'sat': 1, 's': 1, 'benchmarks': 2, 'homework': 1, 'and': 1, 'prom': 1, 'wow': 1, '#classof2014': 1}
+Original text: @bonn_beau noooo:( but it wasn't te official party but Tuesday at Moomba hopefully well win something
+Feature dictionary: {'@bonn_beau': 1, 'noooo': 1, ':(': 1, 'but': 2, 'it': 1, 'wasn': 1, "'": 1, 't': 1, 'te': 1, 'official': 1, 'party': 1, 'tuesday': 1, 'at': 1, 'moomba': 1, 'hopefully': 1, 'well': 1, 'win': 1, 'something': 1}
+Original text: Wednesday's NFL notebook: Broncos' Peyton Manning says his injured thumb is OK: The tape didn't wrap all the way... http://t.co/AnIZjsvG
+Feature dictionary: {'wednesday': 1, "'": 3, 's': 1, 'nfl': 1, 'notebook': 1, ':': 2, 'broncos': 1, 'peyton': 1, 'manning': 1, 'says': 1, 'his': 1, 'injured': 1, 'thumb': 1, 'is': 1, 'ok': 1, 'the': 2, 'tape': 1, 'didn': 1, 't': 1, 'wrap': 1, 'all': 1, 'way': 1, '...': 1, 'http': 1, '://t': 1, '.': 1, 'co/anizjsvg': 1}
+Original text: I'm pretty sure it's Wacky Wednesday at MSA right now.... I actually want that right now, except without the 'MSA' part #happyhalloween
+Feature dictionary: {'i': 2, "'": 4, 'm': 1, 'pretty': 1, 'sure': 1, 'it': 1, 's': 1, 'wacky': 1, 'wednesday': 1, 'at': 1, 'msa': 2, 'right': 2, 'now': 2, '....': 1, 'actually': 1, 'want': 1, 'that': 1, ',': 1, 'except': 1, 'without': 1, 'the': 1, 'part': 1, '#happyhalloween': 1}
+Original text: @rumpfshaker @TheRickWilson More good news may O and Carter can have a beer summit in the Gaza strip
+Feature dictionary: {'@rumpfshaker': 1, '@therickwilson': 1, 'more': 1, 'good': 1, 'news': 1, 'may': 1, 'o': 1, 'and': 1, 'carter': 1, 'can': 1, 'have': 1, 'a': 1, 'beer': 1, 'summit': 1, 'in': 1, 'the': 1, 'gaza': 1, 'strip': 1}
+Original text: Tia Sharp's funeral today, may she rest in perfect peace.
+Feature dictionary: {'tia': 1, 'sharp': 1, "'": 1, 's': 1, 'funeral': 1, 'today': 1, ',': 1, 'may': 1, 'she': 1, 'rest': 1, 'in': 1, 'perfect': 1, 'peace': 1, '.': 1}
+Original text: To all the school kids....one positive note for the weekend. You get to set your clocks back one hour on Sunday night as DST ends.
+Feature dictionary: {'to': 2, 'all': 1, 'the': 2, 'school': 1, 'kids': 1, '....': 1, 'one': 2, 'positive': 1, 'note': 1, 'for': 1, 'weekend': 1, '.': 2, 'you': 1, 'get': 1, 'set': 1, 'your': 1, 'clocks': 1, 'back': 1, 'hour': 1, 'on': 1, 'sunday': 1, 'night': 1, 'as': 1, 'dst': 1, 'ends': 1}
+Original text: excited for fri,not so i can get smashed but so i can go to the garden centre,look at the xmas display and have a coffee #wtf #grannyalert
+Feature dictionary: {'excited': 1, 'for': 1, 'fri': 1, ',': 2, 'not': 1, 'so': 2, 'i': 2, 'can': 2, 'get': 1, 'smashed': 1, 'but': 1, 'go': 1, 'to': 1, 'the': 2, 'garden': 1, 'centre': 1, 'look': 1, 'at': 1, 'xmas': 1, 'display': 1, 'and': 1, 'have': 1, 'a': 1, 'coffee': 1, '#wtf': 1, '#grannyalert': 1}
+Original text: Newcastle Utd upping the ante in the 2nd half.
+Feature dictionary: {'newcastle': 1, 'utd': 1, 'upping': 1, 'the': 2, 'ante': 1, 'in': 1, '2nd': 1, 'half': 1, '.': 1}
+Original text: So, @ChuckRagan in Helsinki tonight with the #RevivalTour, and he has a birthday! Sounds like a killer combination. Too bad its Tuesday.
+Feature dictionary: {'so': 1, ',': 2, '@chuckragan': 1, 'in': 1, 'helsinki': 1, 'tonight': 1, 'with': 1, 'the': 1, '#revivaltour': 1, 'and': 1, 'he': 1, 'has': 1, 'a': 2, 'birthday': 1, '!': 1, 'sounds': 1, 'like': 1, 'killer': 1, 'combination': 1, '.': 2, 'too': 1, 'bad': 1, 'its': 1, 'tuesday': 1}
+Original text: Lovatics loves Demi. some Lovatics bullying other fans because they spelt a word wrong, it's not their 1st language? Bullying? Wow. Just wow
+Feature dictionary: {'lovatics': 2, 'loves': 1, 'demi': 1, '.': 2, 'some': 1, 'bullying': 2, 'other': 1, 'fans': 1, 'because': 1, 'they': 1, 'spelt': 1, 'a': 1, 'word': 1, 'wrong': 1, ',': 1, 'it': 1, "'": 1, 's': 1, 'not': 1, 'their': 1, '1st': 1, 'language': 1, '?': 2, 'wow': 2, 'just': 1}
+Original text: c'mon chelsea, even bilbao handles united and u r able to handle #Barca so do it for me, pls
+Feature dictionary: {'c': 1, "'": 1, 'mon': 1, 'chelsea': 1, ',': 2, 'even': 1, 'bilbao': 1, 'handles': 1, 'united': 1, 'and': 1, 'u': 1, 'r': 1, 'able': 1, 'to': 1, 'handle': 1, '#barca': 1, 'so': 1, 'do': 1, 'it': 1, 'for': 1, 'me': 1, 'pls': 1}
+Original text: The Cab is playing on XM and I may or may not have just started flailing.
+Feature dictionary: {'the': 1, 'cab': 1, 'is': 1, 'playing': 1, 'on': 1, 'xm': 1, 'and': 1, 'i': 1, 'may': 2, 'or': 1, 'not': 1, 'have': 1, 'just': 1, 'started': 1, 'flailing': 1, '.': 1}
+Original text: Have never been happier to be home with heat, cable and Internet. See ya on Sunday BW
+Feature dictionary: {'have': 1, 'never': 1, 'been': 1, 'happier': 1, 'to': 1, 'be': 1, 'home': 1, 'with': 1, 'heat': 1, ',': 1, 'cable': 1, 'and': 1, 'internet': 1, '.': 1, 'see': 1, 'ya': 1, 'on': 1, 'sunday': 1, 'bw': 1}
+Original text: I know you're not meant to have favourite students, but one of my favourite 12th Graders just gave me another rose for Women's Day >.<
+Feature dictionary: {'i': 1, 'know': 1, 'you': 1, "'": 2, 're': 1, 'not': 1, 'meant': 1, 'to': 1, 'have': 1, 'favourite': 2, 'students': 1, ',': 1, 'but': 1, 'one': 1, 'of': 1, 'my': 1, '12th': 1, 'graders': 1, 'just': 1, 'gave': 1, 'me': 1, 'another': 1, 'rose': 1, 'for': 1, 'women': 1, 's': 1, 'day': 1, '>.<': 1}
+Original text: Actually, I'm just ready for Taco Bell tomorrow for lunch. #fattweet
+Feature dictionary: {'actually': 1, ',': 1, 'i': 1, "'": 1, 'm': 1, 'just': 1, 'ready': 1, 'for': 2, 'taco': 1, 'bell': 1, 'tomorrow': 1, 'lunch': 1, '.': 1, '#fattweet': 1}
+Original text: Home opener 7:30 tomorrow night vs Marlies. Lots of future Montreal Canadiens to see. Lets sell out the lower... http://t.co/BjLR19gM
+Feature dictionary: {'home': 1, 'opener': 1, '7': 1, ':': 1, '30': 1, 'tomorrow': 1, 'night': 1, 'vs': 1, 'marlies': 1, '.': 3, 'lots': 1, 'of': 1, 'future': 1, 'montreal': 1, 'canadiens': 1, 'to': 1, 'see': 1, 'lets': 1, 'sell': 1, 'out': 1, 'the': 1, 'lower': 1, '...': 1, 'http': 1, '://t': 1, 'co/bjlr19gm': 1}
+Original text: Told my little cousin who LOVES #TheWalkingDead tv show Id send her the comics for XMas. Shes in 7th grade.  Figured Vol1 isnt too intense.
+Feature dictionary: {'told': 1, 'my': 1, 'little': 1, 'cousin': 1, 'who': 1, 'loves': 1, '#thewalkingdead': 1, 'tv': 1, 'show': 1, 'id': 1, 'send': 1, 'her': 1, 'the': 1, 'comics': 1, 'for': 1, 'xmas': 1, '.': 3, 'shes': 1, 'in': 1, '7th': 1, 'grade': 1, 'figured': 1, 'vol1': 1, 'isnt': 1, 'too': 1, 'intense': 1}
+Original text: Someone runs the wrong route on 3rd and 8, but Andy Lee saves it with a MONSTER punt. Special teams to the rescue?
+Feature dictionary: {'someone': 1, 'runs': 1, 'the': 2, 'wrong': 1, 'route': 1, 'on': 1, '3rd': 1, 'and': 1, '8': 1, ',': 1, 'but': 1, 'andy': 1, 'lee': 1, 'saves': 1, 'it': 1, 'with': 1, 'a': 1, 'monster': 1, 'punt': 1, '.': 1, 'special': 1, 'teams': 1, 'to': 1, 'rescue': 1, '?': 1}
+Original text: If you missed @ShawnMichaels MRA on Tues it's back on 50 mins Pay attention cause there's a chance to hang out with HBK http://t.co/2vbH4PZN
+Feature dictionary: {'if': 1, 'you': 1, 'missed': 1, '@shawnmichaels': 1, 'mra': 1, 'on': 2, 'tues': 1, 'it': 1, "'": 2, 's': 2, 'back': 1, '50': 1, 'mins': 1, 'pay': 1, 'attention': 1, 'cause': 1, 'there': 1, 'a': 1, 'chance': 1, 'to': 1, 'hang': 1, 'out': 1, 'with': 1, 'hbk': 1, 'http': 1, '://t': 1, '.': 1, 'co/2vbh4pzn': 1}
+Original text: @fatimasule That was the revelation I mentioned on sunday evening. I am still in Abj. How are u & where have u been again?
+Feature dictionary: {'@fatimasule': 1, 'that': 1, 'was': 1, 'the': 1, 'revelation': 1, 'i': 2, 'mentioned': 1, 'on': 1, 'sunday': 1, 'evening': 1, '.': 2, 'am': 1, 'still': 1, 'in': 1, 'abj': 1, 'how': 1, 'are': 1, 'u': 2, '&': 1, 'where': 1, 'have': 1, 'been': 1, 'again': 1, '?': 1}
+Original text: @Diarmuidm77lfc4 Ya our game in hand is v Bolton!!!!!. 6 pointer ha!..Playing Norwich last game of the season!.#hopeless
+Feature dictionary: {'@diarmuidm77lfc4': 1, 'ya': 1, 'our': 1, 'game': 2, 'in': 1, 'hand': 1, 'is': 1, 'v': 1, 'bolton': 1, '!!!!!.': 1, '6': 1, 'pointer': 1, 'ha': 1, '!..': 1, 'playing': 1, 'norwich': 1, 'last': 1, 'of': 1, 'the': 1, 'season': 1, '!.#hopeless': 1}
+Original text: As my mom said, I shouldn't be bitter because THSK will always hold the honor and prestige of being the 1st Korean group to perform in TDome
+Feature dictionary: {'as': 1, 'my': 1, 'mom': 1, 'said': 1, ',': 1, 'i': 1, 'shouldn': 1, "'": 1, 't': 1, 'be': 1, 'bitter': 1, 'because': 1, 'thsk': 1, 'will': 1, 'always': 1, 'hold': 1, 'the': 2, 'honor': 1, 'and': 1, 'prestige': 1, 'of': 1, 'being': 1, '1st': 1, 'korean': 1, 'group': 1, 'to': 1, 'perform': 1, 'in': 1, 'tdome': 1}
+Original text: Thank god bob gainey isnt the gm of monteal anymore. He probably would have tried to pick mario lemieux with the 3rd pick #TSN #NHLDRAFT
+Feature dictionary: {'thank': 1, 'god': 1, 'bob': 1, 'gainey': 1, 'isnt': 1, 'the': 2, 'gm': 1, 'of': 1, 'monteal': 1, 'anymore': 1, '.': 1, 'he': 1, 'probably': 1, 'would': 1, 'have': 1, 'tried': 1, 'to': 1, 'pick': 2, 'mario': 1, 'lemieux': 1, 'with': 1, '3rd': 1, '#tsn': 1, '#nhldraft': 1}
+Original text: Cant wait to watch the debate tomorrow night. If Romney grills Obama as hard as he did Gingrich in FL, Romney will wipe the floor with Obama
+Feature dictionary: {'cant': 1, 'wait': 1, 'to': 1, 'watch': 1, 'the': 2, 'debate': 1, 'tomorrow': 1, 'night': 1, '.': 1, 'if': 1, 'romney': 2, 'grills': 1, 'obama': 2, 'as': 2, 'hard': 1, 'he': 1, 'did': 1, 'gingrich': 1, 'in': 1, 'fl': 1, ',': 1, 'will': 1, 'wipe': 1, 'floor': 1, 'with': 1}
+Original text: @JETHROnaldo7 the reason why I'm telling you HMV is kasi may special editions yan and shit :>
+Feature dictionary: {'@jethronaldo7': 1, 'the': 1, 'reason': 1, 'why': 1, 'i': 1, "'": 1, 'm': 1, 'telling': 1, 'you': 1, 'hmv': 1, 'is': 1, 'kasi': 1, 'may': 1, 'special': 1, 'editions': 1, 'yan': 1, 'and': 1, 'shit': 1, ':>': 1}
+Original text: In tomorrow's debate, if Romney is half as sharp as he was in this earlier exchange with Gingrich... Obama is toast: http://t.co/Bi5pNvMR
+Feature dictionary: {'in': 2, 'tomorrow': 1, "'": 1, 's': 1, 'debate': 1, ',': 1, 'if': 1, 'romney': 1, 'is': 2, 'half': 1, 'as': 2, 'sharp': 1, 'he': 1, 'was': 1, 'this': 1, 'earlier': 1, 'exchange': 1, 'with': 1, 'gingrich': 1, '...': 1, 'obama': 1, 'toast': 1, ':': 1, 'http': 1, '://t': 1, '.': 1, 'co/bi5pnvmr': 1}
+Original text: Tough loss for @statebaseball today. Good luck on Monday with selection Sunday
+Feature dictionary: {'tough': 1, 'loss': 1, 'for': 1, '@statebaseball': 1, 'today': 1, '.': 1, 'good': 1, 'luck': 1, 'on': 1, 'monday': 1, 'with': 1, 'selection': 1, 'sunday': 1}
+Original text: National Women's Day in #SouthAfrica this Thursday, 9 August. Promote  gender equality and an end to abuse of women in Africa + the world
+Feature dictionary: {'national': 1, 'women': 2, "'": 1, 's': 1, 'day': 1, 'in': 2, '#southafrica': 1, 'this': 1, 'thursday': 1, ',': 1, '9': 1, 'august': 1, '.': 1, 'promote': 1, 'gender': 1, 'equality': 1, 'and': 1, 'an': 1, 'end': 1, 'to': 1, 'abuse': 1, 'of': 1, 'africa': 1, '+': 1, 'the': 1, 'world': 1}
+Original text: THEATER OF THE NEW Thur eve BLUE COVENANT: Maude Barlow: World #Water Crisis http://t.co/hgUZbIbD W/ water, we see the oneness of the world
+Feature dictionary: {'theater': 1, 'of': 2, 'the': 3, 'new': 1, 'thur': 1, 'eve': 1, 'blue': 1, 'covenant': 1, ':': 2, 'maude': 1, 'barlow': 1, 'world': 2, '#water': 1, 'crisis': 1, 'http': 1, '://t': 1, '.': 1, 'co/hguzbibd': 1, 'w/': 1, 'water': 1, ',': 1, 'we': 1, 'see': 1, 'oneness': 1}
+Original text: HELP STOP KONY hes not dead! Washington, D.C. on November 17 please go and help get the president to get Kony go to there website! #kony!
+Feature dictionary: {'help': 2, 'stop': 1, 'kony': 2, 'hes': 1, 'not': 1, 'dead': 1, '!': 3, 'washington': 1, ',': 1, 'd': 1, '.': 2, 'c': 1, 'on': 1, 'november': 1, '17': 1, 'please': 1, 'go': 2, 'and': 1, 'get': 2, 'the': 1, 'president': 1, 'to': 2, 'there': 1, 'website': 1, '#kony': 1}
+Original text: @vaughtsviews Good point. I also think that T. Martin leaving to USC set us back a few yrs. Pitino's 5th year at UL, he went to NIT.
+Feature dictionary: {'@vaughtsviews': 1, 'good': 1, 'point': 1, '.': 4, 'i': 1, 'also': 1, 'think': 1, 'that': 1, 't': 1, 'martin': 1, 'leaving': 1, 'to': 2, 'usc': 1, 'set': 1, 'us': 1, 'back': 1, 'a': 1, 'few': 1, 'yrs': 1, 'pitino': 1, "'": 1, 's': 1, '5th': 1, 'year': 1, 'at': 1, 'ul': 1, ',': 1, 'he': 1, 'went': 1, 'nit': 1}
+Original text: Questions about becoming apart of LSCA? Come stop by our table outside Gregory Gym from 5-6pm this Thursday! #hookem #L4Z #LSCA
+Feature dictionary: {'questions': 1, 'about': 1, 'becoming': 1, 'apart': 1, 'of': 1, 'lsca': 1, '?': 1, 'come': 1, 'stop': 1, 'by': 1, 'our': 1, 'table': 1, 'outside': 1, 'gregory': 1, 'gym': 1, 'from': 1, '5-6pm': 1, 'this': 1, 'thursday': 1, '!': 1, '#hookem': 1, '#l4z': 1, '#lsca': 1}
+Original text: Happy Tuesday. Your batting average is no worse than that of Jose Iglesias. Hopefully that gets you through the day.
+Feature dictionary: {'happy': 1, 'tuesday': 1, '.': 3, 'your': 1, 'batting': 1, 'average': 1, 'is': 1, 'no': 1, 'worse': 1, 'than': 1, 'that': 2, 'of': 1, 'jose': 1, 'iglesias': 1, 'hopefully': 1, 'gets': 1, 'you': 1, 'through': 1, 'the': 1, 'day': 1}
+Original text: Daylight Savings Time ends this Sunday. Except Arizona, where we gain the hour because we don't have to change any the clocks. #smallvictory
+Feature dictionary: {'daylight': 1, 'savings': 1, 'time': 1, 'ends': 1, 'this': 1, 'sunday': 1, '.': 2, 'except': 1, 'arizona': 1, ',': 1, 'where': 1, 'we': 2, 'gain': 1, 'the': 2, 'hour': 1, 'because': 1, 'don': 1, "'": 1, 't': 1, 'have': 1, 'to': 1, 'change': 1, 'any': 1, 'clocks': 1, '#smallvictory': 1}
+Original text: One other possibility: Hawaii. Chow may be done with BYU and Hawaii may have better options from teams on probation for their Dec 7 game.
+Feature dictionary: {'one': 1, 'other': 1, 'possibility': 1, ':': 1, 'hawaii': 2, '.': 2, 'chow': 1, 'may': 2, 'be': 1, 'done': 1, 'with': 1, 'byu': 1, 'and': 1, 'have': 1, 'better': 1, 'options': 1, 'from': 1, 'teams': 1, 'on': 1, 'probation': 1, 'for': 1, 'their': 1, 'dec': 1, '7': 1, 'game': 1}
+Original text: Oh what's that? The MAC is better than the ACC and Big East in football? .... That's what's up http://t.co/mTJznD1D
+Feature dictionary: {'oh': 1, 'what': 2, "'": 3, 's': 3, 'that': 2, '?': 2, 'the': 2, 'mac': 1, 'is': 1, 'better': 1, 'than': 1, 'acc': 1, 'and': 1, 'big': 1, 'east': 1, 'in': 1, 'football': 1, '....': 1, 'up': 1, 'http': 1, '://t': 1, '.': 1, 'co/mtjznd1d': 1}
+
+False positives: 
+
+Original text: Juan  Just heard Green Day's 'Time of our life' for the 1st time since leaving florida and i burst into tears. I miss everyone...  Kellogg
+Feature dictionary: {'juan': 1, 'just': 1, 'heard': 1, 'green': 1, 'day': 1, "'": 3, 's': 1, 'time': 2, 'of': 1, 'our': 1, 'life': 1, 'for': 1, 'the': 1, '1st': 1, 'since': 1, 'leaving': 1, 'florida': 1, 'and': 1, 'i': 2, 'burst': 1, 'into': 1, 'tears': 1, '.': 1, 'miss': 1, 'everyone': 1, '...': 1, 'kellogg': 1}
+Original text: How the Electoral College always has protected white power, from slave states to whose vote counts https://t.co/BddF2RIZli #ElectoralCollege
+Feature dictionary: {'how': 1, 'the': 1, 'electoral': 1, 'college': 1, 'always': 1, 'has': 1, 'protected': 1, 'white': 1, 'power': 1, ',': 1, 'from': 1, 'slave': 1, 'states': 1, 'to': 1, 'whose': 1, 'vote': 1, 'counts': 1, 'https': 1, '://t': 1, '.': 1, 'co/bddf2rizli': 1, '#electoralcollege': 1}
+Original text: Italian police stopped California rapper Snoop Dogg on Friday as he prepared to board a private plane bound for... http://t.co/DH38uKpUZI
+Feature dictionary: {'italian': 1, 'police': 1, 'stopped': 1, 'california': 1, 'rapper': 1, 'snoop': 1, 'dogg': 1, 'on': 1, 'friday': 1, 'as': 1, 'he': 1, 'prepared': 1, 'to': 1, 'board': 1, 'a': 1, 'private': 1, 'plane': 1, 'bound': 1, 'for': 1, '...': 1, 'http': 1, '://t': 1, '.': 1, 'co/dh38ukpuzi': 1}
+Original text: Well with Zayn joining ISIS it is hard to maintain their family friendly image. https://t.co/ObzEtFCpPg
+Feature dictionary: {'well': 1, 'with': 1, 'zayn': 1, 'joining': 1, 'isis': 1, 'it': 1, 'is': 1, 'hard': 1, 'to': 1, 'maintain': 1, 'their': 1, 'family': 1, 'friendly': 1, 'image': 1, '.': 2, 'https': 1, '://t': 1, 'co/obzetfcppg': 1}
+Original text: The ONE time we want to use the Amazon Prime streaming and it's down... grrr ruined my Sunday night! @AmazonUK
+Feature dictionary: {'the': 2, 'one': 1, 'time': 1, 'we': 1, 'want': 1, 'to': 1, 'use': 1, 'amazon': 1, 'prime': 1, 'streaming': 1, 'and': 1, 'it': 1, "'": 1, 's': 1, 'down': 1, '...': 1, 'grrr': 1, 'ruined': 1, 'my': 1, 'sunday': 1, 'night': 1, '!': 1, '@amazonuk': 1}
+Original text: @LumiaUS The 1520 is the first Nokia I have ever had break on me. 1st. the phone stops reading the micro sim card http://t.co/bPtuUmwJmd
+Feature dictionary: {'@lumiaus': 1, 'the': 4, '1520': 1, 'is': 1, 'first': 1, 'nokia': 1, 'i': 1, 'have': 1, 'ever': 1, 'had': 1, 'break': 1, 'on': 1, 'me': 1, '.': 3, '1st': 1, 'phone': 1, 'stops': 1, 'reading': 1, 'micro': 1, 'sim': 1, 'card': 1, 'http': 1, '://t': 1, 'co/bptuumwjmd': 1}
+Original text: @topcity yep.  Once it's lost, it can never be returned.  I was in Constitution Hall last Fri.  Got chills.  So much history was almost lost
+Feature dictionary: {'@topcity': 1, 'yep': 1, '.': 4, 'once': 1, 'it': 2, "'": 1, 's': 1, 'lost': 2, ',': 1, 'can': 1, 'never': 1, 'be': 1, 'returned': 1, 'i': 1, 'was': 2, 'in': 1, 'constitution': 1, 'hall': 1, 'last': 1, 'fri': 1, 'got': 1, 'chills': 1, 'so': 1, 'much': 1, 'history': 1, 'almost': 1}
+Original text: Wichita St. with fundamental breakdowns in 8th. Hall singles, Harbutz fails to bunt him over. Hall picked off. Coy whiffs. SIU lead is 4-3
+Feature dictionary: {'wichita': 1, 'st': 1, '.': 5, 'with': 1, 'fundamental': 1, 'breakdowns': 1, 'in': 1, '8th': 1, 'hall': 2, 'singles': 1, ',': 1, 'harbutz': 1, 'fails': 1, 'to': 1, 'bunt': 1, 'him': 1, 'over': 1, 'picked': 1, 'off': 1, 'coy': 1, 'whiffs': 1, 'siu': 1, 'lead': 1, 'is': 1, '4-3': 1}
+Original text: Nike didn't have what I needed so now I need to order it online AND I NEED IT TOMORROW IHML
+Feature dictionary: {'nike': 1, 'didn': 1, "'": 1, 't': 1, 'have': 1, 'what': 1, 'i': 3, 'needed': 1, 'so': 1, 'now': 1, 'need': 2, 'to': 1, 'order': 1, 'it': 2, 'online': 1, 'and': 1, 'tomorrow': 1, 'ihml': 1}
+Original text: Drop 75% Price: £7.88. Paperback: The Gay & Lesbian Marriage & Family Reader: Analyses of Problems and Prospe... https://t.co/7tdFYTrUui
+Feature dictionary: {'drop': 1, '75%': 1, 'price': 1, ':': 3, '£7': 1, '.': 3, '88': 1, 'paperback': 1, 'the': 1, 'gay': 1, '&': 2, 'lesbian': 1, 'marriage': 1, 'family': 1, 'reader': 1, 'analyses': 1, 'of': 1, 'problems': 1, 'and': 1, 'prospe': 1, '...': 1, 'https': 1, '://t': 1, 'co/7tdfytruui': 1}
+Original text: It is scary that Kris Bryant is the 4th best hitter on the cubs..
+Feature dictionary: {'it': 1, 'is': 2, 'scary': 1, 'that': 1, 'kris': 1, 'bryant': 1, 'the': 2, '4th': 1, 'best': 1, 'hitter': 1, 'on': 1, 'cubs': 1, '..': 1}
+Original text: Give me 5 mins with Candy the dancer from Deja Vu I'm nutting on my 4th pump she that bad lol
+Feature dictionary: {'give': 1, 'me': 1, '5': 1, 'mins': 1, 'with': 1, 'candy': 1, 'the': 1, 'dancer': 1, 'from': 1, 'deja': 1, 'vu': 1, 'i': 1, "'": 1, 'm': 1, 'nutting': 1, 'on': 1, 'my': 1, '4th': 1, 'pump': 1, 'she': 1, 'that': 1, 'bad': 1, 'lol': 1}
+Original text: Cats eating bodies in east Aleppo as they run out of space for the dead via @DailyStarLeb  https://t.co/CifxiMFfOl
+Feature dictionary: {'cats': 1, 'eating': 1, 'bodies': 1, 'in': 1, 'east': 1, 'aleppo': 1, 'as': 1, 'they': 1, 'run': 1, 'out': 1, 'of': 1, 'space': 1, 'for': 1, 'the': 1, 'dead': 1, 'via': 1, '@dailystarleb': 1, 'https': 1, '://t': 1, '.': 1, 'co/cifximffol': 1}
+Original text: saving episode 12 for tomorrow because she made me angry and i just spent 13 hours playing naruto ultimate ninja 4 so my eyes are dead
+Feature dictionary: {'saving': 1, 'episode': 1, '12': 1, 'for': 1, 'tomorrow': 1, 'because': 1, 'she': 1, 'made': 1, 'me': 1, 'angry': 1, 'and': 1, 'i': 1, 'just': 1, 'spent': 1, '13': 1, 'hours': 1, 'playing': 1, 'naruto': 1, 'ultimate': 1, 'ninja': 1, '4': 1, 'so': 1, 'my': 1, 'eyes': 1, 'are': 1, 'dead': 1}
+Original text: #ThankYouObama for creating the strongest @republicanparty in almost a century and electing @realDonaldTrump.
+Feature dictionary: {'#thankyouobama': 1, 'for': 1, 'creating': 1, 'the': 1, 'strongest': 1, '@republicanparty': 1, 'in': 1, 'almost': 1, 'a': 1, 'century': 1, 'and': 1, 'electing': 1, '@realdonaldtrump': 1, '.': 1}
+Original text: It would be a strategic mistake of the 1st order 4 Tsipras (let alone a genuine anti-austerity politician) to seek and maintain a leading ..
+Feature dictionary: {'it': 1, 'would': 1, 'be': 1, 'a': 3, 'strategic': 1, 'mistake': 1, 'of': 1, 'the': 1, '1st': 1, 'order': 1, '4': 1, 'tsipras': 1, '(': 1, 'let': 1, 'alone': 1, 'genuine': 1, 'anti-austerity': 1, 'politician': 1, ')': 1, 'to': 1, 'seek': 1, 'and': 1, 'maintain': 1, 'leading': 1, '..': 1}
+Original text: Jay-Z stole his whole 2nd verse from "99 Problems" from Bun B in the UGK song "Touched". Come on y'all listen to old hip hop.
+Feature dictionary: {'jay-z': 1, 'stole': 1, 'his': 1, 'whole': 1, '2nd': 1, 'verse': 1, 'from': 2, '"': 3, '99': 1, 'problems': 1, 'bun': 1, 'b': 1, 'in': 1, 'the': 1, 'ugk': 1, 'song': 1, 'touched': 1, '".': 1, 'come': 1, 'on': 1, 'y': 1, "'": 1, 'all': 1, 'listen': 1, 'to': 1, 'old': 1, 'hip': 1, 'hop': 1, '.': 1}
+Original text: I'm taking my death tomorrow, Kpop fans make me mad
+Feature dictionary: {'i': 1, "'": 1, 'm': 1, 'taking': 1, 'my': 1, 'death': 1, 'tomorrow': 1, ',': 1, 'kpop': 1, 'fans': 1, 'make': 1, 'me': 1, 'mad': 1}
+Original text: We should start Ox on Saturday imo, he will terrorise Evra just like he did last season.
+Feature dictionary: {'we': 1, 'should': 1, 'start': 1, 'ox': 1, 'on': 1, 'saturday': 1, 'imo': 1, ',': 1, 'he': 2, 'will': 1, 'terrorise': 1, 'evra': 1, 'just': 1, 'like': 1, 'did': 1, 'last': 1, 'season': 1, '.': 1}
+Original text: That time Christina Crossin dropped Melania Trump speech during her set at the #INSCENE 2 year anniversary party... https://t.co/AbkE1RvWvk
+Feature dictionary: {'that': 1, 'time': 1, 'christina': 1, 'crossin': 1, 'dropped': 1, 'melania': 1, 'trump': 1, 'speech': 1, 'during': 1, 'her': 1, 'set': 1, 'at': 1, 'the': 1, '#inscene': 1, '2': 1, 'year': 1, 'anniversary': 1, 'party': 1, '...': 1, 'https': 1, '://t': 1, '.': 1, 'co/abke1rvwvk': 1}
+Original text: @Lumia #Lumia @Microsoft 2nd, you guys haven't released a lumia that has a QHD screen, or takes video in 2k resolution yet.
+Feature dictionary: {'@lumia': 1, '#lumia': 1, '@microsoft': 1, '2nd': 1, ',': 2, 'you': 1, 'guys': 1, 'haven': 1, "'": 1, 't': 1, 'released': 1, 'a': 2, 'lumia': 1, 'that': 1, 'has': 1, 'qhd': 1, 'screen': 1, 'or': 1, 'takes': 1, 'video': 1, 'in': 1, '2k': 1, 'resolution': 1, 'yet': 1, '.': 1}
+Original text: The thought of the queue at Digi tomorrow is making me upset
+Feature dictionary: {'the': 2, 'thought': 1, 'of': 1, 'queue': 1, 'at': 1, 'digi': 1, 'tomorrow': 1, 'is': 1, 'making': 1, 'me': 1, 'upset': 1}
+Original text: @BleuFootedNewby Ah woops that's my bad they play the Knicks tomorrow
+Feature dictionary: {'@bleufootednewby': 1, 'ah': 1, 'woops': 1, 'that': 1, "'": 1, 's': 1, 'my': 1, 'bad': 1, 'they': 1, 'play': 1, 'the': 1, 'knicks': 1, 'tomorrow': 1}
+Original text: Snoop Dogg cancelled his performance at the fair tomorrow... Turns out he had a prior commitment for Mitch-a-Palooza.
+Feature dictionary: {'snoop': 1, 'dogg': 1, 'cancelled': 1, 'his': 1, 'performance': 1, 'at': 1, 'the': 1, 'fair': 1, 'tomorrow': 1, '...': 1, 'turns': 1, 'out': 1, 'he': 1, 'had': 1, 'a': 1, 'prior': 1, 'commitment': 1, 'for': 1, 'mitch-a-palooza': 1, '.': 1}
+Original text: @Iiamneeson all I can say is that it was very unrealistic. The 1st movie was better-storyline, dialogue! And of course \""The Grey\"" thumbs up!
+Feature dictionary: {'@iiamneeson': 1, 'all': 1, 'i': 1, 'can': 1, 'say': 1, 'is': 1, 'that': 1, 'it': 1, 'was': 2, 'very': 1, 'unrealistic': 1, '.': 1, 'the': 2, '1st': 1, 'movie': 1, 'better-storyline': 1, ',': 1, 'dialogue': 1, '!': 2, 'and': 1, 'of': 1, 'course': 1, '\\""': 1, 'grey\\""': 1, 'thumbs': 1, 'up': 1}
+Original text: Mexico's totally destroyed the Miss USA pageant tomorrow night because I am to be speaking here for free!
+Feature dictionary: {'mexico': 1, "'": 1, 's': 1, 'totally': 1, 'destroyed': 1, 'the': 1, 'miss': 1, 'usa': 1, 'pageant': 1, 'tomorrow': 1, 'night': 1, 'because': 1, 'i': 1, 'am': 1, 'to': 1, 'be': 1, 'speaking': 1, 'here': 1, 'for': 1, 'free': 1, '!': 1}
+Original text: Slept for about 11 hours. I seem to be in quite an odd mood. Ah well, @SoundersFC in play offs tonight (2am) and Jack White on Sunday!!!
+Feature dictionary: {'slept': 1, 'for': 1, 'about': 1, '11': 1, 'hours': 1, '.': 2, 'i': 1, 'seem': 1, 'to': 1, 'be': 1, 'in': 2, 'quite': 1, 'an': 1, 'odd': 1, 'mood': 1, 'ah': 1, 'well': 1, ',': 1, '@soundersfc': 1, 'play': 1, 'offs': 1, 'tonight': 1, '(': 1, '2am': 1, ')': 1, 'and': 1, 'jack': 1, 'white': 1, 'on': 1, 'sunday': 1, '!!!': 1}
+Original text: Got money on the line and I love USC but I'm going for Org sat cz pac12 need someone to be in the BCS game and USC got no chance
+Feature dictionary: {'got': 2, 'money': 1, 'on': 1, 'the': 2, 'line': 1, 'and': 2, 'i': 2, 'love': 1, 'usc': 2, 'but': 1, "'": 1, 'm': 1, 'going': 1, 'for': 1, 'org': 1, 'sat': 1, 'cz': 1, 'pac12': 1, 'need': 1, 'someone': 1, 'to': 1, 'be': 1, 'in': 1, 'bcs': 1, 'game': 1, 'no': 1, 'chance': 1}
+Original text: @UPIWhitch, btw, matches the 60% Insurance Mafia skims off the top of our health care $$https://t.co/EAxzhW514w#WhoProfits #ThankYouObama
+Feature dictionary: {'@upiwhitch': 1, ',': 2, 'btw': 1, 'matches': 1, 'the': 2, '60%': 1, 'insurance': 1, 'mafia': 1, 'skims': 1, 'off': 1, 'top': 1, 'of': 1, 'our': 1, 'health': 1, 'care': 1, '$$https': 1, '://t': 1, '.': 1, 'co/eaxzhw514w#whoprofits': 1, '#thankyouobama': 1}
+Original text: Whenever I see an ad for IBM, I think about how they helped Nazi Germany to organize concentration camp proceedures. http://t.co/oiJNu06Kg0
+Feature dictionary: {'whenever': 1, 'i': 2, 'see': 1, 'an': 1, 'ad': 1, 'for': 1, 'ibm': 1, ',': 1, 'think': 1, 'about': 1, 'how': 1, 'they': 1, 'helped': 1, 'nazi': 1, 'germany': 1, 'to': 1, 'organize': 1, 'concentration': 1, 'camp': 1, 'proceedures': 1, '.': 2, 'http': 1, '://t': 1, 'co/oijnu06kg0': 1}
+Original text: Things that you never do on time:  Apply for FAFSA, your 2500 word paper due on monday, restocking on ice cream.
+Feature dictionary: {'things': 1, 'that': 1, 'you': 1, 'never': 1, 'do': 1, 'on': 3, 'time': 1, ':': 1, 'apply': 1, 'for': 1, 'fafsa': 1, ',': 2, 'your': 1, '2500': 1, 'word': 1, 'paper': 1, 'due': 1, 'monday': 1, 'restocking': 1, 'ice': 1, 'cream': 1, '.': 1}
+Original text: Roy ... just go ... you're a bigger embarassment than Capello and McClaren ... http://t.co/EAsMq1m7
+Feature dictionary: {'roy': 1, '...': 3, 'just': 1, 'go': 1, 'you': 1, "'": 1, 're': 1, 'a': 1, 'bigger': 1, 'embarassment': 1, 'than': 1, 'capello': 1, 'and': 1, 'mcclaren': 1, 'http': 1, '://t': 1, '.': 1, 'co/easmq1m7': 1}
+Original text: Marine Le Pen's dad is a savage. You can tell who is in control based on who you can't offend > https://t.co/0FfiQnZNsG
+Feature dictionary: {'marine': 1, 'le': 1, 'pen': 1, "'": 2, 's': 1, 'dad': 1, 'is': 2, 'a': 1, 'savage': 1, '.': 2, 'you': 2, 'can': 2, 'tell': 1, 'who': 2, 'in': 1, 'control': 1, 'based': 1, 'on': 1, 't': 1, 'offend': 1, '>': 1, 'https': 1, '://t': 1, 'co/0ffiqnznsg': 1}
+Original text: The pacing for the 4th Harry Potter movie was so ridiculously off and it ruined the entire movie.
+Feature dictionary: {'the': 3, 'pacing': 1, 'for': 1, '4th': 1, 'harry': 1, 'potter': 1, 'movie': 2, 'was': 1, 'so': 1, 'ridiculously': 1, 'off': 1, 'and': 1, 'it': 1, 'ruined': 1, 'entire': 1, '.': 1}
+Original text: \""Unforgivable\"" by Christina Grimmie..not quite feeling it yet. Then again, I wasn't \""quite feeling\"" Safe & Sound til I heared it a 2nd time!
+Feature dictionary: {'\\""': 2, 'unforgivable\\""': 1, 'by': 1, 'christina': 1, 'grimmie': 1, '..': 1, 'not': 1, 'quite': 2, 'feeling': 1, 'it': 2, 'yet': 1, '.': 1, 'then': 1, 'again': 1, ',': 1, 'i': 2, 'wasn': 1, "'": 1, 't': 1, 'feeling\\""': 1, 'safe': 1, '&': 1, 'sound': 1, 'til': 1, 'heared': 1, 'a': 1, '2nd': 1, 'time': 1, '!': 1}
+Original text: @aronftaylor Farron disgusts me I voted Brexit for a much brighter future for our young people I voted #Brexit @timfarron respect democracy
+Feature dictionary: {'@aronftaylor': 1, 'farron': 1, 'disgusts': 1, 'me': 1, 'i': 2, 'voted': 2, 'brexit': 1, 'for': 2, 'a': 1, 'much': 1, 'brighter': 1, 'future': 1, 'our': 1, 'young': 1, 'people': 1, '#brexit': 1, '@timfarron': 1, 'respect': 1, 'democracy': 1}
+Original text: tomorrow i'm scheduled to put up the Xmas decorations.even on Phil holidays,i still can't get my much needed sleep #24hrsaintenough
+Feature dictionary: {'tomorrow': 1, 'i': 2, "'": 2, 'm': 1, 'scheduled': 1, 'to': 1, 'put': 1, 'up': 1, 'the': 1, 'xmas': 1, 'decorations': 1, '.': 1, 'even': 1, 'on': 1, 'phil': 1, 'holidays': 1, ',': 1, 'still': 1, 'can': 1, 't': 1, 'get': 1, 'my': 1, 'much': 1, 'needed': 1, 'sleep': 1, '#24hrsaintenough': 1}
+Original text: Vice President Yemi Osinbajo on Thursday alleged that members of the Boko Haram sect have concluded plans to bomb... http://t.co/A4hlNUQmV3
+Feature dictionary: {'vice': 1, 'president': 1, 'yemi': 1, 'osinbajo': 1, 'on': 1, 'thursday': 1, 'alleged': 1, 'that': 1, 'members': 1, 'of': 1, 'the': 1, 'boko': 1, 'haram': 1, 'sect': 1, 'have': 1, 'concluded': 1, 'plans': 1, 'to': 1, 'bomb': 1, '...': 1, 'http': 1, '://t': 1, '.': 1, 'co/a4hlnuqmv3': 1}
+Original text: If you even remotely support anything Kanye West says I will say a prayer on Sunday for you and your ignorance
+Feature dictionary: {'if': 1, 'you': 2, 'even': 1, 'remotely': 1, 'support': 1, 'anything': 1, 'kanye': 1, 'west': 1, 'says': 1, 'i': 1, 'will': 1, 'say': 1, 'a': 1, 'prayer': 1, 'on': 1, 'sunday': 1, 'for': 1, 'and': 1, 'your': 1, 'ignorance': 1}
+Original text: @rioferdy5 Relaxing?U have a match with Chelsea tomorrow.Oh,I see.U don't wanna get owned by Chelsea's youngsters like Bale did.#shame #cfc
+Feature dictionary: {'@rioferdy5': 1, 'relaxing': 1, '?': 1, 'u': 2, 'have': 1, 'a': 1, 'match': 1, 'with': 1, 'chelsea': 2, 'tomorrow': 1, '.': 2, 'oh': 1, ',': 1, 'i': 1, 'see': 1, 'don': 1, "'": 2, 't': 1, 'wanna': 1, 'get': 1, 'owned': 1, 'by': 1, 's': 1, 'youngsters': 1, 'like': 1, 'bale': 1, 'did': 1, '.#shame': 1, '#cfc': 1}
+Original text: I'm starting to think Kane may just be a one season wonder.
+Feature dictionary: {'i': 1, "'": 1, 'm': 1, 'starting': 1, 'to': 1, 'think': 1, 'kane': 1, 'may': 1, 'just': 1, 'be': 1, 'a': 1, 'one': 1, 'season': 1, 'wonder': 1, '.': 1}
+Original text: \"@Bobbieliciouss: Don't think i'm going to school tomorrow.\" School's gonna crack tomorrow
+Feature dictionary: {'\\"@bobbieliciouss': 1, ':': 1, 'don': 1, "'": 3, 't': 1, 'think': 1, 'i': 1, 'm': 1, 'going': 1, 'to': 1, 'school': 2, 'tomorrow': 2, '.\\"': 1, 's': 1, 'gonna': 1, 'crack': 1}
+Original text: John Kasich applied all the rote Republican dogma until he found out he couldn't govern that way. He may be the GOP voice in the wilderness.
+Feature dictionary: {'john': 1, 'kasich': 1, 'applied': 1, 'all': 1, 'the': 3, 'rote': 1, 'republican': 1, 'dogma': 1, 'until': 1, 'he': 3, 'found': 1, 'out': 1, 'couldn': 1, "'": 1, 't': 1, 'govern': 1, 'that': 1, 'way': 1, '.': 2, 'may': 1, 'be': 1, 'gop': 1, 'voice': 1, 'in': 1, 'wilderness': 1}
+Original text: CA has way too many imbeciles - https://t.co/k3o4GNfkeA via @LifeZette
+Feature dictionary: {'ca': 1, 'has': 1, 'way': 1, 'too': 1, 'many': 1, 'imbeciles': 1, '-': 1, 'https': 1, '://t': 1, '.': 1, 'co/k3o4gnfkea': 1, 'via': 1, '@lifezette': 1}
+Original text: El Classico on a Sunday Night isn't perfect for the Monday Morning !!
+Feature dictionary: {'el': 1, 'classico': 1, 'on': 1, 'a': 1, 'sunday': 1, 'night': 1, 'isn': 1, "'": 1, 't': 1, 'perfect': 1, 'for': 1, 'the': 1, 'monday': 1, 'morning': 1, '!!': 1}
+Original text: 6 Apr 2015 - David Cameron tells 'fruitcakes loonies' - it's time to come home &gt;https://t.co/PDizoSaeRd  war is won http://t.co/PvLu06k2c2
+Feature dictionary: {'6': 1, 'apr': 1, '2015': 1, '-': 2, 'david': 1, 'cameron': 1, 'tells': 1, "'": 3, 'fruitcakes': 1, 'loonies': 1, 'it': 1, 's': 1, 'time': 1, 'to': 1, 'come': 1, 'home': 1, '&gt': 1, ';': 1, 'https': 1, '://t': 2, '.': 2, 'co/pdizosaerd': 1, 'war': 1, 'is': 1, 'won': 1, 'http': 1, 'co/pvlu06k2c2': 1}
+Original text: BAY HEAD, N.J./BOSTON, Nov 2 (Reuters) - The people of the Jersey Shore may feel alone in the world right now, t... http://t.co/3PbCfRbh
+Feature dictionary: {'bay': 1, 'head': 1, ',': 3, 'n': 1, '.': 2, 'j': 1, './boston': 1, 'nov': 1, '2': 1, '(': 1, 'reuters': 1, ')': 1, '-': 1, 'the': 3, 'people': 1, 'of': 1, 'jersey': 1, 'shore': 1, 'may': 1, 'feel': 1, 'alone': 1, 'in': 1, 'world': 1, 'right': 1, 'now': 1, 't': 1, '...': 1, 'http': 1, '://t': 1, 'co/3pbcfrbh': 1}
+Original text: @alexkidwell I give zero shits about Star Wars, and I'm only mildly excited by Bond films. Will I be seeing you on RHAP tomorrow?!
+Feature dictionary: {'@alexkidwell': 1, 'i': 3, 'give': 1, 'zero': 1, 'shits': 1, 'about': 1, 'star': 1, 'wars': 1, ',': 1, 'and': 1, "'": 1, 'm': 1, 'only': 1, 'mildly': 1, 'excited': 1, 'by': 1, 'bond': 1, 'films': 1, '.': 1, 'will': 1, 'be': 1, 'seeing': 1, 'you': 1, 'on': 1, 'rhap': 1, 'tomorrow': 1, '?!': 1}
+Original text: Theresa May is the Tory leader Labour should fear http://t.co/M0CBiPbq1R
+Feature dictionary: {'theresa': 1, 'may': 1, 'is': 1, 'the': 1, 'tory': 1, 'leader': 1, 'labour': 1, 'should': 1, 'fear': 1, 'http': 1, '://t': 1, '.': 1, 'co/m0cbipbq1r': 1}
+Original text: @BB_Updates NOT!!! Hopefully Big Brother will kick you,Vanessa, Liz and Julia out before Thurs cause you all have plans to split the money!
+Feature dictionary: {'@bb_updates': 1, 'not': 1, '!!!': 1, 'hopefully': 1, 'big': 1, 'brother': 1, 'will': 1, 'kick': 1, 'you': 2, ',': 2, 'vanessa': 1, 'liz': 1, 'and': 1, 'julia': 1, 'out': 1, 'before': 1, 'thurs': 1, 'cause': 1, 'all': 1, 'have': 1, 'plans': 1, 'to': 1, 'split': 1, 'the': 1, 'money': 1, '!': 1}
+Original text: Batman may be running better, but they have force disabled SLI on the game. @WBHomeEnt IS A JOKE!!!
+Feature dictionary: {'batman': 1, 'may': 1, 'be': 1, 'running': 1, 'better': 1, ',': 1, 'but': 1, 'they': 1, 'have': 1, 'force': 1, 'disabled': 1, 'sli': 1, 'on': 1, 'the': 1, 'game': 1, '.': 1, '@wbhomeent': 1, 'is': 1, 'a': 1, 'joke': 1, '!!!': 1}
+Original text: I'm emotional calibraska is tomorrow and I can't get it ughhhh h8 life
+Feature dictionary: {'i': 2, "'": 2, 'm': 1, 'emotional': 1, 'calibraska': 1, 'is': 1, 'tomorrow': 1, 'and': 1, 'can': 1, 't': 1, 'get': 1, 'it': 1, 'ughhhh': 1, 'h8': 1, 'life': 1}
+Original text: @CoL_70 Yep, Mavs started 0-4 before racking up 67 wins in 06-07. Of course they also flamed out in the 1st round against Golden State.
+Feature dictionary: {'@col_70': 1, 'yep': 1, ',': 1, 'mavs': 1, 'started': 1, '0-4': 1, 'before': 1, 'racking': 1, 'up': 1, '67': 1, 'wins': 1, 'in': 2, '06-07': 1, '.': 2, 'of': 1, 'course': 1, 'they': 1, 'also': 1, 'flamed': 1, 'out': 1, 'the': 1, '1st': 1, 'round': 1, 'against': 1, 'golden': 1, 'state': 1}
+Original text: I hated Tata Martino in Barca and I can't stand him coaching Argentina! Even though it's a friendly no reason to play 5 defenders in 1st 45
+Feature dictionary: {'i': 2, 'hated': 1, 'tata': 1, 'martino': 1, 'in': 2, 'barca': 1, 'and': 1, 'can': 1, "'": 2, 't': 1, 'stand': 1, 'him': 1, 'coaching': 1, 'argentina': 1, '!': 1, 'even': 1, 'though': 1, 'it': 1, 's': 1, 'a': 1, 'friendly': 1, 'no': 1, 'reason': 1, 'to': 1, 'play': 1, '5': 1, 'defenders': 1, '1st': 1, '45': 1}
+Original text: Does Harper even realize there in 3rd place! Talk about burying you head in the sand... Stay the course... Of lies and deceit! #cdnpoli
+Feature dictionary: {'does': 1, 'harper': 1, 'even': 1, 'realize': 1, 'there': 1, 'in': 2, '3rd': 1, 'place': 1, '!': 2, 'talk': 1, 'about': 1, 'burying': 1, 'you': 1, 'head': 1, 'the': 2, 'sand': 1, '...': 2, 'stay': 1, 'course': 1, 'of': 1, 'lies': 1, 'and': 1, 'deceit': 1, '#cdnpoli': 1}
+Original text: [http://t.co/2iAIexuu4u]  White Sox on wrong page, no matter the chapter  (Sat, 29 Aug 2015 00:30:45 EST) http://t.co/1PbItB7pRY
+Feature dictionary: {'[http': 1, '://t': 2, '.': 2, 'co/2iaiexuu4u]': 1, 'white': 1, 'sox': 1, 'on': 1, 'wrong': 1, 'page': 1, ',': 2, 'no': 1, 'matter': 1, 'the': 1, 'chapter': 1, '(': 1, 'sat': 1, '29': 1, 'aug': 1, '2015': 1, '00': 1, ':': 2, '30': 1, '45': 1, 'est': 1, ')': 1, 'http': 1, 'co/1pbitb7pry': 1}
+Original text: Miss you - Aaliyah on repeat. too many lost ones pop in my mind. Tribute to them may be on the way from me...look out
+Feature dictionary: {'miss': 1, 'you': 1, '-': 1, 'aaliyah': 1, 'on': 2, 'repeat': 1, '.': 2, 'too': 1, 'many': 1, 'lost': 1, 'ones': 1, 'pop': 1, 'in': 1, 'my': 1, 'mind': 1, 'tribute': 1, 'to': 1, 'them': 1, 'may': 1, 'be': 1, 'the': 1, 'way': 1, 'from': 1, 'me': 1, '...': 1, 'look': 1, 'out': 1}
+Original text: 49ersParadise HOP: Pick your poison: Eliminating Vernon Davis comes with a price [BEE-BLOG]: Mon, 29 Oct 2012 8:... http://t.co/n0DncWVk
+Feature dictionary: {'49ersparadise': 1, 'hop': 1, ':': 2, 'pick': 1, 'your': 1, 'poison': 1, 'eliminating': 1, 'vernon': 1, 'davis': 1, 'comes': 1, 'with': 1, 'a': 1, 'price': 1, '[bee-blog]:': 1, 'mon': 1, ',': 1, '29': 1, 'oct': 1, '2012': 1, '8': 1, ':...': 1, 'http': 1, '://t': 1, '.': 1, 'co/n0dncwvk': 1}
+Original text: Judging by the traffic and complaining, I think I might be best setting for Foo Fighters' Milton Keynes gig tomorrow right now
+Feature dictionary: {'judging': 1, 'by': 1, 'the': 1, 'traffic': 1, 'and': 1, 'complaining': 1, ',': 1, 'i': 2, 'think': 1, 'might': 1, 'be': 1, 'best': 1, 'setting': 1, 'for': 1, 'foo': 1, 'fighters': 1, "'": 1, 'milton': 1, 'keynes': 1, 'gig': 1, 'tomorrow': 1, 'right': 1, 'now': 1}
+Original text: @WalshFreedom You've celebrated people that commit Medicaid fraud.
+Feature dictionary: {'@walshfreedom': 1, 'you': 1, "'": 1, 've': 1, 'celebrated': 1, 'people': 1, 'that': 1, 'commit': 1, 'medicaid': 1, 'fraud': 1, '.': 1}
+Original text: As things stand, the bottom 3 in Serie A are Bologna (18th), Empoli (19th); and Juventus (20th).
+Feature dictionary: {'as': 1, 'things': 1, 'stand': 1, ',': 1, 'the': 1, 'bottom': 1, '3': 1, 'in': 1, 'serie': 1, 'a': 1, 'are': 1, 'bologna': 1, '(': 3, '18th': 1, '),': 1, 'empoli': 1, '19th': 1, ');': 1, 'and': 1, 'juventus': 1, '20th': 1, ').': 1}
+Original text: 'No Favorites' for Russia-Portugal Clash - Capello: MOSCOW, October 11 (RIA Novosti) - Russia's match with Portu... http://t.co/aQBz55zo
+Feature dictionary: {"'": 3, 'no': 1, 'favorites': 1, 'for': 1, 'russia-portugal': 1, 'clash': 1, '-': 2, 'capello': 1, ':': 1, 'moscow': 1, ',': 1, 'october': 1, '11': 1, '(': 1, 'ria': 1, 'novosti': 1, ')': 1, 'russia': 1, 's': 1, 'match': 1, 'with': 1, 'portu': 1, '...': 1, 'http': 1, '://t': 1, '.': 1, 'co/aqbz55zo': 1}
+Original text: It's a shame it's not a historic march up the 18th on the final Sunday for Paul Dunne. Hopefully he be in as strong a position tomorrow. ...
+Feature dictionary: {'it': 2, "'": 2, 's': 2, 'a': 3, 'shame': 1, 'not': 1, 'historic': 1, 'march': 1, 'up': 1, 'the': 2, '18th': 1, 'on': 1, 'final': 1, 'sunday': 1, 'for': 1, 'paul': 1, 'dunne': 1, '.': 2, 'hopefully': 1, 'he': 1, 'be': 1, 'in': 1, 'as': 1, 'strong': 1, 'position': 1, 'tomorrow': 1, '...': 1}
+Original text: @BullandFox As a point, Flacco had a 0.3 QBR last Sunday. Even vet QB had a bad day.
+Feature dictionary: {'@bullandfox': 1, 'as': 1, 'a': 3, 'point': 1, ',': 1, 'flacco': 1, 'had': 2, '0': 1, '.': 3, '3': 1, 'qbr': 1, 'last': 1, 'sunday': 1, 'even': 1, 'vet': 1, 'qb': 1, 'bad': 1, 'day': 1}
+Original text: RT @TelegraphSport: Gavin Henson looks set to miss the Rugby World Cup after dislocating a bone in his right wrist yesterday
+Feature dictionary: {'rt': 1, '@telegraphsport': 1, ':': 1, 'gavin': 1, 'henson': 1, 'looks': 1, 'set': 1, 'to': 1, 'miss': 1, 'the': 1, 'rugby': 1, 'world': 1, 'cup': 1, 'after': 1, 'dislocating': 1, 'a': 1, 'bone': 1, 'in': 1, 'his': 1, 'right': 1, 'wrist': 1, 'yesterday': 1}
+Original text: Niggas was really fighting at the gas station  Sat night tho
+Feature dictionary: {'niggas': 1, 'was': 1, 'really': 1, 'fighting': 1, 'at': 1, 'the': 1, 'gas': 1, 'station': 1, 'sat': 1, 'night': 1, 'tho': 1}
+Original text: @Waka_BacaFlame I'm already on my 3rd year at Colton it wouldn't make sense to graduate from gt after spending all this time here >.<
+Feature dictionary: {'@waka_bacaflame': 1, 'i': 1, "'": 2, 'm': 1, 'already': 1, 'on': 1, 'my': 1, '3rd': 1, 'year': 1, 'at': 1, 'colton': 1, 'it': 1, 'wouldn': 1, 't': 1, 'make': 1, 'sense': 1, 'to': 1, 'graduate': 1, 'from': 1, 'gt': 1, 'after': 1, 'spending': 1, 'all': 1, 'this': 1, 'time': 1, 'here': 1, '>.<': 1}
+Original text: Heather is like the serpent in the garden trying 2 entice info from McBain! Michael Easton, dont ever go away that long! Watching Tues #GH.
+Feature dictionary: {'heather': 1, 'is': 1, 'like': 1, 'the': 2, 'serpent': 1, 'in': 1, 'garden': 1, 'trying': 1, '2': 1, 'entice': 1, 'info': 1, 'from': 1, 'mcbain': 1, '!': 2, 'michael': 1, 'easton': 1, ',': 1, 'dont': 1, 'ever': 1, 'go': 1, 'away': 1, 'that': 1, 'long': 1, 'watching': 1, 'tues': 1, '#gh': 1, '.': 1}
+Original text: These #Iditarod updates are making me nervous!!! Sounds like Dallas Seavey has it but hope Aliy Zirkle can stay in 2nd!!!!
+Feature dictionary: {'these': 1, '#iditarod': 1, 'updates': 1, 'are': 1, 'making': 1, 'me': 1, 'nervous': 1, '!!!': 1, 'sounds': 1, 'like': 1, 'dallas': 1, 'seavey': 1, 'has': 1, 'it': 1, 'but': 1, 'hope': 1, 'aliy': 1, 'zirkle': 1, 'can': 1, 'stay': 1, 'in': 1, '2nd': 1, '!!!!': 1}
+Original text: @j9neverlose Traveling the whole circuit? Cleveland can be pretty dismal in March....unless you're drinking w me for my bday on St Pattys
+Feature dictionary: {'@j9neverlose': 1, 'traveling': 1, 'the': 1, 'whole': 1, 'circuit': 1, '?': 1, 'cleveland': 1, 'can': 1, 'be': 1, 'pretty': 1, 'dismal': 1, 'in': 1, 'march': 1, '....': 1, 'unless': 1, 'you': 1, "'": 1, 're': 1, 'drinking': 1, 'w': 1, 'me': 1, 'for': 1, 'my': 1, 'bday': 1, 'on': 1, 'st': 1, 'pattys': 1}
+Original text: #InternationalDirectionerDay It's obv. Directioners Day is on 23rd of July.. Directionators are just jerks!
+Feature dictionary: {'#internationaldirectionerday': 1, 'it': 1, "'": 1, 's': 1, 'obv': 1, '.': 1, 'directioners': 1, 'day': 1, 'is': 1, 'on': 1, '23rd': 1, 'of': 1, 'july': 1, '..': 1, 'directionators': 1, 'are': 1, 'just': 1, 'jerks': 1, '!': 1}
+Original text: MT @LccSy #Syria, Deir Ezzor: Mohammed Al-Saleh was martyred due to the shelling of the city. Tuesday, 9 October. http://t.co/5sHJoYRn
+Feature dictionary: {'mt': 1, '@lccsy': 1, '#syria': 1, ',': 2, 'deir': 1, 'ezzor': 1, ':': 1, 'mohammed': 1, 'al-saleh': 1, 'was': 1, 'martyred': 1, 'due': 1, 'to': 1, 'the': 2, 'shelling': 1, 'of': 1, 'city': 1, '.': 3, 'tuesday': 1, '9': 1, 'october': 1, 'http': 1, '://t': 1, 'co/5shjoyrn': 1}
+Original text: Carles Puyol could be out for up to 6 weeks after straining knee ligaments. Further tests on the Barca man tomorrow - http://t.co/RfNj8osA
+Feature dictionary: {'carles': 1, 'puyol': 1, 'could': 1, 'be': 1, 'out': 1, 'for': 1, 'up': 1, 'to': 1, '6': 1, 'weeks': 1, 'after': 1, 'straining': 1, 'knee': 1, 'ligaments': 1, '.': 2, 'further': 1, 'tests': 1, 'on': 1, 'the': 1, 'barca': 1, 'man': 1, 'tomorrow': 1, '-': 1, 'http': 1, '://t': 1, 'co/rfnj8osa': 1}
+Original text: I apologize in advance if any of you spot me in Malahide's Pennies tomorrow. uuggghfghfgd
+Feature dictionary: {'i': 1, 'apologize': 1, 'in': 2, 'advance': 1, 'if': 1, 'any': 1, 'of': 1, 'you': 1, 'spot': 1, 'me': 1, 'malahide': 1, "'": 1, 's': 1, 'pennies': 1, 'tomorrow': 1, '.': 1, 'uuggghfghfgd': 1}
+Original text: Senegal are disqualified from the 2013 Africa Cup of Nations after a riot forced Saturday's game with Ivory Coast to be abandoned.
+Feature dictionary: {'senegal': 1, 'are': 1, 'disqualified': 1, 'from': 1, 'the': 1, '2013': 1, 'africa': 1, 'cup': 1, 'of': 1, 'nations': 1, 'after': 1, 'a': 1, 'riot': 1, 'forced': 1, 'saturday': 1, "'": 1, 's': 1, 'game': 1, 'with': 1, 'ivory': 1, 'coast': 1, 'to': 1, 'be': 1, 'abandoned': 1, '.': 1}
+Original text: I got the practice CAHSEE tomorrow at school. dear practice CAHSEE, can you not. sincerely, me.
+Feature dictionary: {'i': 1, 'got': 1, 'the': 1, 'practice': 2, 'cahsee': 2, 'tomorrow': 1, 'at': 1, 'school': 1, '.': 3, 'dear': 1, ',': 2, 'can': 1, 'you': 1, 'not': 1, 'sincerely': 1, 'me': 1}
+Original text: cant go to hot springs for the band marching contest because i didnt march at homecoming
+Feature dictionary: {'cant': 1, 'go': 1, 'to': 1, 'hot': 1, 'springs': 1, 'for': 1, 'the': 1, 'band': 1, 'marching': 1, 'contest': 1, 'because': 1, 'i': 1, 'didnt': 1, 'march': 1, 'at': 1, 'homecoming': 1}
+Original text: @NotTheGolfer Could be similar to DRose as the 8 seed his 2nd year in. Don't know if the Cavs can make a jump like the Bulls to 1, but still
+Feature dictionary: {'@notthegolfer': 1, 'could': 1, 'be': 1, 'similar': 1, 'to': 2, 'drose': 1, 'as': 1, 'the': 3, '8': 1, 'seed': 1, 'his': 1, '2nd': 1, 'year': 1, 'in': 1, '.': 1, 'don': 1, "'": 1, 't': 1, 'know': 1, 'if': 1, 'cavs': 1, 'can': 1, 'make': 1, 'a': 1, 'jump': 1, 'like': 1, 'bulls': 1, '1': 1, ',': 1, 'but': 1, 'still': 1}
+Original text: i am not in the state of mind to take the ACT tomorrow
+Feature dictionary: {'i': 1, 'am': 1, 'not': 1, 'in': 1, 'the': 2, 'state': 1, 'of': 1, 'mind': 1, 'to': 1, 'take': 1, 'act': 1, 'tomorrow': 1}
+Original text: Lmao ite he ain't goin be to happy he said he coming to allderdice tomorrow for you nigga @Finally_Rich
+Feature dictionary: {'lmao': 1, 'ite': 1, 'he': 3, 'ain': 1, "'": 1, 't': 1, 'goin': 1, 'be': 1, 'to': 2, 'happy': 1, 'said': 1, 'coming': 1, 'allderdice': 1, 'tomorrow': 1, 'for': 1, 'you': 1, 'nigga': 1, '@finally_rich': 1}
+Original text: Strong revenue growth at Tudou, but the company keeps on bleeding heavily - http://t.co/olAzHbcs
+Feature dictionary: {'strong': 1, 'revenue': 1, 'growth': 1, 'at': 1, 'tudou': 1, ',': 1, 'but': 1, 'the': 1, 'company': 1, 'keeps': 1, 'on': 1, 'bleeding': 1, 'heavily': 1, '-': 1, 'http': 1, '://t': 1, '.': 1, 'co/olazhbcs': 1}
+Original text: Thunderbolt:A strong electric blast is loosed at the foe. It may also leave the foe paralyzed.
+Feature dictionary: {'thunderbolt': 1, ':': 1, 'a': 1, 'strong': 1, 'electric': 1, 'blast': 1, 'is': 1, 'loosed': 1, 'at': 1, 'the': 2, 'foe': 2, '.': 2, 'it': 1, 'may': 1, 'also': 1, 'leave': 1, 'paralyzed': 1}
+Original text: @tswift_NZ And I don't think it helps that tomorrow is Labour Day haha. Yup, fingers crossed that some stores put it out!
+Feature dictionary: {'@tswift_nz': 1, 'and': 1, 'i': 1, 'don': 1, "'": 1, 't': 1, 'think': 1, 'it': 2, 'helps': 1, 'that': 2, 'tomorrow': 1, 'is': 1, 'labour': 1, 'day': 1, 'haha': 1, '.': 1, 'yup': 1, ',': 1, 'fingers': 1, 'crossed': 1, 'some': 1, 'stores': 1, 'put': 1, 'out': 1, '!': 1}
+Original text: I miss old school Dashboard Confessional, taking back Sunday, senses fail, early November, and the used. #middleschooljams
+Feature dictionary: {'i': 1, 'miss': 1, 'old': 1, 'school': 1, 'dashboard': 1, 'confessional': 1, ',': 4, 'taking': 1, 'back': 1, 'sunday': 1, 'senses': 1, 'fail': 1, 'early': 1, 'november': 1, 'and': 1, 'the': 1, 'used': 1, '.': 1, '#middleschooljams': 1}
+Original text: Oomf is gonna get punched in the throat tomorrow -.-
+Feature dictionary: {'oomf': 1, 'is': 1, 'gonna': 1, 'get': 1, 'punched': 1, 'in': 1, 'the': 1, 'throat': 1, 'tomorrow': 1, '-.-': 1}
+Original text: Waaahhh I want to cry when I see Radio City because I wasn't there on the 11th to see the boys.
+Feature dictionary: {'waaahhh': 1, 'i': 3, 'want': 1, 'to': 2, 'cry': 1, 'when': 1, 'see': 2, 'radio': 1, 'city': 1, 'because': 1, 'wasn': 1, "'": 1, 't': 1, 'there': 1, 'on': 1, 'the': 2, '11th': 1, 'boys': 1, '.': 1}
+Original text: Daylight savings time ends this weekend. And I don't know what this means for the timing on F1 on Sunday.
+Feature dictionary: {'daylight': 1, 'savings': 1, 'time': 1, 'ends': 1, 'this': 2, 'weekend': 1, '.': 2, 'and': 1, 'i': 1, 'don': 1, "'": 1, 't': 1, 'know': 1, 'what': 1, 'means': 1, 'for': 1, 'the': 1, 'timing': 1, 'on': 2, 'f1': 1, 'sunday': 1}
+Original text: Can't sleep. Got a lot on my mind. If I can't get to the WGC tourney in Russia, I really need to fight in Dec/Jan... Gotta stay busy!
+Feature dictionary: {'can': 2, "'": 2, 't': 2, 'sleep': 1, '.': 2, 'got': 1, 'a': 1, 'lot': 1, 'on': 1, 'my': 1, 'mind': 1, 'if': 1, 'i': 2, 'get': 1, 'to': 2, 'the': 1, 'wgc': 1, 'tourney': 1, 'in': 2, 'russia': 1, ',': 1, 'really': 1, 'need': 1, 'fight': 1, 'dec/jan': 1, '...': 1, 'gotta': 1, 'stay': 1, 'busy': 1, '!': 1}
+Original text: I'm absolutely skint til payday next Friday. This all stems from being paid the day I went to Leeds festival.
+Feature dictionary: {'i': 2, "'": 1, 'm': 1, 'absolutely': 1, 'skint': 1, 'til': 1, 'payday': 1, 'next': 1, 'friday': 1, '.': 2, 'this': 1, 'all': 1, 'stems': 1, 'from': 1, 'being': 1, 'paid': 1, 'the': 1, 'day': 1, 'went': 1, 'to': 1, 'leeds': 1, 'festival': 1}
+Original text: My mom's over here tryna tell me that we're taking the CAHSEE tomorrow ._. Nigga it's only the second month of school.. #SlowYourRoll
+Feature dictionary: {'my': 1, 'mom': 1, "'": 3, 's': 2, 'over': 1, 'here': 1, 'tryna': 1, 'tell': 1, 'me': 1, 'that': 1, 'we': 1, 're': 1, 'taking': 1, 'the': 2, 'cahsee': 1, 'tomorrow': 1, '.': 2, '_': 1, 'nigga': 1, 'it': 1, 'only': 1, 'second': 1, 'month': 1, 'of': 1, 'school': 1, '..': 1, '#slowyourroll': 1}
+Original text: @OrangeBob77 I haven't made game-by-game predictions, but I think it'll take a few breaks to get to 27-28 wins before Selection Sunday.
+Feature dictionary: {'@orangebob77': 1, 'i': 2, 'haven': 1, "'": 2, 't': 1, 'made': 1, 'game-by-game': 1, 'predictions': 1, ',': 1, 'but': 1, 'think': 1, 'it': 1, 'll': 1, 'take': 1, 'a': 1, 'few': 1, 'breaks': 1, 'to': 2, 'get': 1, '27-28': 1, 'wins': 1, 'before': 1, 'selection': 1, 'sunday': 1, '.': 1}
+Original text: I really wish I didn't have to take the ACT tomorrow
+Feature dictionary: {'i': 2, 'really': 1, 'wish': 1, 'didn': 1, "'": 1, 't': 1, 'have': 1, 'to': 1, 'take': 1, 'the': 1, 'act': 1, 'tomorrow': 1}
+Original text: Halloween wore me out next on the list Danksgiving on Nov 23 at Big Fish Pub in tempe hit up for slots and info only a couple left
+Feature dictionary: {'halloween': 1, 'wore': 1, 'me': 1, 'out': 1, 'next': 1, 'on': 2, 'the': 1, 'list': 1, 'danksgiving': 1, 'nov': 1, '23': 1, 'at': 1, 'big': 1, 'fish': 1, 'pub': 1, 'in': 1, 'tempe': 1, 'hit': 1, 'up': 1, 'for': 1, 'slots': 1, 'and': 1, 'info': 1, 'only': 1, 'a': 1, 'couple': 1, 'left': 1}
+Original text: Sunday night wrap-up: Manning, Broncos roll Saints: His arm might not be full strength yet. And then he whacked ... http://t.co/fkWUIfYR
+Feature dictionary: {'sunday': 1, 'night': 1, 'wrap-up': 1, ':': 2, 'manning': 1, ',': 1, 'broncos': 1, 'roll': 1, 'saints': 1, 'his': 1, 'arm': 1, 'might': 1, 'not': 1, 'be': 1, 'full': 1, 'strength': 1, 'yet': 1, '.': 2, 'and': 1, 'then': 1, 'he': 1, 'whacked': 1, '...': 1, 'http': 1, '://t': 1, 'co/fkwuifyr': 1}
+Original text: Turn's out Apple's snarky statement about Samsung isn't quite what the judge had in mind: http://t.co/KSBrrlUq
+Feature dictionary: {'turn': 1, "'": 3, 's': 2, 'out': 1, 'apple': 1, 'snarky': 1, 'statement': 1, 'about': 1, 'samsung': 1, 'isn': 1, 't': 1, 'quite': 1, 'what': 1, 'the': 1, 'judge': 1, 'had': 1, 'in': 1, 'mind': 1, ':': 1, 'http': 1, '://t': 1, '.': 1, 'co/ksbrrluq': 1}
+Original text: @NebGilum @Jbb412 @SledHeadMove when Neb comes down here tomorrow I'm gonna knock the sled of his head then beat the fuck outta him with it
+Feature dictionary: {'@nebgilum': 1, '@jbb412': 1, '@sledheadmove': 1, 'when': 1, 'neb': 1, 'comes': 1, 'down': 1, 'here': 1, 'tomorrow': 1, 'i': 1, "'": 1, 'm': 1, 'gonna': 1, 'knock': 1, 'the': 2, 'sled': 1, 'of': 1, 'his': 1, 'head': 1, 'then': 1, 'beat': 1, 'fuck': 1, 'outta': 1, 'him': 1, 'with': 1, 'it': 1}
+Original text: @shazzer42000 Poor match ended their winning streak. They also lost to Leverkusen at home for the 1st time in 24 years.
+Feature dictionary: {'@shazzer42000': 1, 'poor': 1, 'match': 1, 'ended': 1, 'their': 1, 'winning': 1, 'streak': 1, '.': 2, 'they': 1, 'also': 1, 'lost': 1, 'to': 1, 'leverkusen': 1, 'at': 1, 'home': 1, 'for': 1, 'the': 1, '1st': 1, 'time': 1, 'in': 1, '24': 1, 'years': 1}
+Original text: And whilst listening to Dashboard with a hangover, I may as well slit my wrists
+Feature dictionary: {'and': 1, 'whilst': 1, 'listening': 1, 'to': 1, 'dashboard': 1, 'with': 1, 'a': 1, 'hangover': 1, ',': 1, 'i': 1, 'may': 1, 'as': 1, 'well': 1, 'slit': 1, 'my': 1, 'wrists': 1}
+Original text: @1DsHotTamale ~.~t u cant just tweet sum1 GUESS WHO IMMA SEE THURSDAY and NIT TWEET THEM BACK!! >.< lol
+Feature dictionary: {'@1dshottamale': 1, '~.~t': 1, 'u': 1, 'cant': 1, 'just': 1, 'tweet': 2, 'sum1': 1, 'guess': 1, 'who': 1, 'imma': 1, 'see': 1, 'thursday': 1, 'and': 1, 'nit': 1, 'them': 1, 'back': 1, '!!': 1, '>.<': 1, 'lol': 1}
+Original text: Tangina, my heart's breaking. I won't get to see Sum 41 on the March 8 because I don't like the line up for Smash Project. Omg.
+Feature dictionary: {'tangina': 1, ',': 1, 'my': 1, 'heart': 1, "'": 3, 's': 1, 'breaking': 1, '.': 3, 'i': 2, 'won': 1, 't': 2, 'get': 1, 'to': 1, 'see': 1, 'sum': 1, '41': 1, 'on': 1, 'the': 2, 'march': 1, '8': 1, 'because': 1, 'don': 1, 'like': 1, 'line': 1, 'up': 1, 'for': 1, 'smash': 1, 'project': 1, 'omg': 1}
+Original text: Eden Hazard's through ball to Juan Mata for the 3rd goal against Spurs - are you serious???!!! #onetouch #instinctive #class
+Feature dictionary: {'eden': 1, 'hazard': 1, "'": 1, 's': 1, 'through': 1, 'ball': 1, 'to': 1, 'juan': 1, 'mata': 1, 'for': 1, 'the': 1, '3rd': 1, 'goal': 1, 'against': 1, 'spurs': 1, '-': 1, 'are': 1, 'you': 1, 'serious': 1, '???!!!': 1, '#onetouch': 1, '#instinctive': 1, '#class': 1}
+Original text: Anxious for the one next Wednesday I need to get to the bottom of this Bobbi Kristina and Nick thing
+Feature dictionary: {'anxious': 1, 'for': 1, 'the': 2, 'one': 1, 'next': 1, 'wednesday': 1, 'i': 1, 'need': 1, 'to': 2, 'get': 1, 'bottom': 1, 'of': 1, 'this': 1, 'bobbi': 1, 'kristina': 1, 'and': 1, 'nick': 1, 'thing': 1}
+Original text: Fuck the talent show lets go to the basketball tournament on Friday at Richard bland to support kenston forest
+Feature dictionary: {'fuck': 1, 'the': 2, 'talent': 1, 'show': 1, 'lets': 1, 'go': 1, 'to': 2, 'basketball': 1, 'tournament': 1, 'on': 1, 'friday': 1, 'at': 1, 'richard': 1, 'bland': 1, 'support': 1, 'kenston': 1, 'forest': 1}
+Original text: I am telling you come what may, Kareena Kapoor will not win a National Award for Heroine.
+Feature dictionary: {'i': 1, 'am': 1, 'telling': 1, 'you': 1, 'come': 1, 'what': 1, 'may': 1, ',': 1, 'kareena': 1, 'kapoor': 1, 'will': 1, 'not': 1, 'win': 1, 'a': 1, 'national': 1, 'award': 1, 'for': 1, 'heroine': 1, '.': 1}
+Original text: @arifazmin even I didn't know it's 18th sept at KL Live to be exact :p
+Feature dictionary: {'@arifazmin': 1, 'even': 1, 'i': 1, 'didn': 1, "'": 2, 't': 1, 'know': 1, 'it': 1, 's': 1, '18th': 1, 'sept': 1, 'at': 1, 'kl': 1, 'live': 1, 'to': 1, 'be': 1, 'exact': 1, ':': 1, 'p': 1}
+Original text: MT @LccSy #Syria, Deir Ezzor,  Bokamal: Indiscriminate mortar shelling on different parts of the city, Sunday, 7 Oct. http://t.co/kAtqY6yQ
+Feature dictionary: {'mt': 1, '@lccsy': 1, '#syria': 1, ',': 4, 'deir': 1, 'ezzor': 1, 'bokamal': 1, ':': 1, 'indiscriminate': 1, 'mortar': 1, 'shelling': 1, 'on': 1, 'different': 1, 'parts': 1, 'of': 1, 'the': 1, 'city': 1, 'sunday': 1, '7': 1, 'oct': 1, '.': 2, 'http': 1, '://t': 1, 'co/katqy6yq': 1}
+Original text: Jim Rogers: Bernanke Hasn't Done Anything Right as Fed Chief ...: From the blog Breakout: On September 12 of thi... http://t.co/6VLfCK6u
+Feature dictionary: {'jim': 1, 'rogers': 1, ':': 2, 'bernanke': 1, 'hasn': 1, "'": 1, 't': 1, 'done': 1, 'anything': 1, 'right': 1, 'as': 1, 'fed': 1, 'chief': 1, '...:': 1, 'from': 1, 'the': 1, 'blog': 1, 'breakout': 1, 'on': 1, 'september': 1, '12': 1, 'of': 1, 'thi': 1, '...': 1, 'http': 1, '://t': 1, '.': 1, 'co/6vlfck6u': 1}
+Original text: @Moilifestyle No ! I'm looking so bummy tomorrow ! I have to take the CAHSEE
+Feature dictionary: {'@moilifestyle': 1, 'no': 1, '!': 2, 'i': 2, "'": 1, 'm': 1, 'looking': 1, 'so': 1, 'bummy': 1, 'tomorrow': 1, 'have': 1, 'to': 1, 'take': 1, 'the': 1, 'cahsee': 1}
+Original text: I may or may not have freightened a large number of L.A. residents, merely  by making EYE contact with them in the past 48 hours.
+Feature dictionary: {'i': 1, 'may': 2, 'or': 1, 'not': 1, 'have': 1, 'freightened': 1, 'a': 2, 'large': 1, 'number': 1, 'of': 1, 'l': 1, '.': 3, 'residents': 1, ',': 1, 'merely': 1, 'by': 1, 'making': 1, 'eye': 1, 'contact': 1, 'with': 1, 'them': 1, 'in': 1, 'the': 1, 'past': 1, '48': 1, 'hours': 1}
+Original text: [Tempo] Vanuatu quake | A strong 6.2-magnitude earthquake rattled the South Pacific island of Vanuatu Sunday, seismo... http://t.co/xoSnYLyj
+Feature dictionary: {'[tempo]': 1, 'vanuatu': 2, 'quake': 1, '|': 1, 'a': 1, 'strong': 1, '6': 1, '.': 2, '2-magnitude': 1, 'earthquake': 1, 'rattled': 1, 'the': 1, 'south': 1, 'pacific': 1, 'island': 1, 'of': 1, 'sunday': 1, ',': 1, 'seismo': 1, '...': 1, 'http': 1, '://t': 1, 'co/xosnylyj': 1}
+Original text: @MCVCINSPIRESME once again I 2nd that... I wanna know what the hell they are saying on Bachelor and Cube without translator
+Feature dictionary: {'@mcvcinspiresme': 1, 'once': 1, 'again': 1, 'i': 2, '2nd': 1, 'that': 1, '...': 1, 'wanna': 1, 'know': 1, 'what': 1, 'the': 1, 'hell': 1, 'they': 1, 'are': 1, 'saying': 1, 'on': 1, 'bachelor': 1, 'and': 1, 'cube': 1, 'without': 1, 'translator': 1}
+Original text: Dammn yung Tracy McGrady goin to play in China really wish injuries didnt slow him down was one the best in the @NBA my 2nd favorite player
+Feature dictionary: {'dammn': 1, 'yung': 1, 'tracy': 1, 'mcgrady': 1, 'goin': 1, 'to': 1, 'play': 1, 'in': 2, 'china': 1, 'really': 1, 'wish': 1, 'injuries': 1, 'didnt': 1, 'slow': 1, 'him': 1, 'down': 1, 'was': 1, 'one': 1, 'the': 2, 'best': 1, '@nba': 1, 'my': 1, '2nd': 1, 'favorite': 1, 'player': 1}
+Original text: Intimate showcase with Chris Rene - November 7 in Auckland. Can't buy tickets to this. Click the link to enter... http://t.co/jfhKiRzM
+Feature dictionary: {'intimate': 1, 'showcase': 1, 'with': 1, 'chris': 1, 'rene': 1, '-': 1, 'november': 1, '7': 1, 'in': 1, 'auckland': 1, '.': 3, 'can': 1, "'": 1, 't': 1, 'buy': 1, 'tickets': 1, 'to': 2, 'this': 1, 'click': 1, 'the': 1, 'link': 1, 'enter': 1, '...': 1, 'http': 1, '://t': 1, 'co/jfhkirzm': 1}
+Original text: @_2Shades_ maybe 3rd team bro, he's not better than trey Burke from Michigan
+Feature dictionary: {'@_2shades_': 1, 'maybe': 1, '3rd': 1, 'team': 1, 'bro': 1, ',': 1, 'he': 1, "'": 1, 's': 1, 'not': 1, 'better': 1, 'than': 1, 'trey': 1, 'burke': 1, 'from': 1, 'michigan': 1}
+Original text: Roll on Thursday when I can get back to the gym;6 weeks of doing nothing but drink and eat crap since Leeds Festival is taking its toll #fat
+Feature dictionary: {'roll': 1, 'on': 1, 'thursday': 1, 'when': 1, 'i': 1, 'can': 1, 'get': 1, 'back': 1, 'to': 1, 'the': 1, 'gym': 1, ';': 1, '6': 1, 'weeks': 1, 'of': 1, 'doing': 1, 'nothing': 1, 'but': 1, 'drink': 1, 'and': 1, 'eat': 1, 'crap': 1, 'since': 1, 'leeds': 1, 'festival': 1, 'is': 1, 'taking': 1, 'its': 1, 'toll': 1, '#fat': 1}
+Original text: Hidind the scars from all the kids at the OGT's tomorrow will be hard.. *sigh* :'(
+Feature dictionary: {'hidind': 1, 'the': 3, 'scars': 1, 'from': 1, 'all': 1, 'kids': 1, 'at': 1, 'ogt': 1, "'": 1, 's': 1, 'tomorrow': 1, 'will': 1, 'be': 1, 'hard': 1, '..': 1, '*sigh*': 1, ":'(": 1}
+Original text: Sophos is the Lamest Virus Ever...: Starting September 19, Sophos successfully became the lamest... http://t.co/14HqjMMq |InfoSecIsland
+Feature dictionary: {'sophos': 2, 'is': 1, 'the': 2, 'lamest': 2, 'virus': 1, 'ever': 1, '...:': 1, 'starting': 1, 'september': 1, '19': 1, ',': 1, 'successfully': 1, 'became': 1, '...': 1, 'http': 1, '://t': 1, '.': 1, 'co/14hqjmmq': 1, '|infosecisland': 1}
+Original text: A year ago tomorrow changed the ICONiac fan base forever :(
+Feature dictionary: {'a': 1, 'year': 1, 'ago': 1, 'tomorrow': 1, 'changed': 1, 'the': 1, 'iconiac': 1, 'fan': 1, 'base': 1, 'forever': 1, ':(': 1}
+Original text: Hard day looking forward to my tea now may have to call in to an irlam takeaway #memories
+Feature dictionary: {'hard': 1, 'day': 1, 'looking': 1, 'forward': 1, 'to': 3, 'my': 1, 'tea': 1, 'now': 1, 'may': 1, 'have': 1, 'call': 1, 'in': 1, 'an': 1, 'irlam': 1, 'takeaway': 1, '#memories': 1}
+Original text: I have a 150 minute flight tomorrow morning. #fuck #sleeping #tonight. I'm going to sleep on the plane, and listen to Yoko Kanno.
+Feature dictionary: {'i': 2, 'have': 1, 'a': 1, '150': 1, 'minute': 1, 'flight': 1, 'tomorrow': 1, 'morning': 1, '.': 3, '#fuck': 1, '#sleeping': 1, '#tonight': 1, "'": 1, 'm': 1, 'going': 1, 'to': 2, 'sleep': 1, 'on': 1, 'the': 1, 'plane': 1, ',': 1, 'and': 1, 'listen': 1, 'yoko': 1, 'kanno': 1}
+Original text: Renewed fighting rocks Syria: An early morning explosion rocked the flashpoint city of Deir Ezzor on Saturday in... http://t.co/zf7AKZMr
+Feature dictionary: {'renewed': 1, 'fighting': 1, 'rocks': 1, 'syria': 1, ':': 1, 'an': 1, 'early': 1, 'morning': 1, 'explosion': 1, 'rocked': 1, 'the': 1, 'flashpoint': 1, 'city': 1, 'of': 1, 'deir': 1, 'ezzor': 1, 'on': 1, 'saturday': 1, 'in': 1, '...': 1, 'http': 1, '://t': 1, '.': 1, 'co/zf7akzmr': 1}
+Original text: Don't want to home tomorrow #omfg iHATEschool-.- Cuba is awesome...
+Feature dictionary: {'don': 1, "'": 1, 't': 1, 'want': 1, 'to': 1, 'home': 1, 'tomorrow': 1, '#omfg': 1, 'ihateschool-.-': 1, 'cuba': 1, 'is': 1, 'awesome': 1, '...': 1}
+Original text: Samajwadi Party's parliamentary board will not meet tomorrow to decide the future course of action. Next meeting no decided yet.
+Feature dictionary: {'samajwadi': 1, 'party': 1, "'": 1, 's': 1, 'parliamentary': 1, 'board': 1, 'will': 1, 'not': 1, 'meet': 1, 'tomorrow': 1, 'to': 1, 'decide': 1, 'the': 1, 'future': 1, 'course': 1, 'of': 1, 'action': 1, '.': 2, 'next': 1, 'meeting': 1, 'no': 1, 'decided': 1, 'yet': 1}
+Original text: You never forget your first love, not surprisec in Oedipus's case he saw her every Mothering Sunday.
+Feature dictionary: {'you': 1, 'never': 1, 'forget': 1, 'your': 1, 'first': 1, 'love': 1, ',': 1, 'not': 1, 'surprisec': 1, 'in': 1, 'oedipus': 1, "'": 1, 's': 1, 'case': 1, 'he': 1, 'saw': 1, 'her': 1, 'every': 1, 'mothering': 1, 'sunday': 1, '.': 1}
+Original text: I just don't know if The Celtics have a chance this season.... also concerned that Garnett may need a hug.
+Feature dictionary: {'i': 1, 'just': 1, 'don': 1, "'": 1, 't': 1, 'know': 1, 'if': 1, 'the': 1, 'celtics': 1, 'have': 1, 'a': 2, 'chance': 1, 'this': 1, 'season': 1, '....': 1, 'also': 1, 'concerned': 1, 'that': 1, 'garnett': 1, 'may': 1, 'need': 1, 'hug': 1, '.': 1}
+Original text: Need cough medicine and/or Lemsips. May be critical if you want the Gazette on Wednesday! Anyone do deliveries??? #dying
+Feature dictionary: {'need': 1, 'cough': 1, 'medicine': 1, 'and/or': 1, 'lemsips': 1, '.': 1, 'may': 1, 'be': 1, 'critical': 1, 'if': 1, 'you': 1, 'want': 1, 'the': 1, 'gazette': 1, 'on': 1, 'wednesday': 1, '!': 1, 'anyone': 1, 'do': 1, 'deliveries': 1, '???': 1, '#dying': 1}
+Original text: Yep she's running a fever 101.7 uh oh I think she is missing school and her Girl Scouts meeting tomorrow!!
+Feature dictionary: {'yep': 1, 'she': 2, "'": 1, 's': 1, 'running': 1, 'a': 1, 'fever': 1, '101': 1, '.': 1, '7': 1, 'uh': 1, 'oh': 1, 'i': 1, 'think': 1, 'is': 1, 'missing': 1, 'school': 1, 'and': 1, 'her': 1, 'girl': 1, 'scouts': 1, 'meeting': 1, 'tomorrow': 1, '!!': 1}
+Original text: My boy Dennis Kucinich at it again. Screw Ohio for redistricting the state and voting him out come November. http://t.co/HIdeMdIk
+Feature dictionary: {'my': 1, 'boy': 1, 'dennis': 1, 'kucinich': 1, 'at': 1, 'it': 1, 'again': 1, '.': 3, 'screw': 1, 'ohio': 1, 'for': 1, 'redistricting': 1, 'the': 1, 'state': 1, 'and': 1, 'voting': 1, 'him': 1, 'out': 1, 'come': 1, 'november': 1, 'http': 1, '://t': 1, 'co/hidemdik': 1}
+Original text: @hamilton_elle swing by Hollywood Tans if its too hot for the Dubai sun.
+Feature dictionary: {'@hamilton_elle': 1, 'swing': 1, 'by': 1, 'hollywood': 1, 'tans': 1, 'if': 1, 'its': 1, 'too': 1, 'hot': 1, 'for': 1, 'the': 1, 'dubai': 1, 'sun': 1, '.': 1}
+Original text: @bensmith202 @RachelJWC michael ball is incredible 10th anniversary with him and colm is sick
+Feature dictionary: {'@bensmith202': 1, '@racheljwc': 1, 'michael': 1, 'ball': 1, 'is': 2, 'incredible': 1, '10th': 1, 'anniversary': 1, 'with': 1, 'him': 1, 'and': 1, 'colm': 1, 'sick': 1}
+Original text: I would rather eat my left foot then to be taking the SATs tomorrow
+Feature dictionary: {'i': 1, 'would': 1, 'rather': 1, 'eat': 1, 'my': 1, 'left': 1, 'foot': 1, 'then': 1, 'to': 1, 'be': 1, 'taking': 1, 'the': 1, 'sats': 1, 'tomorrow': 1}
+Original text: Assad continues to bombard #Homs, 4 the 17th consecutive day, mobile ntwrks off 4 the 4th day, mjr battles around Baba Amr #Syria
+Feature dictionary: {'assad': 1, 'continues': 1, 'to': 1, 'bombard': 1, '#homs': 1, ',': 3, '4': 2, 'the': 2, '17th': 1, 'consecutive': 1, 'day': 2, 'mobile': 1, 'ntwrks': 1, 'off': 1, '4th': 1, 'mjr': 1, 'battles': 1, 'around': 1, 'baba': 1, 'amr': 1, '#syria': 1}
+Original text: James Pattinson may not make it to the ODI tour of England despite his expected recovery as the selectors ponder ...  #Australia #CRICKET
+Feature dictionary: {'james': 1, 'pattinson': 1, 'may': 1, 'not': 1, 'make': 1, 'it': 1, 'to': 1, 'the': 2, 'odi': 1, 'tour': 1, 'of': 1, 'england': 1, 'despite': 1, 'his': 1, 'expected': 1, 'recovery': 1, 'as': 1, 'selectors': 1, 'ponder': 1, '...': 1, '#australia': 1, '#cricket': 1}
+Original text: I think we may have just found out the reason he plays Carrick at centre half when we have no one else #lackofexperienceshows
+Feature dictionary: {'i': 1, 'think': 1, 'we': 2, 'may': 1, 'have': 2, 'just': 1, 'found': 1, 'out': 1, 'the': 1, 'reason': 1, 'he': 1, 'plays': 1, 'carrick': 1, 'at': 1, 'centre': 1, 'half': 1, 'when': 1, 'no': 1, 'one': 1, 'else': 1, '#lackofexperienceshows': 1}
+Original text: Lack of LTE may cause Google Nexus 4 to flop: While Google is expecting the Nexus 4 to be a strong followup to the... http://t.co/5fUfQf3u
+Feature dictionary: {'lack': 1, 'of': 1, 'lte': 1, 'may': 1, 'cause': 1, 'google': 2, 'nexus': 2, '4': 2, 'to': 3, 'flop': 1, ':': 1, 'while': 1, 'is': 1, 'expecting': 1, 'the': 2, 'be': 1, 'a': 1, 'strong': 1, 'followup': 1, '...': 1, 'http': 1, '://t': 1, '.': 1, 'co/5fufqf3u': 1}
+Original text: @shelboxoxo I'm going to Cuba buuuttt I doubt I will be doing what y'all will #13.1 Sunday
+Feature dictionary: {'@shelboxoxo': 1, 'i': 3, "'": 2, 'm': 1, 'going': 1, 'to': 1, 'cuba': 1, 'buuuttt': 1, 'doubt': 1, 'will': 2, 'be': 1, 'doing': 1, 'what': 1, 'y': 1, 'all': 1, '#13': 1, '.': 1, '1': 1, 'sunday': 1}
+Original text: @BarackObama, Clinton, Panetta, Petraeus we will not #StandDown on Nov 6 or Nov 7 or Nov 8th. Do the right thing now. #WeWillNotLetThisGo
+Feature dictionary: {'@barackobama': 1, ',': 3, 'clinton': 1, 'panetta': 1, 'petraeus': 1, 'we': 1, 'will': 1, 'not': 1, '#standdown': 1, 'on': 1, 'nov': 3, '6': 1, 'or': 2, '7': 1, '8th': 1, '.': 2, 'do': 1, 'the': 1, 'right': 1, 'thing': 1, 'now': 1, '#wewillnotletthisgo': 1}
+Original text: Well yall are gonna forget about this tomorrow anyway just like KONY
+Feature dictionary: {'well': 1, 'yall': 1, 'are': 1, 'gonna': 1, 'forget': 1, 'about': 1, 'this': 1, 'tomorrow': 1, 'anyway': 1, 'just': 1, 'like': 1, 'kony': 1}
+Original text: I may end up just watching more NHK tonight. Feel too nauseous to do any actual gaming before bed. Have to get up at 5 AM tomorrow.
+Feature dictionary: {'i': 1, 'may': 1, 'end': 1, 'up': 2, 'just': 1, 'watching': 1, 'more': 1, 'nhk': 1, 'tonight': 1, '.': 3, 'feel': 1, 'too': 1, 'nauseous': 1, 'to': 2, 'do': 1, 'any': 1, 'actual': 1, 'gaming': 1, 'before': 1, 'bed': 1, 'have': 1, 'get': 1, 'at': 1, '5': 1, 'am': 1, 'tomorrow': 1}
+Original text: @CarlJWood I teach my class to count in pennies at first. I may be part of the problem.
+Feature dictionary: {'@carljwood': 1, 'i': 2, 'teach': 1, 'my': 1, 'class': 1, 'to': 1, 'count': 1, 'in': 1, 'pennies': 1, 'at': 1, 'first': 1, '.': 2, 'may': 1, 'be': 1, 'part': 1, 'of': 1, 'the': 1, 'problem': 1}
+Original text: wait, don't tell me he ranked 7th? as Fashion King, really?
+Feature dictionary: {'wait': 1, ',': 2, 'don': 1, "'": 1, 't': 1, 'tell': 1, 'me': 1, 'he': 1, 'ranked': 1, '7th': 1, '?': 2, 'as': 1, 'fashion': 1, 'king': 1, 'really': 1}
+Original text: Slow Economic Gains in 3rd Quarter: ABJ - October 26 - Some reason for optimism surfaced during the third-quarte... http://t.co/WZBl07SG
+Feature dictionary: {'slow': 1, 'economic': 1, 'gains': 1, 'in': 1, '3rd': 1, 'quarter': 1, ':': 1, 'abj': 1, '-': 2, 'october': 1, '26': 1, 'some': 1, 'reason': 1, 'for': 1, 'optimism': 1, 'surfaced': 1, 'during': 1, 'the': 1, 'third-quarte': 1, '...': 1, 'http': 1, '://t': 1, '.': 1, 'co/wzbl07sg': 1}
+Original text: How did Dylan Quirk not make the Vic 19's. He kept to James Pattinson, Darren Pattinson and Peter Siddle in a 1st grade Grand Final at 15.
+Feature dictionary: {'how': 1, 'did': 1, 'dylan': 1, 'quirk': 1, 'not': 1, 'make': 1, 'the': 1, 'vic': 1, '19': 1, "'": 1, 's': 1, '.': 2, 'he': 1, 'kept': 1, 'to': 1, 'james': 1, 'pattinson': 2, ',': 1, 'darren': 1, 'and': 1, 'peter': 1, 'siddle': 1, 'in': 1, 'a': 1, '1st': 1, 'grade': 1, 'grand': 1, 'final': 1, 'at': 1, '15': 1}
+Original text: ASU Pajamas or Northglenn Pajamas tomorrow? Trust me, its harder than you think.
+Feature dictionary: {'asu': 1, 'pajamas': 2, 'or': 1, 'northglenn': 1, 'tomorrow': 1, '?': 1, 'trust': 1, 'me': 1, ',': 1, 'its': 1, 'harder': 1, 'than': 1, 'you': 1, 'think': 1, '.': 1}
+Original text: Juniors playing powderpuff, if you aren't at practice tomorrow you will NOT play, it starts at 5:30pm, hope to see you there!
+Feature dictionary: {'juniors': 1, 'playing': 1, 'powderpuff': 1, ',': 3, 'if': 1, 'you': 3, 'aren': 1, "'": 1, 't': 1, 'at': 2, 'practice': 1, 'tomorrow': 1, 'will': 1, 'not': 1, 'play': 1, 'it': 1, 'starts': 1, '5': 1, ':': 1, '30pm': 1, 'hope': 1, 'to': 1, 'see': 1, 'there': 1, '!': 1}
+Original text: #Bills Mario Williams not sure if he'll practice today (wrist) expects to be more effective Sunday. @wgrz
+Feature dictionary: {'#bills': 1, 'mario': 1, 'williams': 1, 'not': 1, 'sure': 1, 'if': 1, 'he': 1, "'": 1, 'll': 1, 'practice': 1, 'today': 1, '(': 1, 'wrist': 1, ')': 1, 'expects': 1, 'to': 1, 'be': 1, 'more': 1, 'effective': 1, 'sunday': 1, '.': 1, '@wgrz': 1}
+Original text: Win #3 for Bowyer. And for the 3rd time can't drive it to Victory Lane #NASCAR
+Feature dictionary: {'win': 1, '#3': 1, 'for': 2, 'bowyer': 1, '.': 1, 'and': 1, 'the': 1, '3rd': 1, 'time': 1, 'can': 1, "'": 1, 't': 1, 'drive': 1, 'it': 1, 'to': 1, 'victory': 1, 'lane': 1, '#nascar': 1}
+Original text: Coming up in your Weekend Argus tomorrow: Kalk Bay waves cause some damage in the area.
+Feature dictionary: {'coming': 1, 'up': 1, 'in': 2, 'your': 1, 'weekend': 1, 'argus': 1, 'tomorrow': 1, ':': 1, 'kalk': 1, 'bay': 1, 'waves': 1, 'cause': 1, 'some': 1, 'damage': 1, 'the': 1, 'area': 1, '.': 1}
+Original text: It's endorsement season. You'll want to read tomorrow's Indian Wells editorial. I'm thinking upset @mydesert
+Feature dictionary: {'it': 1, "'": 4, 's': 2, 'endorsement': 1, 'season': 1, '.': 2, 'you': 1, 'll': 1, 'want': 1, 'to': 1, 'read': 1, 'tomorrow': 1, 'indian': 1, 'wells': 1, 'editorial': 1, 'i': 1, 'm': 1, 'thinking': 1, 'upset': 1, '@mydesert': 1}
+Original text: @MattMahony86 They had a bit on E News the 29th with Adele's announcment and my dad called her a slut and not a good role model. He was
+Feature dictionary: {'@mattmahony86': 1, 'they': 1, 'had': 1, 'a': 3, 'bit': 1, 'on': 1, 'e': 1, 'news': 1, 'the': 1, '29th': 1, 'with': 1, 'adele': 1, "'": 1, 's': 1, 'announcment': 1, 'and': 2, 'my': 1, 'dad': 1, 'called': 1, 'her': 1, 'slut': 1, 'not': 1, 'good': 1, 'role': 1, 'model': 1, '.': 1, 'he': 1, 'was': 1}
+Original text: oh, Vincent Jackson, why must you play on Thursday? making my WR decision very difficult indeed.  #fantasyfootballproblems
+Feature dictionary: {'oh': 1, ',': 2, 'vincent': 1, 'jackson': 1, 'why': 1, 'must': 1, 'you': 1, 'play': 1, 'on': 1, 'thursday': 1, '?': 1, 'making': 1, 'my': 1, 'wr': 1, 'decision': 1, 'very': 1, 'difficult': 1, 'indeed': 1, '.': 1, '#fantasyfootballproblems': 1}
+Original text: Not excited to take the SATs tomorrow
+Feature dictionary: {'not': 1, 'excited': 1, 'to': 1, 'take': 1, 'the': 1, 'sats': 1, 'tomorrow': 1}
+Original text: @NupeyKollins douglas wack! They got Shumpert 72. He be dunking on niggas. I dunked in Lebron with Lin last night hahahahhaa on Brentley
+Feature dictionary: {'@nupeykollins': 1, 'douglas': 1, 'wack': 1, '!': 1, 'they': 1, 'got': 1, 'shumpert': 1, '72': 1, '.': 2, 'he': 1, 'be': 1, 'dunking': 1, 'on': 2, 'niggas': 1, 'i': 1, 'dunked': 1, 'in': 1, 'lebron': 1, 'with': 1, 'lin': 1, 'last': 1, 'night': 1, 'hahahahhaa': 1, 'brentley': 1}
+Original text: Just remembered I'm taking the PSSAs tomorrow. #Fml
+Feature dictionary: {'just': 1, 'remembered': 1, 'i': 1, "'": 1, 'm': 1, 'taking': 1, 'the': 1, 'pssas': 1, 'tomorrow': 1, '.': 1, '#fml': 1}
+Original text: @Muccas Sylvia, I can't make Thursday evening I have an event to go to. Can do it Saturday if that's ok? #norestforthewicked
+Feature dictionary: {'@muccas': 1, 'sylvia': 1, ',': 1, 'i': 2, 'can': 2, "'": 2, 't': 1, 'make': 1, 'thursday': 1, 'evening': 1, 'have': 1, 'an': 1, 'event': 1, 'to': 2, 'go': 1, '.': 1, 'do': 1, 'it': 1, 'saturday': 1, 'if': 1, 'that': 1, 's': 1, 'ok': 1, '?': 1, '#norestforthewicked': 1}
+Original text: @HarrietOllerton Cant believe we didnt even take a trip to the beds today, PALEY saturday now me defo boooooo
+Feature dictionary: {'@harrietollerton': 1, 'cant': 1, 'believe': 1, 'we': 1, 'didnt': 1, 'even': 1, 'take': 1, 'a': 1, 'trip': 1, 'to': 1, 'the': 1, 'beds': 1, 'today': 1, ',': 1, 'paley': 1, 'saturday': 1, 'now': 1, 'me': 1, 'defo': 1, 'boooooo': 1}
+Original text: My Mrs was arrested 4 streaking at Crufts. The Judge gave her 2nd place for her puppies but said her Afghan could do with a trim !!!!
+Feature dictionary: {'my': 1, 'mrs': 1, 'was': 1, 'arrested': 1, '4': 1, 'streaking': 1, 'at': 1, 'crufts': 1, '.': 1, 'the': 1, 'judge': 1, 'gave': 1, 'her': 3, '2nd': 1, 'place': 1, 'for': 1, 'puppies': 1, 'but': 1, 'said': 1, 'afghan': 1, 'could': 1, 'do': 1, 'with': 1, 'a': 1, 'trim': 1, '!!!!': 1}
+Original text: It's only the 4th minute but Eden Hazard already knows he made the wrong decision, hehe #MUFC #BPLonFOX
+Feature dictionary: {'it': 1, "'": 1, 's': 1, 'only': 1, 'the': 2, '4th': 1, 'minute': 1, 'but': 1, 'eden': 1, 'hazard': 1, 'already': 1, 'knows': 1, 'he': 1, 'made': 1, 'wrong': 1, 'decision': 1, ',': 1, 'hehe': 1, '#mufc': 1, '#bplonfox': 1}
+Original text: Gutted I'm missing the cardigan match on Saturday! But more important things to do
+Feature dictionary: {'gutted': 1, 'i': 1, "'": 1, 'm': 1, 'missing': 1, 'the': 1, 'cardigan': 1, 'match': 1, 'on': 1, 'saturday': 1, '!': 1, 'but': 1, 'more': 1, 'important': 1, 'things': 1, 'to': 1, 'do': 1}
+Original text: And you say Derrick Rose isn't good because of the ACL but Dwight Howard is the 3rd best player in the league coming off major back surgery?
+Feature dictionary: {'and': 1, 'you': 1, 'say': 1, 'derrick': 1, 'rose': 1, 'isn': 1, "'": 1, 't': 1, 'good': 1, 'because': 1, 'of': 1, 'the': 3, 'acl': 1, 'but': 1, 'dwight': 1, 'howard': 1, 'is': 1, '3rd': 1, 'best': 1, 'player': 1, 'in': 1, 'league': 1, 'coming': 1, 'off': 1, 'major': 1, 'back': 1, 'surgery': 1, '?': 1}
+Original text: Doug Martin had an explosive FF week just like Vincent Jackson did last Sunday. of course, Martin is my opponent, so I am not as stoked.
+Feature dictionary: {'doug': 1, 'martin': 2, 'had': 1, 'an': 1, 'explosive': 1, 'ff': 1, 'week': 1, 'just': 1, 'like': 1, 'vincent': 1, 'jackson': 1, 'did': 1, 'last': 1, 'sunday': 1, '.': 2, 'of': 1, 'course': 1, ',': 2, 'is': 1, 'my': 1, 'opponent': 1, 'so': 1, 'i': 1, 'am': 1, 'not': 1, 'as': 1, 'stoked': 1}
+Original text: Carnival Tomorrow! Wanted to rest but I don't think I could resist the temptation !
+Feature dictionary: {'carnival': 1, 'tomorrow': 1, '!': 2, 'wanted': 1, 'to': 1, 'rest': 1, 'but': 1, 'i': 2, 'don': 1, "'": 1, 't': 1, 'think': 1, 'could': 1, 'resist': 1, 'the': 1, 'temptation': 1}
+Original text: I'm about to just tweak in make up HSPA tomorrow, these mofuckas failed me for English by TWO points.
+Feature dictionary: {'i': 1, "'": 1, 'm': 1, 'about': 1, 'to': 1, 'just': 1, 'tweak': 1, 'in': 1, 'make': 1, 'up': 1, 'hspa': 1, 'tomorrow': 1, ',': 1, 'these': 1, 'mofuckas': 1, 'failed': 1, 'me': 1, 'for': 1, 'english': 1, 'by': 1, 'two': 1, 'points': 1, '.': 1}
+Original text: Aus skipper Michael Clarke and fast bowler James Pattinson have been ruled out of Thursday's series- deciding final vs SL with injuries.
+Feature dictionary: {'aus': 1, 'skipper': 1, 'michael': 1, 'clarke': 1, 'and': 1, 'fast': 1, 'bowler': 1, 'james': 1, 'pattinson': 1, 'have': 1, 'been': 1, 'ruled': 1, 'out': 1, 'of': 1, 'thursday': 1, "'": 1, 's': 1, 'series-': 1, 'deciding': 1, 'final': 1, 'vs': 1, 'sl': 1, 'with': 1, 'injuries': 1, '.': 1}
+Original text: @nickelodeontv May you please show How To Rock from episode 1 and so on.....i cant blieve theres no more how to rock
+Feature dictionary: {'@nickelodeontv': 1, 'may': 1, 'you': 1, 'please': 1, 'show': 1, 'how': 2, 'to': 2, 'rock': 2, 'from': 1, 'episode': 1, '1': 1, 'and': 1, 'so': 1, 'on': 1, '.....': 1, 'i': 1, 'cant': 1, 'blieve': 1, 'theres': 1, 'no': 1, 'more': 1}
+Original text: Someone must not be too happy with the hired help in Sewickley: Sidney Crosby's image removed from #pens mobile app cover on Thursday. #nhl
+Feature dictionary: {'someone': 1, 'must': 1, 'not': 1, 'be': 1, 'too': 1, 'happy': 1, 'with': 1, 'the': 1, 'hired': 1, 'help': 1, 'in': 1, 'sewickley': 1, ':': 1, 'sidney': 1, 'crosby': 1, "'": 1, 's': 1, 'image': 1, 'removed': 1, 'from': 1, '#pens': 1, 'mobile': 1, 'app': 1, 'cover': 1, 'on': 1, 'thursday': 1, '.': 1, '#nhl': 1}
+Original text: Watching Les Mis 25th Anniversary concert. How long before the boy Jonas gives me rage, knowing Michael Ball was backstage?
+Feature dictionary: {'watching': 1, 'les': 1, 'mis': 1, '25th': 1, 'anniversary': 1, 'concert': 1, '.': 1, 'how': 1, 'long': 1, 'before': 1, 'the': 1, 'boy': 1, 'jonas': 1, 'gives': 1, 'me': 1, 'rage': 1, ',': 1, 'knowing': 1, 'michael': 1, 'ball': 1, 'was': 1, 'backstage': 1, '?': 1}
+Original text: Beer, xbox, Undertaker: The Streak DVD. Fuck you Saturday night.
+Feature dictionary: {'beer': 1, ',': 2, 'xbox': 1, 'undertaker': 1, ':': 1, 'the': 1, 'streak': 1, 'dvd': 1, '.': 2, 'fuck': 1, 'you': 1, 'saturday': 1, 'night': 1}
+Original text: Step 1: Put media-loving Petraeus in a job where he can't talk (much). Step 2: Absolutely crush him in 1st available controversy. Slick.
+Feature dictionary: {'step': 2, '1': 1, ':': 2, 'put': 1, 'media-loving': 1, 'petraeus': 1, 'in': 2, 'a': 1, 'job': 1, 'where': 1, 'he': 1, 'can': 1, "'": 1, 't': 1, 'talk': 1, '(': 1, 'much': 1, ').': 1, '2': 1, 'absolutely': 1, 'crush': 1, 'him': 1, '1st': 1, 'available': 1, 'controversy': 1, '.': 2, 'slick': 1}
+Original text: Trey Burke has been suspended for the Northern Michigan game (exhibition) tomorrow. http://t.co/oefkAElW
+Feature dictionary: {'trey': 1, 'burke': 1, 'has': 1, 'been': 1, 'suspended': 1, 'for': 1, 'the': 1, 'northern': 1, 'michigan': 1, 'game': 1, '(': 1, 'exhibition': 1, ')': 1, 'tomorrow': 1, '.': 2, 'http': 1, '://t': 1, 'co/oefkaelw': 1}
+Original text: I always thought Michael Dyer & Isiah Crowell would play a big game in Nov for a conference title. Just didn't know it would be the SWAC.
+Feature dictionary: {'i': 1, 'always': 1, 'thought': 1, 'michael': 1, 'dyer': 1, '&': 1, 'isiah': 1, 'crowell': 1, 'would': 2, 'play': 1, 'a': 2, 'big': 1, 'game': 1, 'in': 1, 'nov': 1, 'for': 1, 'conference': 1, 'title': 1, '.': 2, 'just': 1, 'didn': 1, "'": 1, 't': 1, 'know': 1, 'it': 1, 'be': 1, 'the': 1, 'swac': 1}
+Original text: Galaxy S II can be wiped by just clicking a link, other TouchWiz devices may also be vulnerable | Th http://t.co/YCezR0qp
+Feature dictionary: {'galaxy': 1, 's': 1, 'ii': 1, 'can': 1, 'be': 2, 'wiped': 1, 'by': 1, 'just': 1, 'clicking': 1, 'a': 1, 'link': 1, ',': 1, 'other': 1, 'touchwiz': 1, 'devices': 1, 'may': 1, 'also': 1, 'vulnerable': 1, '|': 1, 'th': 1, 'http': 1, '://t': 1, '.': 1, 'co/ycezr0qp': 1}
+Original text: @__Aniko you think mr.Calle let practice with you guys ,cause I don't have practice tomorrow ??..
+Feature dictionary: {'@__aniko': 1, 'you': 2, 'think': 1, 'mr': 1, '.': 1, 'calle': 1, 'let': 1, 'practice': 2, 'with': 1, 'guys': 1, ',': 1, 'cause': 1, 'i': 1, 'don': 1, "'": 1, 't': 1, 'have': 1, 'tomorrow': 1, '??..': 1}
+Original text: Jim Rogers is also responsible for laying off 1,900 N.C workers in a state that has the 5th highest unemployment rate in the U.S
+Feature dictionary: {'jim': 1, 'rogers': 1, 'is': 1, 'also': 1, 'responsible': 1, 'for': 1, 'laying': 1, 'off': 1, '1': 1, ',': 1, '900': 1, 'n': 1, '.': 2, 'c': 1, 'workers': 1, 'in': 2, 'a': 1, 'state': 1, 'that': 1, 'has': 1, 'the': 2, '5th': 1, 'highest': 1, 'unemployment': 1, 'rate': 1, 'u': 1, 's': 1}
+Original text: @JoeandEvan Ev, u went from 3rd in the east to not making the playoffs, Deron will miss 2-4 days of practice lol
+Feature dictionary: {'@joeandevan': 1, 'ev': 1, ',': 2, 'u': 1, 'went': 1, 'from': 1, '3rd': 1, 'in': 1, 'the': 2, 'east': 1, 'to': 1, 'not': 1, 'making': 1, 'playoffs': 1, 'deron': 1, 'will': 1, 'miss': 1, '2-4': 1, 'days': 1, 'of': 1, 'practice': 1, 'lol': 1}
+Original text: York football staff member has leaked that York's goal is to score 100 points against us and leave in 1st string for the whole game #True
+Feature dictionary: {'york': 2, 'football': 1, 'staff': 1, 'member': 1, 'has': 1, 'leaked': 1, 'that': 1, "'": 1, 's': 1, 'goal': 1, 'is': 1, 'to': 1, 'score': 1, '100': 1, 'points': 1, 'against': 1, 'us': 1, 'and': 1, 'leave': 1, 'in': 1, '1st': 1, 'string': 1, 'for': 1, 'the': 1, 'whole': 1, 'game': 1, '#true': 1}
+Original text: @NyPDCeltics_34 @NBA Our team is the most hated in the league. Did you see Lee and Terry's frustration Tuesday? Welcome to the CELTICS!
+Feature dictionary: {'@nypdceltics_34': 1, '@nba': 1, 'our': 1, 'team': 1, 'is': 1, 'the': 3, 'most': 1, 'hated': 1, 'in': 1, 'league': 1, '.': 1, 'did': 1, 'you': 1, 'see': 1, 'lee': 1, 'and': 1, 'terry': 1, "'": 1, 's': 1, 'frustration': 1, 'tuesday': 1, '?': 1, 'welcome': 1, 'to': 1, 'celtics': 1, '!': 1}
+Original text: sooo hard night... i must finish translation of  report about Great East Japan Earthquake by tomorrow p.m.12:00!!!
+Feature dictionary: {'sooo': 1, 'hard': 1, 'night': 1, '...': 1, 'i': 1, 'must': 1, 'finish': 1, 'translation': 1, 'of': 1, 'report': 1, 'about': 1, 'great': 1, 'east': 1, 'japan': 1, 'earthquake': 1, 'by': 1, 'tomorrow': 1, 'p': 1, '.': 2, 'm': 1, '12': 1, ':': 1, '00': 1, '!!!': 1}
+Original text: Sign of the times? BBC News - Encyclopaedia Britannica ends its famous print edition http://t.co/HSJHdFFa
+Feature dictionary: {'sign': 1, 'of': 1, 'the': 1, 'times': 1, '?': 1, 'bbc': 1, 'news': 1, '-': 1, 'encyclopaedia': 1, 'britannica': 1, 'ends': 1, 'its': 1, 'famous': 1, 'print': 1, 'edition': 1, 'http': 1, '://t': 1, '.': 1, 'co/hsjhdffa': 1}
+Original text: Wish me lucky on the Cahsee tomorrow I'm pretty nervous
+Feature dictionary: {'wish': 1, 'me': 1, 'lucky': 1, 'on': 1, 'the': 1, 'cahsee': 1, 'tomorrow': 1, 'i': 1, "'": 1, 'm': 1, 'pretty': 1, 'nervous': 1}
+Original text: Enough with the reality TV. One broadcaster had an original idea and dumped it. Terra Nova deserves a 2nd chance. Up for it?
+Feature dictionary: {'enough': 1, 'with': 1, 'the': 1, 'reality': 1, 'tv': 1, '.': 3, 'one': 1, 'broadcaster': 1, 'had': 1, 'an': 1, 'original': 1, 'idea': 1, 'and': 1, 'dumped': 1, 'it': 2, 'terra': 1, 'nova': 1, 'deserves': 1, 'a': 1, '2nd': 1, 'chance': 1, 'up': 1, 'for': 1, '?': 1}
+Original text: i'm so tight because i'm taking the HSPA tomorrow and am gonna miss some of my classes.
+Feature dictionary: {'i': 2, "'": 2, 'm': 2, 'so': 1, 'tight': 1, 'because': 1, 'taking': 1, 'the': 1, 'hspa': 1, 'tomorrow': 1, 'and': 1, 'am': 1, 'gonna': 1, 'miss': 1, 'some': 1, 'of': 1, 'my': 1, 'classes': 1, '.': 1}
+Original text: Michael Clarke and James Pattinson ruled out of tomorrow's third final. Big blow for the hosts. #CBSeries
+Feature dictionary: {'michael': 1, 'clarke': 1, 'and': 1, 'james': 1, 'pattinson': 1, 'ruled': 1, 'out': 1, 'of': 1, 'tomorrow': 1, "'": 1, 's': 1, 'third': 1, 'final': 1, '.': 2, 'big': 1, 'blow': 1, 'for': 1, 'the': 1, 'hosts': 1, '#cbseries': 1}
+Original text: @MorgaineYou When i saw the tsunami on March 11 on NHK, it put tears in my eyes!!!
+Feature dictionary: {'@morgaineyou': 1, 'when': 1, 'i': 1, 'saw': 1, 'the': 1, 'tsunami': 1, 'on': 2, 'march': 1, '11': 1, 'nhk': 1, ',': 1, 'it': 1, 'put': 1, 'tears': 1, 'in': 1, 'my': 1, 'eyes': 1, '!!!': 1}
+Original text: @SheStayMIA lux was super dry even with Lebron & Saturday I went to Cafe Asia, super lame!!! I'm getting too old for this shit
+Feature dictionary: {'@shestaymia': 1, 'lux': 1, 'was': 1, 'super': 2, 'dry': 1, 'even': 1, 'with': 1, 'lebron': 1, '&': 1, 'saturday': 1, 'i': 2, 'went': 1, 'to': 1, 'cafe': 1, 'asia': 1, ',': 1, 'lame': 1, '!!!': 1, "'": 1, 'm': 1, 'getting': 1, 'too': 1, 'old': 1, 'for': 1, 'this': 1, 'shit': 1}
+Original text: Wrap-up: Broncos 34, Saints 14:  Thoughts on the New Orleans Saints' 34-14 loss to the Denver Broncos on Sunday ... http://t.co/ZVMRPJh3
+Feature dictionary: {'wrap-up': 1, ':': 2, 'broncos': 2, '34': 1, ',': 1, 'saints': 2, '14': 1, 'thoughts': 1, 'on': 2, 'the': 2, 'new': 1, 'orleans': 1, "'": 1, '34-14': 1, 'loss': 1, 'to': 1, 'denver': 1, 'sunday': 1, '...': 1, 'http': 1, '://t': 1, '.': 1, 'co/zvmrpjh3': 1}
+Original text: November 1 & I'm off beer until St. Patrick's Day. I didn't think I would be hitting the bourbon on day 1 though. Rough day.
+Feature dictionary: {'november': 1, '1': 2, '&': 1, 'i': 3, "'": 3, 'm': 1, 'off': 1, 'beer': 1, 'until': 1, 'st': 1, '.': 4, 'patrick': 1, 's': 1, 'day': 3, 'didn': 1, 't': 1, 'think': 1, 'would': 1, 'be': 1, 'hitting': 1, 'the': 1, 'bourbon': 1, 'on': 1, 'though': 1, 'rough': 1}
+Original text: Deir Ezzor :: Colonel Mohammed Al-Abdullah, from the 4th Division, and the Lt. Recruit Feras Mohammed Al-Abdullah have defected #Syria Ne...
+Feature dictionary: {'deir': 1, 'ezzor': 1, '::': 1, 'colonel': 1, 'mohammed': 2, 'al-abdullah': 2, ',': 2, 'from': 1, 'the': 2, '4th': 1, 'division': 1, 'and': 1, 'lt': 1, '.': 1, 'recruit': 1, 'feras': 1, 'have': 1, 'defected': 1, '#syria': 1, 'ne': 1, '...': 1}
+Original text: @ProfOfGoonism September 22 is a Bastard Bearded Irishmen half way to St. Patty's Day party at Mulligan's. I'm going and Erika's going
+Feature dictionary: {'@profofgoonism': 1, 'september': 1, '22': 1, 'is': 1, 'a': 1, 'bastard': 1, 'bearded': 1, 'irishmen': 1, 'half': 1, 'way': 1, 'to': 1, 'st': 1, '.': 2, 'patty': 1, "'": 4, 's': 3, 'day': 1, 'party': 1, 'at': 1, 'mulligan': 1, 'i': 1, 'm': 1, 'going': 2, 'and': 1, 'erika': 1}
+Original text: @T_MoniqueXOXO They not for sports wit yo hatin ass lol I'm smart af. Yu just focus on friday and them practice Ogt's
+Feature dictionary: {'@t_moniquexoxo': 1, 'they': 1, 'not': 1, 'for': 1, 'sports': 1, 'wit': 1, 'yo': 1, 'hatin': 1, 'ass': 1, 'lol': 1, 'i': 1, "'": 2, 'm': 1, 'smart': 1, 'af': 1, '.': 1, 'yu': 1, 'just': 1, 'focus': 1, 'on': 1, 'friday': 1, 'and': 1, 'them': 1, 'practice': 1, 'ogt': 1, 's': 1}
+Original text: during 7th sense audio launch Ramcharan said it is our bad luck that  a director like ARM didn't born in AP!and it created a riot among TFI!
+Feature dictionary: {'during': 1, '7th': 1, 'sense': 1, 'audio': 1, 'launch': 1, 'ramcharan': 1, 'said': 1, 'it': 2, 'is': 1, 'our': 1, 'bad': 1, 'luck': 1, 'that': 1, 'a': 2, 'director': 1, 'like': 1, 'arm': 1, 'didn': 1, "'": 1, 't': 1, 'born': 1, 'in': 1, 'ap': 1, '!': 2, 'and': 1, 'created': 1, 'riot': 1, 'among': 1, 'tfi': 1}
+Original text: Aaaaahhhhh dam! I am out of my favorite Tea! Damit I have to wait until tomorrow to buy it now :(
+Feature dictionary: {'aaaaahhhhh': 1, 'dam': 1, '!': 2, 'i': 2, 'am': 1, 'out': 1, 'of': 1, 'my': 1, 'favorite': 1, 'tea': 1, 'damit': 1, 'have': 1, 'to': 2, 'wait': 1, 'until': 1, 'tomorrow': 1, 'buy': 1, 'it': 1, 'now': 1, ':(': 1}
+Original text: I haven't been able to enjoy tea since Tuesday. I just want to drink a cup without feeling as though I'll hurl.
+Feature dictionary: {'i': 3, 'haven': 1, "'": 2, 't': 1, 'been': 1, 'able': 1, 'to': 2, 'enjoy': 1, 'tea': 1, 'since': 1, 'tuesday': 1, '.': 2, 'just': 1, 'want': 1, 'drink': 1, 'a': 1, 'cup': 1, 'without': 1, 'feeling': 1, 'as': 1, 'though': 1, 'll': 1, 'hurl': 1}
+Original text: FCBarcelona captain, Carles Puyol will be out for two months after dislocating his elbow in the match against SLBenfica on tuesday. #fcblive
+Feature dictionary: {'fcbarcelona': 1, 'captain': 1, ',': 1, 'carles': 1, 'puyol': 1, 'will': 1, 'be': 1, 'out': 1, 'for': 1, 'two': 1, 'months': 1, 'after': 1, 'dislocating': 1, 'his': 1, 'elbow': 1, 'in': 1, 'the': 1, 'match': 1, 'against': 1, 'slbenfica': 1, 'on': 1, 'tuesday': 1, '.': 1, '#fcblive': 1}
+Original text: @Cheetoss_96 Ugly, are you taking the CAHSEE tomorrow?
+Feature dictionary: {'@cheetoss_96': 1, 'ugly': 1, ',': 1, 'are': 1, 'you': 1, 'taking': 1, 'the': 1, 'cahsee': 1, 'tomorrow': 1, '?': 1}
+Original text: i haven't hung out with deron since sunday, & i feel like i havent hung out with him in forever. #FootballBoyfriendProbz
+Feature dictionary: {'i': 3, 'haven': 1, "'": 1, 't': 1, 'hung': 2, 'out': 2, 'with': 2, 'deron': 1, 'since': 1, 'sunday': 1, ',': 1, '&': 1, 'feel': 1, 'like': 1, 'havent': 1, 'him': 1, 'in': 1, 'forever': 1, '.': 1, '#footballboyfriendprobz': 1}
+Original text: Mrs arrested 4 streaking @ Crufts. Judge gave her 2nd place with her puppies but said her Afghan could do with a trim
+Feature dictionary: {'mrs': 1, 'arrested': 1, '4': 1, 'streaking': 1, '@': 1, 'crufts': 1, '.': 1, 'judge': 1, 'gave': 1, 'her': 3, '2nd': 1, 'place': 1, 'with': 2, 'puppies': 1, 'but': 1, 'said': 1, 'afghan': 1, 'could': 1, 'do': 1, 'a': 1, 'trim': 1}
+Original text: SP to support UPA, but oppose anti-people policies: Samajwadi Party on Saturday said it will continue to oppose ... http://t.co/1aCzPHGX
+Feature dictionary: {'sp': 1, 'to': 2, 'support': 1, 'upa': 1, ',': 1, 'but': 1, 'oppose': 2, 'anti-people': 1, 'policies': 1, ':': 1, 'samajwadi': 1, 'party': 1, 'on': 1, 'saturday': 1, 'said': 1, 'it': 1, 'will': 1, 'continue': 1, '...': 1, 'http': 1, '://t': 1, '.': 1, 'co/1aczphgx': 1}
+Original text: Half naked & covered in baby spew! 3points for the Dons tomorrow though! #WeAreAllCammySmith #WeAreAllCammySmithRedArmyBanner
+Feature dictionary: {'half': 1, 'naked': 1, '&': 1, 'covered': 1, 'in': 1, 'baby': 1, 'spew': 1, '!': 2, '3points': 1, 'for': 1, 'the': 1, 'dons': 1, 'tomorrow': 1, 'though': 1, '#weareallcammysmith': 1, '#weareallcammysmithredarmybanner': 1}
+Original text: Or, you know, some version of it. In 4th grade, I was writing a novel called Prisoners of Radio City and @DisneyHyperion didn't exist yet!
+Feature dictionary: {'or': 1, ',': 3, 'you': 1, 'know': 1, 'some': 1, 'version': 1, 'of': 2, 'it': 1, '.': 1, 'in': 1, '4th': 1, 'grade': 1, 'i': 1, 'was': 1, 'writing': 1, 'a': 1, 'novel': 1, 'called': 1, 'prisoners': 1, 'radio': 1, 'city': 1, 'and': 1, '@disneyhyperion': 1, 'didn': 1, "'": 1, 't': 1, 'exist': 1, 'yet': 1, '!': 1}
+Original text: @Rock_Kendy but the 12th man is still the 'Lionel Messi' for the manc scums unfortunately
+Feature dictionary: {'@rock_kendy': 1, 'but': 1, 'the': 3, '12th': 1, 'man': 1, 'is': 1, 'still': 1, "'": 2, 'lionel': 1, 'messi': 1, 'for': 1, 'manc': 1, 'scums': 1, 'unfortunately': 1}
+Original text: olympics: David Owen: Why British Olympic sport may miss a man it should have made ... - http://t.co/AcP39H40 (bl... http://t.co/mfRgcI1e
+Feature dictionary: {'olympics': 1, ':': 2, 'david': 1, 'owen': 1, 'why': 1, 'british': 1, 'olympic': 1, 'sport': 1, 'may': 1, 'miss': 1, 'a': 1, 'man': 1, 'it': 1, 'should': 1, 'have': 1, 'made': 1, '...': 2, '-': 1, 'http': 2, '://t': 2, '.': 2, 'co/acp39h40': 1, '(': 1, 'bl': 1, 'co/mfrgci1e': 1}
+Original text: Gresh and Zo discussed the Celtics season opener loss to the Heat on Tuesday night.  Rajon http://t.co/sbo3Q3Kc
+Feature dictionary: {'gresh': 1, 'and': 1, 'zo': 1, 'discussed': 1, 'the': 2, 'celtics': 1, 'season': 1, 'opener': 1, 'loss': 1, 'to': 1, 'heat': 1, 'on': 1, 'tuesday': 1, 'night': 1, '.': 2, 'rajon': 1, 'http': 1, '://t': 1, 'co/sbo3q3kc': 1}
+Original text: Reagan gone need me tomorrow , she gone want some if my candy , but ima tell her Noo
+Feature dictionary: {'reagan': 1, 'gone': 2, 'need': 1, 'me': 1, 'tomorrow': 1, ',': 2, 'she': 1, 'want': 1, 'some': 1, 'if': 1, 'my': 1, 'candy': 1, 'but': 1, 'ima': 1, 'tell': 1, 'her': 1, 'noo': 1}
+Original text: MT @LccSy #Syria, Deir Ezzor | Marba'eh: Aerial shelling dropped explosive barrels on residential buildings in the town. Tue, 23 October.
+Feature dictionary: {'mt': 1, '@lccsy': 1, '#syria': 1, ',': 2, 'deir': 1, 'ezzor': 1, '|': 1, 'marba': 1, "'": 1, 'eh': 1, ':': 1, 'aerial': 1, 'shelling': 1, 'dropped': 1, 'explosive': 1, 'barrels': 1, 'on': 1, 'residential': 1, 'buildings': 1, 'in': 1, 'the': 1, 'town': 1, '.': 2, 'tue': 1, '23': 1, 'october': 1}
+Original text: @Cliffer_94 I din't take Nutella. Took Galaxy instead, but it's over. No man, NIT is fun. Coming in December :)
+Feature dictionary: {'@cliffer_94': 1, 'i': 1, 'din': 1, "'": 2, 't': 1, 'take': 1, 'nutella': 1, '.': 3, 'took': 1, 'galaxy': 1, 'instead': 1, ',': 2, 'but': 1, 'it': 1, 's': 1, 'over': 1, 'no': 1, 'man': 1, 'nit': 1, 'is': 1, 'fun': 1, 'coming': 1, 'in': 1, 'december': 1, ':)': 1}
+Original text: Really sad that I didn't go home for the #BofA500 tomorrow. I have faith that @kaseykahne will take another trip to Victory Lane #NASCAR
+Feature dictionary: {'really': 1, 'sad': 1, 'that': 2, 'i': 2, 'didn': 1, "'": 1, 't': 1, 'go': 1, 'home': 1, 'for': 1, 'the': 1, '#bofa500': 1, 'tomorrow': 1, '.': 1, 'have': 1, 'faith': 1, '@kaseykahne': 1, 'will': 1, 'take': 1, 'another': 1, 'trip': 1, 'to': 1, 'victory': 1, 'lane': 1, '#nascar': 1}
+Original text: I mean I have to take the OGT tomorrow so why not stay up all night?
+Feature dictionary: {'i': 2, 'mean': 1, 'have': 1, 'to': 1, 'take': 1, 'the': 1, 'ogt': 1, 'tomorrow': 1, 'so': 1, 'why': 1, 'not': 1, 'stay': 1, 'up': 1, 'all': 1, 'night': 1, '?': 1}
+Original text: Ahhhh the next few weekends are going to be messy! First off - this saturday: Powder Room at the Gladstone Hotel... http://t.co/C04KQKNr
+Feature dictionary: {'ahhhh': 1, 'the': 2, 'next': 1, 'few': 1, 'weekends': 1, 'are': 1, 'going': 1, 'to': 1, 'be': 1, 'messy': 1, '!': 1, 'first': 1, 'off': 1, '-': 1, 'this': 1, 'saturday': 1, ':': 1, 'powder': 1, 'room': 1, 'at': 1, 'gladstone': 1, 'hotel': 1, '...': 1, 'http': 1, '://t': 1, '.': 1, 'co/c04kqknr': 1}
+Original text: @Swish_KK32 and if ur amywhere near kansas state and dont come watch us play in the preseason NIT on nov. 12th im gonna fight u for that too
+Feature dictionary: {'@swish_kk32': 1, 'and': 2, 'if': 1, 'ur': 1, 'amywhere': 1, 'near': 1, 'kansas': 1, 'state': 1, 'dont': 1, 'come': 1, 'watch': 1, 'us': 1, 'play': 1, 'in': 1, 'the': 1, 'preseason': 1, 'nit': 1, 'on': 1, 'nov': 1, '.': 1, '12th': 1, 'im': 1, 'gonna': 1, 'fight': 1, 'u': 1, 'for': 1, 'that': 1, 'too': 1}
+Original text: Book Depository may be cheap but the inferior printing quality of some of their products is almost not worth it.
+Feature dictionary: {'book': 1, 'depository': 1, 'may': 1, 'be': 1, 'cheap': 1, 'but': 1, 'the': 1, 'inferior': 1, 'printing': 1, 'quality': 1, 'of': 2, 'some': 1, 'their': 1, 'products': 1, 'is': 1, 'almost': 1, 'not': 1, 'worth': 1, 'it': 1, '.': 1}
+Original text: Skinny jeans, tuck in tops with cardigan for tomorrow, but no heels for the whole week! My legs hurt like crazayyy!
+Feature dictionary: {'skinny': 1, 'jeans': 1, ',': 2, 'tuck': 1, 'in': 1, 'tops': 1, 'with': 1, 'cardigan': 1, 'for': 2, 'tomorrow': 1, 'but': 1, 'no': 1, 'heels': 1, 'the': 1, 'whole': 1, 'week': 1, '!': 2, 'my': 1, 'legs': 1, 'hurt': 1, 'like': 1, 'crazayyy': 1}
+Original text: KEPR: State DOT: Snoqualmie Pass lane closures may cause delays: If a trip over the Cascades via Interstate 90 is in... http://t.co/3eYXSug3
+Feature dictionary: {'kepr': 1, ':': 3, 'state': 1, 'dot': 1, 'snoqualmie': 1, 'pass': 1, 'lane': 1, 'closures': 1, 'may': 1, 'cause': 1, 'delays': 1, 'if': 1, 'a': 1, 'trip': 1, 'over': 1, 'the': 1, 'cascades': 1, 'via': 1, 'interstate': 1, '90': 1, 'is': 1, 'in': 1, '...': 1, 'http': 1, '://t': 1, '.': 1, 'co/3eyxsug3': 1}
+Original text: Prez will claim on Monday that he got Kony as well. #one termer #NotOptimal
+Feature dictionary: {'prez': 1, 'will': 1, 'claim': 1, 'on': 1, 'monday': 1, 'that': 1, 'he': 1, 'got': 1, 'kony': 1, 'as': 1, 'well': 1, '.': 1, '#one': 1, 'termer': 1, '#notoptimal': 1}
+Original text: I don't want Saturday to get here. But I'm ready to bomb #allregion in Hot Springs, sooo... Might as well get it over with.
+Feature dictionary: {'i': 2, 'don': 1, "'": 2, 't': 1, 'want': 1, 'saturday': 1, 'to': 2, 'get': 2, 'here': 1, '.': 2, 'but': 1, 'm': 1, 'ready': 1, 'bomb': 1, '#allregion': 1, 'in': 1, 'hot': 1, 'springs': 1, ',': 1, 'sooo': 1, '...': 1, 'might': 1, 'as': 1, 'well': 1, 'it': 1, 'over': 1, 'with': 1}
+Original text: I'm wearing my Kony 2012 shirt for the 1st time. I feel lame lmao :/
+Feature dictionary: {'i': 2, "'": 1, 'm': 1, 'wearing': 1, 'my': 1, 'kony': 1, '2012': 1, 'shirt': 1, 'for': 1, 'the': 1, '1st': 1, 'time': 1, '.': 1, 'feel': 1, 'lame': 1, 'lmao': 1, ':/': 1}
+Original text: @BrownhillsBob double lock the doors tonight. Mrs Bob's unconscious self may go wandering, Nekkid & angry. Not sure Brownhills is ready.
+Feature dictionary: {'@brownhillsbob': 1, 'double': 1, 'lock': 1, 'the': 1, 'doors': 1, 'tonight': 1, '.': 3, 'mrs': 1, 'bob': 1, "'": 1, 's': 1, 'unconscious': 1, 'self': 1, 'may': 1, 'go': 1, 'wandering': 1, ',': 1, 'nekkid': 1, '&': 1, 'angry': 1, 'not': 1, 'sure': 1, 'brownhills': 1, 'is': 1, 'ready': 1}
+Original text: Renewed fighting rocks Syria - An early morning explosion rocked the flashpoint city of Deir Ezzor on Saturday in an... http://t.co/dJq9UVQ4
+Feature dictionary: {'renewed': 1, 'fighting': 1, 'rocks': 1, 'syria': 1, '-': 1, 'an': 2, 'early': 1, 'morning': 1, 'explosion': 1, 'rocked': 1, 'the': 1, 'flashpoint': 1, 'city': 1, 'of': 1, 'deir': 1, 'ezzor': 1, 'on': 1, 'saturday': 1, 'in': 1, '...': 1, 'http': 1, '://t': 1, '.': 1, 'co/djq9uvq4': 1}
+Original text: Reminder - We will NOT be at the Eastern Market event for tomorrow night... Weather not cooperating ! See u Thursday in Farmington Hills !
+Feature dictionary: {'reminder': 1, '-': 1, 'we': 1, 'will': 1, 'not': 2, 'be': 1, 'at': 1, 'the': 1, 'eastern': 1, 'market': 1, 'event': 1, 'for': 1, 'tomorrow': 1, 'night': 1, '...': 1, 'weather': 1, 'cooperating': 1, '!': 2, 'see': 1, 'u': 1, 'thursday': 1, 'in': 1, 'farmington': 1, 'hills': 1}
+Original text: @mariam02 japan fukaoka tix will be released on 24 nov. Im doubtful that we can get the tix coz the VIPs will have priority.
+Feature dictionary: {'@mariam02': 1, 'japan': 1, 'fukaoka': 1, 'tix': 2, 'will': 2, 'be': 1, 'released': 1, 'on': 1, '24': 1, 'nov': 1, '.': 2, 'im': 1, 'doubtful': 1, 'that': 1, 'we': 1, 'can': 1, 'get': 1, 'the': 2, 'coz': 1, 'vips': 1, 'have': 1, 'priority': 1}
+Original text: AirAsia aborts deal to buy Indonesia's Batavia Air - Southeast Asia's top budget carrier AirAsia said Monday it has ... http://t.co/WLNFwyHS
+Feature dictionary: {'airasia': 2, 'aborts': 1, 'deal': 1, 'to': 1, 'buy': 1, 'indonesia': 1, "'": 2, 's': 2, 'batavia': 1, 'air': 1, '-': 1, 'southeast': 1, 'asia': 1, 'top': 1, 'budget': 1, 'carrier': 1, 'said': 1, 'monday': 1, 'it': 1, 'has': 1, '...': 1, 'http': 1, '://t': 1, '.': 1, 'co/wlnfwyhs': 1}
+Original text: FLASH: Senegal are disqualified from the 2013 Africa Cup of Nations after a riot forced Saturday's home tie with Ivory Coast to be abandoned
+Feature dictionary: {'flash': 1, ':': 1, 'senegal': 1, 'are': 1, 'disqualified': 1, 'from': 1, 'the': 1, '2013': 1, 'africa': 1, 'cup': 1, 'of': 1, 'nations': 1, 'after': 1, 'a': 1, 'riot': 1, 'forced': 1, 'saturday': 1, "'": 1, 's': 1, 'home': 1, 'tie': 1, 'with': 1, 'ivory': 1, 'coast': 1, 'to': 1, 'be': 1, 'abandoned': 1}
+Original text: @DJDannyF never listened to the 1st. hard to ignore the 2nd working at HMV! but like most things, just got overplayed. agree on the 3rd.
+Feature dictionary: {'@djdannyf': 1, 'never': 1, 'listened': 1, 'to': 2, 'the': 3, '1st': 1, '.': 3, 'hard': 1, 'ignore': 1, '2nd': 1, 'working': 1, 'at': 1, 'hmv': 1, '!': 1, 'but': 1, 'like': 1, 'most': 1, 'things': 1, ',': 1, 'just': 1, 'got': 1, 'overplayed': 1, 'agree': 1, 'on': 1, '3rd': 1}
+Original text: I'm gonna be failing dat HST test tomorrow, Zoe better put her paper where I can see it! #pleaseandthankyou @zoe_estabrook @Tbovea @hrometz
+Feature dictionary: {'i': 2, "'": 1, 'm': 1, 'gonna': 1, 'be': 1, 'failing': 1, 'dat': 1, 'hst': 1, 'test': 1, 'tomorrow': 1, ',': 1, 'zoe': 1, 'better': 1, 'put': 1, 'her': 1, 'paper': 1, 'where': 1, 'can': 1, 'see': 1, 'it': 1, '!': 1, '#pleaseandthankyou': 1, '@zoe_estabrook': 1, '@tbovea': 1, '@hrometz': 1}
+Original text: In tears after watching that Dance Academy episode for the 2nd time
+Feature dictionary: {'in': 1, 'tears': 1, 'after': 1, 'watching': 1, 'that': 1, 'dance': 1, 'academy': 1, 'episode': 1, 'for': 1, 'the': 1, '2nd': 1, 'time': 1}
+Original text: Trey Burke suspended for the men's basketball team's exhibition game tomorrow: http://t.co/1h7V8vSC
+Feature dictionary: {'trey': 1, 'burke': 1, 'suspended': 1, 'for': 1, 'the': 1, 'men': 1, "'": 2, 's': 2, 'basketball': 1, 'team': 1, 'exhibition': 1, 'game': 1, 'tomorrow': 1, ':': 1, 'http': 1, '://t': 1, '.': 1, 'co/1h7v8vsc': 1}
